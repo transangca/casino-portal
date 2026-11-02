@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-02T11:18:12.601Z",
+  "generated": "2026-11-02T11:41:39.907Z",
   "baseUrl": "http://127.0.0.1:8000",
-  "total": 49,
+  "total": 57,
   "pages": [
     {
       "idx": 1,
@@ -16,7 +16,7 @@
     {
       "idx": 3,
       "file": "03-chi-tiet-game.png",
-      "url": "/games/pgsoft-mahjong-ways"
+      "url": "/games/crypto-gold"
     },
     {
       "idx": 4,
@@ -35,98 +35,98 @@
     },
     {
       "idx": 7,
-      "file": "07-dich-vu.png",
-      "url": "/services"
-    },
-    {
-      "idx": 8,
-      "file": "08-cong-cu-tien-ich.png",
+      "file": "07-cong-cu-tien-ich.png",
       "url": "/tools"
     },
     {
-      "idx": 9,
-      "file": "09-dien-dan.png",
+      "idx": 8,
+      "file": "08-dien-dan.png",
       "url": "/services/forum"
     },
     {
-      "idx": 10,
-      "file": "10-xem-phim.png",
+      "idx": 9,
+      "file": "09-xem-phim.png",
       "url": "/services/media"
     },
     {
-      "idx": 11,
-      "file": "11-tao-cv.png",
+      "idx": 10,
+      "file": "10-tao-cv.png",
       "url": "/services/cv"
     },
     {
-      "idx": 12,
-      "file": "12-thiet-ke-anh.png",
+      "idx": 11,
+      "file": "11-thiet-ke-anh.png",
       "url": "/services/design"
     },
     {
-      "idx": 13,
-      "file": "13-tao-website.png",
+      "idx": 12,
+      "file": "12-tao-website.png",
       "url": "/services/website-builder"
     },
     {
-      "idx": 14,
-      "file": "14-kho-proxy.png",
+      "idx": 13,
+      "file": "13-kho-proxy.png",
       "url": "/services/proxy"
     },
     {
-      "idx": 15,
-      "file": "15-vps-vmware.png",
+      "idx": 14,
+      "file": "14-vps-vmware.png",
       "url": "/services/vps"
     },
     {
-      "idx": 16,
-      "file": "16-vps-storevps.png",
+      "idx": 15,
+      "file": "15-vps-storevps.png",
       "url": "/services/vps-storevps"
     },
     {
-      "idx": 17,
-      "file": "17-mua-domain-hosting.png",
+      "idx": 16,
+      "file": "16-mua-domain-hosting.png",
       "url": "/services/infra"
     },
     {
-      "idx": 18,
-      "file": "18-pos-ke-toan.png",
+      "idx": 17,
+      "file": "17-pos-ke-toan.png",
       "url": "/services/pos"
     },
     {
-      "idx": 19,
-      "file": "19-tra-cuu-ngan-hang.png",
+      "idx": 18,
+      "file": "18-tra-cuu-ngan-hang.png",
       "url": "/services/bank-lookup"
     },
     {
-      "idx": 20,
-      "file": "20-api-docs.png",
+      "idx": 19,
+      "file": "19-api-docs.png",
       "url": "/api/docs"
     },
     {
-      "idx": 21,
-      "file": "21-api-spec.png",
+      "idx": 20,
+      "file": "20-api-spec.png",
       "url": "/api/spec"
     },
     {
-      "idx": 22,
-      "file": "22-dang-nhap.png",
+      "idx": 21,
+      "file": "21-dang-nhap.png",
       "url": "/login"
     },
     {
-      "idx": 23,
-      "file": "23-dang-ky.png",
+      "idx": 22,
+      "file": "22-dang-ky.png",
       "url": "/register"
     },
     {
-      "idx": 24,
-      "file": "24-tin-tuc.png",
+      "idx": 23,
+      "file": "23-tin-tuc.png",
       "url": "/news"
     },
     {
-      "idx": 25,
-      "file": "25-vip-tiers.png",
+      "idx": 24,
+      "file": "24-vip-tiers.png",
       "url": "/packages"
+    },
+    {
+      "idx": 25,
+      "file": "25-thu-vien.png",
+      "url": "/market"
     },
     {
       "idx": 26,
@@ -225,8 +225,8 @@
     },
     {
       "idx": 45,
-      "file": "45-admin-banners.png",
-      "url": "/admin/banners"
+      "file": "45-admin-ads.png",
+      "url": "/admin/ads"
     },
     {
       "idx": 46,
@@ -240,13 +240,53 @@
     },
     {
       "idx": 48,
-      "file": "48-admin-accounting.png",
-      "url": "/admin/accounting"
+      "file": "48-admin-security.png",
+      "url": "/admin/security"
     },
     {
       "idx": 49,
-      "file": "49-admin-security.png",
-      "url": "/admin/security"
+      "file": "49-admin-service-prices.png",
+      "url": "/admin/service-prices"
+    },
+    {
+      "idx": 50,
+      "file": "50-admin-service-overview.png",
+      "url": "/admin/service-overview"
+    },
+    {
+      "idx": 51,
+      "file": "51-admin-phone-checks.png",
+      "url": "/admin/phone-checks"
+    },
+    {
+      "idx": 52,
+      "file": "52-admin-site-jobs.png",
+      "url": "/admin/site-jobs"
+    },
+    {
+      "idx": 53,
+      "file": "53-admin-sms-campaigns.png",
+      "url": "/admin/sms-campaigns"
+    },
+    {
+      "idx": 54,
+      "file": "54-admin-campaigns.png",
+      "url": "/admin/campaigns"
+    },
+    {
+      "idx": 55,
+      "file": "55-admin-giftcodes.png",
+      "url": "/admin/giftcodes"
+    },
+    {
+      "idx": 56,
+      "file": "56-admin-market.png",
+      "url": "/admin/market"
+    },
+    {
+      "idx": 57,
+      "file": "57-admin-accounting.png",
+      "url": "/services/accounting"
     }
   ]
 }
