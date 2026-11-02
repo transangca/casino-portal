@@ -27,6 +27,8 @@ storage/site-clone/
 storage/ui-scraper/
 storage/views_backup/
 *.html
+!docs/index.html
+!docs/screenshots/index.json
 *.tmp
 
 # ===== Uploads nguoi dung =====

@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Casino Portal — Portfolio Demo</title>
+<meta name="description" content="Casino Portal — nền tảng PHP MVC tổng hợp sảnh game & dịch vụ số. 190+ route, 131 bảng CSDL, 12+ API đối tác.">
+<style>
+  :root{--bg:#0b0f1a;--bg2:#121829;--card:#161d2e;--line:#243049;--tx:#e6ecf7;--mut:#8fa0bd;--gold:#f5b544;--acc:#5b8cff}
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{background:var(--bg);color:var(--tx);font-family:'Segoe UI',system-ui,-apple-system,sans-serif;line-height:1.65}
+  a{color:var(--acc);text-decoration:none}
+  .wrap{max-width:1240px;margin:0 auto;padding:0 20px}
+  header{padding:70px 0 50px;text-align:center;background:radial-gradient(900px 380px at 50% -10%,rgba(91,140,255,.18),transparent)}
+  .badge{display:inline-block;padding:6px 16px;border:1px solid var(--line);border-radius:99px;font-size:13px;color:var(--mut);margin-bottom:18px}
+  h1{font-size:clamp(30px,5vw,52px);line-height:1.15;font-weight:800;letter-spacing:-.5px}
+  h1 span{background:linear-gradient(90deg,var(--gold),#ffd98a);-webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent}
+  .lead{color:var(--mut);max-width:680px;margin:18px auto 0;font-size:17px}
+  .cta{display:flex;gap:12px;justify-content:center;flex-wrap:wrap;margin-top:30px}
+  .btn{padding:12px 26px;border-radius:10px;font-weight:600;transition:.2s;display:inline-block}
+  .btn-p{background:var(--gold);color:#1a1204}
+  .btn-p:hover{transform:translateY(-2px);box-shadow:0 8px 24px rgba(245,181,68,.28)}
+  .btn-s{border:1px solid var(--line);color:var(--tx)}
+  .btn-s:hover{border-color:var(--acc);background:rgba(91,140,255,.1)}
+  section{padding:58px 0;border-top:1px solid var(--line)}
+  h2{font-size:30px;margin-bottom:8px;font-weight:800}
+  .sub{color:var(--mut);margin-bottom:32px}
+  .grid{display:grid;gap:16px;grid-template-columns:repeat(auto-fill,minmax(250px,1fr))}
+  .card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:20px}
+  .card h3{font-size:17px;margin-bottom:6px}
+  .card p{color:var(--mut);font-size:14px}
+  .shot{background:var(--card);border:1px solid var(--line);border-radius:14px;overflow:hidden;transition:.25s}
+  .shot:hover{transform:translateY(-4px);border-color:var(--acc);box-shadow:0 14px 34px rgba(0,0,0,.45)}
+  .shot img{width:100%;display:block;aspect-ratio:16/10;object-fit:cover;object-position:top}
+  .shot .cap{padding:12px 14px;font-size:14px;font-weight:600}
+  .shot .cap small{display:block;color:var(--mut);font-weight:400;font-size:12px;margin-top:2px}
+  table{width:100%;border-collapse:collapse;font-size:15px}
+  td{padding:11px 12px;border-bottom:1px solid var(--line)}
+  td:first-child{color:var(--mut);width:42%}
+  .stats{display:grid;gap:14px;grid-template-columns:repeat(auto-fit,minmax(140px,1fr))}
+  .stat{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:20px;text-align:center}
+  .stat b{display:block;font-size:30px;color:var(--gold);line-height:1.2}
+  .stat small{color:var(--mut);font-size:13px}
+  footer{padding:40px 0;text-align:center;color:var(--mut);border-top:1px solid var(--line);font-size:14px}
+  code{background:var(--bg2);padding:2px 7px;border-radius:5px;font-size:13px;color:var(--gold)}
+  .filter{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:22px}
+  .filter button{background:var(--card);border:1px solid var(--line);color:var(--mut);padding:8px 16px;border-radius:99px;cursor:pointer;font-size:14px;font-weight:500}
+  .filter button.on{background:var(--gold);color:#1a1204;border-color:var(--gold)}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="wrap">
+    <div class="badge">PHP MVC · 190+ Route · 131 bảng CSDL · 12+ API đối tác</div>
+    <h1>Casino Portal<br><span>Nền tảng tổng hợp sảnh game & dịch vụ số</span></h1>
+    <p class="lead">
+      Kiến trúc PHP MVC tự thân (không framework) — sảnh game đồng bộ ví 2 chiều qua Operator API
+      chuẩn Seamless Wallet, 39 dịch vụ số, trang quản trị 30+ module và public API có tài liệu OpenAPI.
+    </p>
+    <div class="cta">
+      <a class="btn btn-p" href="https://github.com/transangca/casino-portal" target="_blank">★ Xem trên GitHub</a>
+      <a class="btn btn-s" href="https://github.com/transangca/casino-portal/tree/main/docs/screenshots" target="_blank">📸 Toàn bộ ảnh chụp màn hình</a>
+      <a class="btn btn-s" href="https://github.com/transangca/casino-portal/blob/main/docs/DEPLOY.md" target="_blank">📖 Hướng dẫn deploy</a>
+    </div>
+  </div>
+</header>
+
+<section>
+  <div class="wrap">
+    <h2>Quy mô dự án</h2>
+    <p class="sub">Những con số tổng hợp toàn bộ codebase</p>
+    <div class="stats">
+      <div class="stat"><b>276</b><small>file PHP</small></div>
+      <div class="stat"><b>40+</b><small>Controller</small></div>
+      <div class="stat"><b>56</b><small>Service</small></div>
+      <div class="stat"><b>131</b><small>bảng CSDL</small></div>
+      <div class="stat"><b>190+</b><small>route</small></div>
+      <div class="stat"><b>851</b><small>hình ảnh</small></div>
+      <div class="stat"><b>27</b><small>test script</small></div>
+      <div class="stat"><b>18</b><small>migration</small></div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <h2>Tính năng chính</h2>
+    <p class="sub">Những phần đã được hoàn thiện và chạy thực tế</p>
+    <div class="grid">
+      <div class="card"><h3>🎮 Sảnh game đồng bộ ví</h3><p>Adapter đa sảnh (PG SOFT, JILI, CQ9, Pragmatic, Deno Casino) + Operator API chuẩn Seamless Wallet: verifySession, wallet/get, wallet/change, game/info.</p></div>
+      <div class="card"><h3>🏦 Tài chính & ví</h3><p>Ví điện tử 2 chiều, nạp VietQR + thẻ cào, rút 24/7, Auto Bank tự động quét giao dịch, sàn P2P có dispute.</p></div>
+      <div class="card"><h3>🤖 12+ API đối tác</h3><p>HeyBank, GenzShop, ViOTP, AutoBank, TrungTamMMO (Auto MXH + SMM), XVPS (VMware + Virtualizor), TMDB — tất cả đều proxy qua key riêng user.</p></div>
+      <div class="card"><h3>📊 Trang quản trị</h3><p>Dashboard, nạp/rút, game, user, CSO, ticket, tin tức, banner, website con, chiến dịch email/SMS, bảng giá, check SĐT, cấu hình hệ thống.</p></div>
+      <div class="card"><h3>🛠 Công cụ sáng tạo</h3><p>Tạo CV có avatar, thiết kế ảnh AI, tạo website A-Z, copy 1-1 web, đục UI/UX casino, POS & phần mềm kế toán MISA-style.</p></div>
+      <div class="card"><h3>🛡 Bảo mật đa lớp</h3><p>CSRF, prepared statement, bcrypt, RBAC 5 vai trò, 2FA TOTP, IP blacklist, rate limit, audit log, chặn truy cập trực tiếp app/ config/ database/.</p></div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <h2>Ảnh chụp màn hình</h2>
+    <p class="sub">Chụp tự động bằng Chrome headless + CDP (<code>tools/capture-screenshots.js</code>)</p>
+    <div class="filter" id="filter">
+      <button class="on" data-f="all">Tất cả</button>
+      <button data-f="guest">Trang khách</button>
+      <button data-f="admin">Quản trị</button>
+    </div>
+    <div class="grid" id="shots"></div>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <h2>Operator API — chuẩn Seamless Wallet</h2>
+    <p class="sub">Game server gọi trực tiếp vào hệ thống</p>
+    <table>
+      <tr><td><code>POST /operator/api/verifySession</code></td><td>Xác thực phiên chơi</td></tr>
+      <tr><td><code>POST /operator/api/wallet/get</code></td><td>Lấy số dư người chơi</td></tr>
+      <tr><td><code>POST /operator/api/wallet/change</code></td><td>Trừ/cộng số dư (cược & thắng)</td></tr>
+      <tr><td><code>POST /operator/api/game/info</code></td><td>Thông tin game</td></tr>
+      <tr><td><code>GET  /operator/api/game/list</code></td><td>Danh sách game</td></tr>
+    </table>
+    <p class="sub" style="margin-top:22px">
+      Kèm alias tương thích PG SOFT: <code>Cash/Get</code>, <code>Cash/Change</code>,
+      <code>wallet/balance</code>, <code>balance</code>, <code>transaction</code>, <code>bet</code>, <code>win</code>.
+    </p>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <h2>Công nghệ</h2>
+    <p class="sub">Stack kỹ thuật của dự án</p>
+    <div class="grid">
+      <div class="card"><h3>Backend</h3><p>PHP 8.2 · PDO singleton · MySQL 8 · Router tự viết · 131 bảng · 18 migration idempotent</p></div>
+      <div class="card"><h3>Frontend</h3><p>Bootstrap 5.3 · GSAP 3 + ScrollTrigger · Lottie · Font Awesome 6 · 10 file font · 851 ảnh</p></div>
+      <div class="card"><h3>DevOps</h3><p>Nginx + PHP-FPM · Git · GitHub Actions (Pages) · Chrome headless CDP để chụp ảnh tự động</p></div>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">
+    <p>© 2026 <strong>transangca</strong> — MIT License</p>
+    <p style="margin-top:8px">
+      <a href="https://github.com/transangca/casino-portal" target="_blank">GitHub</a> ·
+      <a href="https://github.com/transangca/casino-portal/blob/main/README.md" target="_blank">README</a> ·
+      <a href="https://github.com/transangca/casino-portal/blob/main/docs/DEPLOY.md" target="_blank">Deploy</a>
+    </p>
+  </div>
+</footer>
+
+<script>
+const SHOTS = [
+  ['01-trang-chu','Trang chủ','Showcase PG SOFT 1:1 — 9 section, GSAP + Lottie','guest'],
+  ['02-kho-game','Kho game','374 game từ 30+ nhà phát hành','guest'],
+  ['03-chi-tiet-game','Chi tiết game','Trang game + nút mở game','guest'],
+  ['05-sanh-pgsoft','Sảnh PG SOFT','Game đồng bộ tự động từ sảnh chính thức','guest'],
+  ['06-sanh-deno-casino','Deno Casino','Baccarat · Dragon Tiger · Sicbo · Marble','guest'],
+  ['07-cong-cu-tien-ich','Công cụ tiện ích','Hash · JSON · Password · UUID · Whois · SEO','guest'],
+  ['08-dien-dan','Diễn đàn','Diễn đàn cộng đồng','guest'],
+  ['09-xem-phim','Kho phim','Tích hợp TMDB API','guest'],
+  ['10-tao-cv','Tạo CV','Chọn mẫu · nhập thông tin · thêm avatar','guest'],
+  ['11-thiet-ke-anh','Thiết kế AI','Tạo ảnh từ prompt','guest'],
+  ['12-tao-website','Tạo website A-Z','Tự động dựng site hoàn chỉnh','guest'],
+  ['13-kho-proxy','Kho proxy','Đăng ký / mua proxy kèm voucher','guest'],
+  ['14-vps-vmware','VPS VMware','Quản lý máy chủ ảo qua XVPS Agency API','guest'],
+  ['16-mua-domain-hosting','Domain / Hosting','Mua hạ tầng cho website','guest'],
+  ['17-pos-ke-toan','POS & Kế toán','Sổ sách · báo cáo · hóa đơn','guest'],
+  ['18-tra-cuu-ngan-hang','Tra cứu VietQR','Tra cứu tài khoản ngân hàng','guest'],
+  ['19-api-docs','Tài liệu API','Tài liệu API đối tác','guest'],
+  ['22-dang-ky','Đăng ký','Có mã giới thiệu','guest'],
+  ['24-vip-tiers','VIP 60 cấp','Gói chơi & chương trình VIP','guest'],
+  ['26-admin-dashboard','Admin Dashboard','Tổng quan hoạt động hệ thống','admin'],
+  ['27-admin-users','Quản lý người dùng','Phân quyền · chỉnh số dư','admin'],
+  ['28-admin-games','Quản lý game','Bật/tắt · đồng bộ game','admin'],
+  ['29-admin-deposits','Duyệt nạp tiền','Duyệt / từ chối giao dịch','admin'],
+  ['32-admin-banks','Ngân hàng VietQR','Cấu hình ngân hàng nhận tiền','admin'],
+  ['33-admin-virtual-bank','Bank ảo','Quản lý tài khoản ngân hàng ảo','admin'],
+  ['34-admin-ai-accounts','Tài khoản AI','Đồng bộ & bán tài khoản (GenzShop)','admin'],
+  ['36-admin-otp','Thuê số OTP','Quản lý kho số ViOTP','admin'],
+  ['37-admin-auto-bank','Auto Bank','Cấu hình cổng thanh toán tự động','admin'],
+  ['38-admin-automxh','Auto MXH','Mở khoá tài khoản MXH','admin'],
+  ['39-admin-smm','SMM','Like / view / comment / share','admin'],
+  ['40-admin-vps','VPS VMware','Quản lý & đồng bộ VPS','admin'],
+  ['42-admin-cso','CSO / Đại lý','Hệ thống đại lý & hoa hồng','admin'],
+  ['43-admin-tickets','Hỗ trợ','Xử lý ticket khách hàng','admin'],
+  ['47-admin-settings','Cấu hình hệ thống','Toàn bộ setting vận hành','admin'],
+  ['49-admin-service-prices','Bảng giá dịch vụ','Quản lý giá dịch vụ','admin'],
+  ['52-admin-site-jobs','Dự án website','Job tự động tạo website','admin'],
+  ['57-admin-accounting','Kế toán','Fullscreen MISA-style','admin'],
+];
+const grid = document.getElementById('shots');
+function render(f){
+  grid.innerHTML = '';
+  SHOTS.filter(s => f==='all' || s[3]===f).forEach(s=>{
+    grid.insertAdjacentHTML('beforeend',
+      '<a class="shot" href="screenshots/'+s[0]+'.png" target="_blank">'+
+        '<img src="screenshots/'+s[0]+'.png" alt="'+s[1]+'" loading="lazy">'+
+        '<div class="cap">'+s[1]+'<small>'+s[2]+'</small></div>'+
+      '</a>');
+  });
+}
+render('all');
+document.getElementById('filter').addEventListener('click', e=>{
+  const b = e.target.closest('button'); if(!b) return;
+  document.querySelectorAll('#filter button').forEach(x=>x.classList.remove('on'));
+  b.classList.add('on'); render(b.dataset.f);
+});
+</script>
+</body>
+</html>
