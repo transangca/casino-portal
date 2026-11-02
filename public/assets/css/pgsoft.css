@@ -1,0 +1,487 @@
+/* =====================================================================
+   PG SOFT SHOWCASE — dựng 1:1 theo pgsoft.com
+   ---------------------------------------------------------------
+   - pgsoft-official.css : toàn bộ stylesheet gốc từ bundle Nuxt pgsoft.com
+     (đã loại bỏ phần code JS của webpack bị lẫn vào)
+   - File này: @font-face, import official, và các rule bổ sung cho
+     phần gallery (nền tối) + trạng thái active do JS kích hoạt.
+   ===================================================================== */
+
+/* ---------- 1. Stylesheet gốc của PG SOFT ---------- */
+@import url('pgsoft-official.css');
+
+/* ---------- 2. Font chính thức ---------- */
+@font-face {
+    font-family: 'din_condensedbold';
+    src: url('../fonts/din_condensed_bold-webfont.9e48280.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'pgweb_sloganregular';
+    src: url('../fonts/PG_Web_Slogan-Regular.62d3c83.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kanit-Medium';
+    src: url('../fonts/Kanit-Medium.1c8732b.woff2') format('woff2');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* ---------- 3. Wrapper ---------- */
+.pg-showcase {
+    --pg-accent: #c9922a;
+    position: relative;
+    width: 100%;
+    padding: 0;
+    /* dùng clip thay vì hidden để không phá vỡ position:sticky bên trong */
+    overflow-x: clip;
+    background: #fff;
+}
+
+/* ---------- 4. SLOGAN (hero) ---------- */
+.pg-showcase .pg-slogan {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    min-height: 560px;
+    overflow: hidden;
+    background:
+        radial-gradient(900px 520px at 50% 30%, rgba(0, 168, 226, .35), transparent 65%),
+        radial-gradient(700px 420px at 18% 78%, rgba(255, 45, 85, .22), transparent 62%),
+        linear-gradient(180deg, #06101f 0%, #0b1b30 55%, #05101d 100%);
+}
+
+.pg-showcase .pg-slogan .slogancover {
+    z-index: 3;
+}
+
+.pg-showcase .pg-slogan .slogancover > .slogantitle {
+    text-align: center;
+    font-size: clamp(34px, 7vw, 100px);
+    line-height: 1.02;
+    text-shadow: 0 6px 30px rgba(0, 0, 0, .45);
+}
+
+/* ---------- 5. DATA ---------- */
+.pg-showcase .pg-data {
+    background: #fff;
+}
+
+/* mask + nền trắng phải nằm SAU nội dung để quả địa cầu lộ ra */
+.pg-showcase .pg-data > .mask,
+.pg-showcase .pg-data > .bg {
+    z-index: 0;
+}
+
+.pg-showcase .pg-data > .data-cover {
+    position: relative;
+    z-index: 1;
+}
+
+.pg-showcase .pg-data .data-content {
+    padding: 0 25px;
+}
+
+.pg-showcase .pg-data .data-content .description-section {
+    margin: 0 auto 50px;
+}
+
+.pg-showcase .pg-data .mask {
+    pointer-events: none;
+}
+
+/* ---------- 6. FEATURES (sticky scroll) ---------- */
+.pg-showcase .pg-features {
+    padding: 120px 0 0;
+    /* overflow:hidden của bản gốc sẽ phá vỡ position:sticky → dùng clip */
+    overflow-x: clip;
+    overflow-y: visible;
+}
+
+.pg-showcase .pg-features .features-scrollarea {
+    height: 1000vh;
+}
+
+.pg-showcase .pg-features .scrollcover {
+    position: sticky;
+    top: 0;
+    height: 100vh;
+    overflow: hidden;
+}
+
+.pg-showcase .pg-features .sticky-container {
+    position: relative !important;
+    top: 0;
+    height: 100vh;
+}
+
+/* ---------- 7. LICENSING ---------- */
+.pg-showcase .pg-licensing {
+    min-height: 100vh;
+}
+
+.pg-showcase .pg-licensing > .pglicensing-cover .char .main {
+    display: block;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    z-index: 1;
+    opacity: 0;
+    transform: translateY(160px);
+    transition: all .6s ease;
+}
+
+.pg-showcase .pg-licensing > .pglicensing-cover .char .main img {
+    display: block;
+    width: 100%;
+}
+
+.pg-showcase .pg-licensing > .pglicensing-cover .char .paper1,
+.pg-showcase .pg-licensing > .pglicensing-cover .char .paper2,
+.pg-showcase .pg-licensing > .pglicensing-cover .char .paper3,
+.pg-showcase .pg-licensing > .pglicensing-cover .char .paper4 {
+    opacity: 0;
+    transition: all .6s ease;
+}
+
+.pg-showcase .pg-licensing > .pglicensing-cover .char .paper1 { transform: translateY(160px); }
+.pg-showcase .pg-licensing > .pglicensing-cover .char .paper2 { transform: translateY(160px); }
+.pg-showcase .pg-licensing > .pglicensing-cover .char .paper3 { transform: translateY(140px); }
+.pg-showcase .pg-licensing > .pglicensing-cover .char .paper4 { transform: translateY(140px); }
+
+.pg-showcase .pg-licensing > .pglicensing-cover .license,
+.pg-showcase .pg-licensing > .pglicensing-cover .certificate {
+    opacity: 0;
+    transform: translateY(120px);
+    transition: all .8s ease;
+}
+
+.pg-showcase .pg-licensing > .pglicensing-cover.active .char .main {
+    opacity: 1;
+    transform: translateY(0);
+    transition-delay: 0s;
+}
+
+.pg-showcase .pg-licensing > .pglicensing-cover.active .char .paper1 { opacity: 1; transform: translateY(0); transition-delay: .2s; }
+.pg-showcase .pg-licensing > .pglicensing-cover.active .char .paper2 { opacity: 1; transform: translateY(0); transition-delay: .3s; }
+.pg-showcase .pg-licensing > .pglicensing-cover.active .char .paper3 { opacity: 1; transform: translateY(0); transition-delay: .4s; }
+.pg-showcase .pg-licensing > .pglicensing-cover.active .char .paper4 { opacity: 1; transform: translateY(0); transition-delay: .5s; }
+
+.pg-showcase .pg-licensing > .pglicensing-cover.active .license    { opacity: 1; transform: translateY(0); transition-delay: .1s; }
+.pg-showcase .pg-licensing > .pglicensing-cover.active .certificate { opacity: 1; transform: translateY(0); transition-delay: .2s; }
+
+/* Giấy tờ bay nhẹ (giống bản gốc) */
+.pg-showcase .pg-licensing .char .paper1 img { animation: pgPaperFloat1 6s ease-in-out infinite; }
+.pg-showcase .pg-licensing .char .paper2 img { animation: pgPaperFloat2 7s ease-in-out infinite; }
+.pg-showcase .pg-licensing .char .paper3 img { animation: pgPaperFloat3 6.5s ease-in-out infinite; }
+.pg-showcase .pg-licensing .char .paper4 img { animation: pgPaperFloat4 7.5s ease-in-out infinite; }
+
+@keyframes pgPaperFloat1 { 0%,100% { transform: translateY(0) rotate(0deg); } 50% { transform: translateY(-10px) rotate(-4deg); } }
+@keyframes pgPaperFloat2 { 0%,100% { transform: translateY(0) rotate(0deg); } 50% { transform: translateY(-8px) rotate(5deg); } }
+@keyframes pgPaperFloat3 { 0%,100% { transform: translateY(0) rotate(0deg); } 50% { transform: translateY(-11px) rotate(4deg); } }
+@keyframes pgPaperFloat4 { 0%,100% { transform: translateY(0) rotate(0deg); } 50% { transform: translateY(-7px) rotate(-5deg); } }
+
+/* ---------- 8. BACK OFFICE ---------- */
+.pg-showcase .pg-backoffice {
+    padding-bottom: 340px;
+}
+
+.pg-showcase .pg-backoffice .backoffice-content {
+    padding: 0 25px;
+}
+
+.pg-showcase .pg-backoffice .bg {
+    pointer-events: none;
+}
+
+/* ---------- 9. ABOUT ---------- */
+.pg-showcase .pg-about {
+    padding: 120px 0;
+}
+
+.pg-showcase .pg-about .about-content {
+    text-align: center;
+}
+
+.pg-showcase .pg-about .about-content > h1 {
+    text-transform: uppercase;
+}
+
+.pg-showcase .pg-about .about-content > p {
+    display: inline-block;
+    text-align: left;
+}
+
+.pg-showcase .pg-about .about-list {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.pg-showcase .pg-about .about-list > .list-box {
+    float: none;
+}
+
+/* ---------- 10. PARTNER ---------- */
+.pg-showcase .pg-partner .partner-content {
+    text-align: center;
+}
+
+.pg-showcase .pg-partner .partner-content .d-desc {
+    margin: 0 auto;
+}
+
+.pg-showcase .pg-partner .partner-logo > div > img {
+    max-height: 46px;
+    max-width: 70%;
+    width: auto;
+    height: auto;
+    object-fit: contain;
+}
+
+/* Logo đối tác dạng cuộn ngang cho mobile */
+.pg-showcase .pg-partner .partner-logo-scroll {
+    display: none;
+}
+
+/* Section trắng của PG SOFT nằm trên nền casino tối → ép nền trắng cho các rule nền sáng */
+.pg-showcase .pg-features,
+.pg-showcase .pg-licensing,
+.pg-showcase .pg-about,
+.pg-showcase .pg-partner,
+.pg-showcase .pg-vision,
+.pg-showcase .pg-backoffice,
+.pg-showcase .pg-data {
+    color: #000;
+}
+
+/* ---------- 11. VISION ---------- */
+.pg-showcase .pg-vision {
+    padding: 120px 0 80px;
+}
+
+.pg-showcase .pg-vision .vision-content {
+    text-align: center;
+}
+
+.pg-showcase .pg-vision .vision-content .d-desc {
+    margin: 0 auto;
+}
+
+/* =====================================================================
+   GALLERY GAME PG SOFT — nền tối đồng bộ với giao diện casino
+   ===================================================================== */
+.pg-gallery {
+    padding: 76px 0 84px;
+    background:
+        radial-gradient(900px 460px at 15% 0%, rgba(201, 146, 42, .07), transparent 60%),
+        var(--casino-bg-2, #0e1020);
+}
+
+.pg-gallery .section-head {
+    margin-bottom: 1.2rem;
+}
+
+.pg-gallery-scroll {
+    position: relative;
+    display: flex;
+    align-items: center;
+    gap: .5rem;
+}
+
+.pg-gallery-track {
+    display: flex;
+    gap: 14px;
+    overflow-x: auto;
+    scroll-behavior: smooth;
+    padding: .5rem .2rem 1rem;
+    scrollbar-width: thin;
+    flex: 1;
+}
+
+.pg-gallery-track::-webkit-scrollbar { height: 6px; }
+.pg-gallery-track::-webkit-scrollbar-track { background: var(--casino-card-2, #0e1120); border-radius: 99px; }
+.pg-gallery-track::-webkit-scrollbar-thumb { background: var(--casino-gold, #c9922a); border-radius: 99px; }
+
+.pg-gal-card {
+    flex: 0 0 148px;
+    text-decoration: none;
+    color: inherit;
+}
+
+.pg-gal-thumb {
+    position: relative;
+    aspect-ratio: 1 / 1;
+    border-radius: 14px;
+    overflow: hidden;
+    background: var(--casino-card-2, #0e1120);
+    border: 1px solid var(--casino-line-soft, rgba(255, 255, 255, .06));
+    transition: transform .25s ease, box-shadow .25s ease, border-color .25s ease;
+}
+
+.pg-gal-thumb img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+    transition: transform .4s ease;
+}
+
+.pg-gal-card:hover .pg-gal-thumb {
+    transform: translateY(-5px);
+    border-color: var(--casino-gold, #c9922a);
+    box-shadow: 0 14px 32px rgba(0, 0, 0, .28);
+}
+
+.pg-gal-card:hover .pg-gal-thumb img { transform: scale(1.08); }
+
+.pg-gal-play {
+    position: absolute;
+    inset: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgba(10, 10, 18, .48);
+    color: #fff;
+    font-size: 1.5rem;
+    opacity: 0;
+    transition: opacity .25s ease;
+}
+
+.pg-gal-card:hover .pg-gal-play { opacity: 1; }
+
+.pg-gal-name {
+    display: -webkit-box;
+    margin-top: .45rem;
+    font-size: .78rem;
+    font-weight: 600;
+    line-height: 1.35;
+    color: var(--casino-text-soft, #c3c9db);
+    text-align: center;
+    overflow: hidden;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+}
+
+.pg-gal-nav {
+    flex: 0 0 38px;
+    width: 38px;
+    height: 38px;
+    border-radius: 50%;
+    border: 1px solid var(--casino-line, rgba(255, 255, 255, .09));
+    background: var(--casino-card, #151830);
+    color: var(--casino-text-soft, #c3c9db);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: all .25s ease;
+    z-index: 2;
+}
+
+.pg-gal-nav:hover {
+    background: var(--casino-gold, #c9922a);
+    border-color: var(--casino-gold, #c9922a);
+    color: #14100a;
+}
+
+/* ---------- Thống kê ---------- */
+.pg-stats {
+    display: flex;
+    justify-content: center;
+    gap: 2.6rem;
+    margin-top: 1.4rem;
+    flex-wrap: wrap;
+}
+
+.pg-stat { text-align: center; }
+
+.pg-stat b {
+    display: block;
+    font-size: 1.5rem;
+    font-weight: 800;
+    color: var(--casino-gold, #c9922a);
+    line-height: 1.2;
+}
+
+.pg-stat span {
+    display: block;
+    font-size: .78rem;
+    letter-spacing: .04em;
+    text-transform: uppercase;
+    color: var(--casino-text-soft, #c3c9db);
+}
+
+/* =====================================================================
+   RESPONSIVE bổ sung
+   ===================================================================== */
+@media (max-width: 1199px) {
+    .pg-showcase .pg-about .about-list > .list-box { width: 50%; }
+}
+
+@media (max-width: 991px) {
+    .pg-showcase .pg-features .features-scrollarea { height: 620vh; }
+    .pg-showcase .pg-features .scrollcover { position: relative; height: auto; overflow: visible; }
+    .pg-showcase .pg-features .sticky-container { height: auto; position: relative !important; }
+    .pg-showcase .pg-features .sticky-container .container-content {
+        position: relative;
+        width: 100%;
+        left: auto;
+        top: auto;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .pg-showcase .pg-features .sticky-container .container-content .video {
+        float: none;
+        width: 100%;
+        max-width: 450px;
+        height: 550px;
+    }
+    .pg-showcase .pg-features .sticky-container .container-content .step {
+        position: relative;
+        width: 100%;
+        max-width: 470px;
+        top: auto;
+        right: auto;
+        margin-top: 24px;
+    }
+    .pg-showcase .pg-features .sticky-container .icon-list,
+    .pg-showcase .pg-features .sticky-container > .text-list {
+        position: relative;
+        width: 100%;
+        left: auto;
+        top: auto;
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        gap: 10px;
+    }
+    .pg-showcase .pg-features .sticky-container .icon-list { height: auto; margin-top: 20px; }
+    .pg-showcase .pg-features .sticky-container > .text-list { margin-bottom: 20px; }
+    .pg-showcase .pg-features .sticky-container .socialicon { display: none; }
+
+    .pg-showcase .pg-backoffice { padding-bottom: 220px; }
+}
+
+@media (max-width: 767px) {
+    .pg-showcase .pg-about { padding: 80px 0; }
+    .pg-showcase .pg-about .about-list > .list-box { width: 100%; height: 320px; }
+    .pg-showcase .pg-about .about-list > .list-box > .box-cover { padding: 30px; }
+    .pg-showcase .pg-about .about-list > .list-box > .box-cover > h1 { font-size: 28px; line-height: 34px; }
+    .pg-showcase .pg-backoffice { padding-bottom: 180px; }
+}
+
+@media (max-width: 575px) {
+    .pg-showcase .pg-features .features-scrollarea { height: 520vh; }
+    .pg-showcase .pg-gallery { padding: 54px 0 60px; }
+    .pg-stats { gap: 1.4rem; }
+}

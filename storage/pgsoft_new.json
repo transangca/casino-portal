@@ -1,0 +1,58 @@
+{
+    "127": {
+        "game_id": "127",
+        "name": "Speed Winner",
+        "icon": "https:\/\/dsuown9evwz4y.cloudfront.net\/Images\/providers\/PGSOFT\/PGSOFT_127.jpg",
+        "embed_url": "https:\/\/m.pg-demo.com\/127\/index.html",
+        "game_type": "slot",
+        "icon_ok": true
+    },
+    "128": {
+        "game_id": "128",
+        "name": "Legend of Perseus",
+        "icon": "https:\/\/dsuown9evwz4y.cloudfront.net\/Images\/providers\/PGSOFT\/PGSOFT_128.jpg",
+        "embed_url": "https:\/\/m.pg-demo.com\/128\/index.html",
+        "game_type": "slot",
+        "icon_ok": true
+    },
+    "129": {
+        "game_id": "129",
+        "name": "Win Win Fish Prawn Crab",
+        "icon": "https:\/\/dsuown9evwz4y.cloudfront.net\/Images\/providers\/PGSOFT\/PGSOFT_129.jpg",
+        "embed_url": "https:\/\/m.pg-demo.com\/129\/index.html",
+        "game_type": "slot",
+        "icon_ok": true
+    },
+    "130": {
+        "game_id": "130",
+        "name": "Lucky Piggy",
+        "icon": "https:\/\/dsuown9evwz4y.cloudfront.net\/Images\/providers\/PGSOFT\/PGSOFT_130.jpg",
+        "embed_url": "https:\/\/m.pg-demo.com\/130\/index.html",
+        "game_type": "slot",
+        "icon_ok": true
+    },
+    "132": {
+        "game_id": "132",
+        "name": "Wild Coaster",
+        "icon": "https:\/\/dsuown9evwz4y.cloudfront.net\/Images\/providers\/PGSOFT\/PGSOFT_132.jpg",
+        "embed_url": "https:\/\/m.pg-demo.com\/132\/index.html",
+        "game_type": "slot",
+        "icon_ok": true
+    },
+    "135": {
+        "game_id": "135",
+        "name": "Wild Bounty Showdown",
+        "icon": "https:\/\/dsuown9evwz4y.cloudfront.net\/Images\/providers\/PGSOFT\/PGSOFT_135.jpg",
+        "embed_url": "https:\/\/m.pg-demo.com\/135\/index.html",
+        "game_type": "slot",
+        "icon_ok": true
+    },
+    "138": {
+        "game_id": "138",
+        "name": "Hawaiian Tiki",
+        "icon": "https:\/\/dsuown9evwz4y.cloudfront.net\/Images\/providers\/PGSOFT\/PGSOFT_138.jpg",
+        "embed_url": "https:\/\/m.pg-demo.com\/138\/index.html",
+        "game_type": "slot",
+        "icon_ok": false
+    }
+}

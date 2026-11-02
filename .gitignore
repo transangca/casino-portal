@@ -1,0 +1,51 @@
+# ===== OS / Editor =====
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# ===== Environment (KHONG push - chua thong tin bi mat) =====
+.env
+.env.local
+.env.prod
+*.env
+
+# ===== Logs =====
+storage/logs/*
+!storage/logs/.gitkeep
+*.log
+
+# ===== Cache / Tam =====
+storage/cache/*
+!storage/cache/.gitkeep
+storage/uploads/*
+!storage/uploads/.gitkeep
+storage/backups/*
+!storage/backups/.gitkeep
+storage/site-clone/
+storage/ui-scraper/
+storage/views_backup/
+*.html
+*.tmp
+
+# ===== Uploads nguoi dung =====
+public/uploads/*
+!public/uploads/.gitkeep
+public/uploads/cv/
+
+# ===== Dependency =====
+vendor/
+node_modules/
+composer.lock
+
+# ===== Test / Debug =====
+tests/_*.php
+*.bak
+*.old
+*.orig
+*.log
+
+# ===== OS =====
+Thumbs.db
+desktop.ini

@@ -1,0 +1,1153 @@
+/* =====================================================================
+   UI OVERHAUL — lớp giao diện dùng chung cho toàn site
+   1. Form controls: chữ luôn đọc được (nền tối, chữ sáng)
+   2. Brand logo chips / 3D badges
+   3. Banner carousel
+   4. Lưới dịch vụ theo danh mục + sub-service drawer
+   5. 2FA layout
+   6. Nạp tiền / nạp thẻ cào
+   7. Tài liệu API
+   ===================================================================== */
+
+/* =====================================================================
+   1. FORM CONTROLS — chống "trắng trên trắng"
+   ===================================================================== */
+:root {
+    --ui-input-bg:        rgba(255, 255, 255, .06);
+    --ui-input-bg-hover:  rgba(255, 255, 255, .09);
+    --ui-input-border:    rgba(255, 255, 255, .16);
+    --ui-input-border-hl: rgba(245, 197, 66, .55);
+    --ui-input-text:      #f4f2ee;
+    --ui-input-ph:        #9a92a8;
+}
+
+/* Áp dụng cho MỌI ô nhập, không chỉ .form-control */
+input:not([type="checkbox"]):not([type="radio"]):not([type="range"]):not([type="color"]),
+select,
+textarea {
+    background-color: var(--ui-input-bg) !important;
+    color: var(--ui-input-text) !important;
+    border: 1px solid var(--ui-input-border) !important;
+    caret-color: var(--casino-gold, #f5c542);
+    transition: border-color .16s ease, background-color .16s ease, box-shadow .16s ease;
+}
+
+/* Chừa chỗ cho icon nội dung của Bootstrap */
+input:not([type="checkbox"]):not([type="radio"]):not([type="range"]):not([type="color"]),
+select,
+textarea {
+    min-height: 42px;
+}
+textarea { min-height: 110px; line-height: 1.6; }
+
+input::placeholder,
+textarea::placeholder {
+    color: var(--ui-input-ph) !important;
+    opacity: 1 !important;
+}
+
+input:hover:not([type="checkbox"]):not([type="radio"]):not([disabled]),
+select:hover:not([disabled]),
+textarea:hover:not([disabled]) {
+    background-color: var(--ui-input-bg-hover) !important;
+    border-color: rgba(255, 255, 255, .26) !important;
+}
+
+input:focus,
+select:focus,
+textarea:focus {
+    background-color: var(--ui-input-bg-hover) !important;
+    color: var(--ui-input-text) !important;
+    border-color: var(--ui-input-border-hl) !important;
+    box-shadow: 0 0 0 .18rem rgba(245, 197, 66, .16) !important;
+    outline: none !important;
+}
+
+input:disabled,
+select:disabled,
+textarea:disabled {
+    background-color: rgba(255, 255, 255, .03) !important;
+    color: #8d8699 !important;
+    opacity: .75;
+    cursor: not-allowed;
+}
+
+input[readonly] {
+    background-color: rgba(255, 255, 255, .04) !important;
+    color: var(--casino-text-soft, #d8d2e4) !important;
+}
+
+/* Select: option trong dropdown luôn nền tối chữ sáng */
+select option,
+select optgroup {
+    background-color: #14111f !important;
+    color: #f4f2ee !important;
+}
+[data-theme="light"] select option,
+[data-theme="light"] select optgroup {
+    background-color: #ffffff !important;
+    color: #1b1d29 !important;
+}
+@media (prefers-color-scheme: light) {
+    [data-theme="system"] select option,
+    [data-theme="system"] select optgroup {
+        background-color: #ffffff !important;
+        color: #1b1d29 !important;
+    }
+}
+
+/* Mũi tên select tự vẽ cho rõ */
+select.form-select,
+select {
+    appearance: none;
+    -webkit-appearance: none;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Cpath fill='%23f5c542' d='M4.5 6.5 8 10l3.5-3.5z'/%3E%3C/svg%3E") !important;
+    background-repeat: no-repeat !important;
+    background-position: right .6rem center !important;
+    background-size: 16px 16px !important;
+    padding-right: 2.1rem !important;
+}
+[data-theme="light"] select { background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Cpath fill='%23c9922a' d='M4.5 6.5 8 10l3.5-3.5z'/%3E%3C/svg%3E") !important; }
+
+/* Input nhóm (số tiền + "đ") */
+.input-group-text {
+    background-color: rgba(255, 255, 255, .08) !important;
+    border: 1px solid var(--ui-input-border) !important;
+    color: var(--casino-text-soft, #d8d2e4) !important;
+    font-weight: 600;
+}
+.input-group > .form-control,
+.input-group > .form-select,
+.input-group > .input-group-text { border-radius: 0 !important; }
+.input-group > :first-child { border-top-left-radius: .6rem !important; border-bottom-left-radius: .6rem !important; }
+.input-group > :last-child  { border-top-right-radius: .6rem !important; border-bottom-right-radius: .6rem !important; }
+
+/* Checkbox / radio */
+.form-check-input {
+    background-color: rgba(255, 255, 255, .1) !important;
+    border-color: var(--ui-input-border) !important;
+    width: 1.05em; height: 1.05em;
+}
+.form-check-input:checked { background-color: var(--casino-gold, #f5c542) !important; border-color: var(--casino-gold, #f5c542) !important; }
+.form-check-label { color: var(--casino-text-soft, #d8d2e4) !important; }
+
+/* Nhãn + gợi ý */
+.form-label { color: var(--casino-text-soft, #d8d2e4) !important; }
+.form-hint  { color: var(--casino-muted, #9a92a8) !important; }
+
+/* Theme sáng: nền trắng chữ tối */
+[data-theme="light"] {
+    --ui-input-bg:        #ffffff;
+    --ui-input-bg-hover:  #f7f8fc;
+    --ui-input-border:    rgba(27, 29, 41, .18);
+    --ui-input-border-hl: rgba(201, 146, 42, .65);
+    --ui-input-text:      #1b1d29;
+    --ui-input-ph:        #6b7185;
+}
+[data-theme="light"] input-group-text { background-color: #f1f3f9 !important; border-color: var(--ui-input-border) !important; color: #3c4054 !important; }
+@media (prefers-color-scheme: light) {
+    [data-theme="system"] {
+        --ui-input-bg:        #ffffff;
+        --ui-input-bg-hover:  #f7f8fc;
+        --ui-input-border:    rgba(27, 29, 41, .18);
+        --ui-input-border-hl: rgba(201, 146, 42, .65);
+        --ui-input-text:      #1b1d29;
+        --ui-input-ph:        #6b7185;
+    }
+    [data-theme="system"] .input-group-text { background-color: #f1f3f9 !important; border-color: var(--ui-input-border) !important; color: #3c4054 !important; }
+}
+
+/* =====================================================================
+   2. BRAND LOGOS — chip logo 3D
+   ===================================================================== */
+.brand-logo {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    display: block;
+}
+.brand-chip {
+    display: inline-flex;
+    align-items: center;
+    gap: .55rem;
+    padding: .5rem .85rem .5rem .5rem;
+    border-radius: .8rem;
+    background: linear-gradient(145deg, rgba(255, 255, 255, .07), rgba(255, 255, 255, .02));
+    border: 1px solid var(--casino-line-soft);
+    text-decoration: none;
+    color: var(--casino-text-soft);
+    transition: border-color .18s ease, transform .18s ease, background .18s ease;
+}
+.brand-chip:hover {
+    border-color: var(--casino-gold);
+    transform: translateY(-2px);
+    color: var(--casino-text);
+}
+.brand-chip .brand-badge {
+    width: 36px; height: 36px;
+    flex: 0 0 36px;
+    border-radius: .65rem;
+    display: flex; align-items: center; justify-content: center;
+    background: rgba(255, 255, 255, .1);
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, .18), 0 3px 8px rgba(0, 0, 0, .35);
+    overflow: hidden;
+}
+.brand-chip .brand-badge img { width: 24px; height: 24px; object-fit: contain; }
+.brand-chip .brand-name { font-size: .84rem; font-weight: 600; line-height: 1.25; }
+.brand-chip .brand-sub  { font-size: .7rem; color: var(--casino-muted); }
+
+/* Icon 3D trong card dịch vụ */
+.brand-icon {
+    width: 52px; height: 52px;
+    flex: 0 0 52px;
+    border-radius: 1rem;
+    display: flex; align-items: center; justify-content: center;
+    background: linear-gradient(145deg, rgba(255, 255, 255, .14), rgba(255, 255, 255, .04));
+    border: 1px solid rgba(255, 255, 255, .14);
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, .22), 0 6px 16px rgba(0, 0, 0, .4);
+    overflow: hidden;
+}
+.brand-icon img { width: 32px; height: 32px; object-fit: contain; }
+.brand-icon-lg { width: 64px; height: 64px; flex-basis: 64px; border-radius: 1.2rem; }
+.brand-icon-lg img { width: 40px; height: 40px; }
+
+/* Logo trên nền sáng cần nền riêng */
+[data-theme="light"] .brand-icon,
+[data-theme="light"] .brand-chip .brand-badge { background: rgba(27, 29, 41, .05); }
+@media (prefers-color-scheme: light) {
+    [data-theme="system"] .brand-icon,
+    [data-theme="system"] .brand-chip .brand-badge { background: rgba(27, 29, 41, .05); }
+}
+
+/* Lưới danh mục thương hiệu (logo 3D) */
+.brand-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(118px, 1fr));
+    gap: .6rem;
+}
+.brand-card {
+    display: flex; flex-direction: column; align-items: center; gap: .45rem;
+    padding: .8rem .5rem;
+    border-radius: .9rem;
+    border: 1px solid var(--casino-line-soft);
+    background: linear-gradient(160deg, rgba(255, 255, 255, .05), rgba(255, 255, 255, .01));
+    text-decoration: none;
+    color: var(--casino-text-soft);
+    text-align: center;
+    transition: border-color .18s ease, transform .18s ease, box-shadow .18s ease;
+}
+.brand-card:hover {
+    border-color: var(--casino-gold);
+    transform: translateY(-3px);
+    box-shadow: 0 10px 24px rgba(0, 0, 0, .32);
+    color: var(--casino-text);
+}
+.brand-card .brand-icon {
+    width: 46px; height: 46px; flex: 0 0 46px;
+    border-radius: .9rem;
+}
+.brand-card .brand-icon img { width: 28px; height: 28px; }
+.brand-card .brand-name {
+    font-size: .8rem; font-weight: 700; line-height: 1.25;
+    max-width: 100%; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+}
+.brand-card .brand-sub { font-size: .68rem; color: var(--casino-muted); }
+
+/* Logo trong pill / icon nhỏ */
+.otp-pill span.otp-pill-logo {
+    width: 24px; height: 24px; flex: 0 0 24px;
+    display: inline-flex; align-items: center; justify-content: center;
+}
+.otp-icon img, .aic-icon img { width: 26px; height: 26px; object-fit: contain; }
+.otp-icon:has(img), .aic-icon:has(img) { background: rgba(255, 255, 255, .08); }
+
+/* =====================================================================
+   3. BANNER CAROUSEL — gom quảng cáo + promo thành 1 khối trượt
+   ===================================================================== */
+.promo-carousel {
+    position: relative;
+    border-radius: 1.2rem;
+    overflow: hidden;
+    border: 1px solid var(--casino-line);
+    background: var(--casino-card);
+    box-shadow: 0 18px 44px rgba(0, 0, 0, .4);
+}
+.promo-carousel .carousel-inner { border-radius: 1.2rem; }
+.promo-slide {
+    position: relative;
+    display: flex;
+    align-items: center;
+    gap: 1.25rem;
+    min-height: 190px;
+    padding: 1.5rem 1.75rem;
+    background:
+        radial-gradient(700px 300px at 88% 10%, rgba(245, 197, 66, .14), transparent 62%),
+        linear-gradient(120deg, var(--casino-card-2), var(--casino-card));
+}
+.promo-slide .promo-copy { position: relative; z-index: 2; min-width: 0; }
+.promo-slide .promo-title {
+    font-size: 1.28rem; font-weight: 800; line-height: 1.25;
+    margin-bottom: .35rem; color: var(--casino-text);
+}
+.promo-slide .promo-text {
+    font-size: .88rem; color: var(--casino-muted); margin-bottom: .85rem;
+    max-width: 560px;
+}
+.promo-slide .promo-media {
+    margin-left: auto;
+    flex: 0 0 auto;
+    width: 210px; height: 132px;
+    border-radius: .9rem;
+    overflow: hidden;
+    background: rgba(255, 255, 255, .04);
+    display: flex; align-items: center; justify-content: center;
+}
+.promo-slide .promo-media img { width: 100%; height: 100%; object-fit: cover; }
+.promo-slide .promo-badge {
+    display: inline-flex; align-items: center; gap: .35rem;
+    font-size: .68rem; font-weight: 800; letter-spacing: .5px; text-transform: uppercase;
+    padding: .28rem .6rem; border-radius: 999px;
+    background: rgba(245, 197, 66, .16); color: var(--casino-gold);
+    border: 1px solid rgba(245, 197, 66, .3);
+    margin-bottom: .6rem;
+}
+.promo-carousel .carousel-control-prev,
+.promo-carousel .carousel-control-next {
+    width: 44px; height: 44px;
+    top: 50%; bottom: auto; transform: translateY(-50%);
+    border-radius: 50%;
+    background: rgba(10, 9, 16, .62);
+    border: 1px solid rgba(255, 255, 255, .14);
+    backdrop-filter: blur(6px);
+    opacity: 1;
+}
+.promo-carousel .carousel-control-prev { left: .75rem; }
+.promo-carousel .carousel-control-next { right: .75rem; }
+.promo-carousel .carousel-control-prev:hover,
+.promo-carousel .carousel-control-next:hover { background: rgba(245, 197, 66, .85); }
+.promo-carousel .carousel-control-prev-icon,
+.promo-carousel .carousel-control-next-icon { width: 1.1rem; height: 1.1rem; }
+.promo-carousel .carousel-indicators {
+    margin-bottom: .85rem;
+    gap: .35rem;
+}
+.promo-carousel .carousel-indicators [data-bs-target] {
+    width: 26px; height: 4px; border-radius: 999px;
+    background: rgba(255, 255, 255, .28); border: 0; opacity: 1;
+}
+.promo-carousel .carousel-indicators .active { background: var(--casino-gold); }
+
+/* Slide dạng ảnh quảng cáo thuần */
+.promo-slide.is-image { padding: 0; min-height: 210px; }
+.promo-slide.is-image .promo-media { width: 100%; height: auto; margin: 0; border-radius: 0; }
+.promo-slide.is-image .promo-media img { width: 100%; height: 210px; object-fit: cover; }
+
+@media (max-width: 767.98px) {
+    .promo-slide { flex-direction: column; align-items: flex-start; min-height: 0; padding: 1.1rem 1.2rem; }
+    .promo-slide .promo-media { width: 100%; height: 120px; margin-left: 0; }
+    .promo-slide .promo-title { font-size: 1.05rem; }
+}
+
+/* =====================================================================
+   4. LƯỚI DỊCH VỤ THEO DANH MỤC + DRAWER SUB-SERVICE
+   ===================================================================== */
+.svc-category {
+    margin-bottom: 2.25rem;
+}
+.svc-category-head {
+    display: flex; align-items: center; gap: .7rem;
+    margin-bottom: 1rem;
+}
+.svc-category-head .svc-cat-icon {
+    width: 40px; height: 40px; flex: 0 0 40px;
+    border-radius: .8rem;
+    display: flex; align-items: center; justify-content: center;
+    background: linear-gradient(145deg, rgba(245, 197, 66, .2), rgba(245, 197, 66, .05));
+    border: 1px solid rgba(245, 197, 66, .28);
+    color: var(--casino-gold);
+}
+.svc-category-head h3 {
+    font-size: 1.08rem; font-weight: 800; margin: 0;
+    line-height: 1.2;
+}
+.svc-category-head .svc-cat-count {
+    font-size: .72rem; color: var(--casino-muted);
+    margin-left: auto;
+}
+
+.svc-card {
+    display: flex; flex-direction: column;
+    height: 100%;
+    padding: 1.05rem;
+    border-radius: 1rem;
+    background: var(--casino-card);
+    border: 1px solid var(--casino-line);
+    text-decoration: none;
+    color: inherit;
+    transition: border-color .18s ease, transform .18s ease, box-shadow .18s ease;
+}
+.svc-card:hover {
+    border-color: var(--casino-gold);
+    transform: translateY(-3px);
+    box-shadow: 0 14px 32px rgba(0, 0, 0, .32);
+    color: inherit;
+}
+.svc-card .svc-card-title { font-size: .95rem; font-weight: 700; line-height: 1.3; }
+.svc-card .svc-card-desc {
+    font-size: .78rem; color: var(--casino-muted);
+    margin-top: .3rem; flex: 1 0 auto;
+}
+.svc-card .svc-card-meta {
+    display: flex; align-items: center; gap: .5rem;
+    margin-top: .8rem; padding-top: .7rem;
+    border-top: 1px dashed var(--casino-line-soft);
+    font-size: .72rem; color: var(--casino-muted);
+}
+.svc-card .svc-card-meta .text-gold { margin-left: auto; font-weight: 700; }
+
+/* Tab lọc danh mục */
+.svc-tabs {
+    display: flex; gap: .4rem; overflow-x: auto;
+    padding-bottom: .5rem; margin-bottom: 1.5rem;
+    scrollbar-width: thin;
+}
+.svc-tabs::-webkit-scrollbar { height: 4px; }
+.svc-tabs::-webkit-scrollbar-thumb { background: var(--casino-line-soft); border-radius: 999px; }
+.svc-tab {
+    display: inline-flex; align-items: center; gap: .45rem;
+    padding: .5rem 1rem;
+    border-radius: 999px;
+    border: 1px solid var(--casino-line-soft);
+    background: rgba(255, 255, 255, .03);
+    color: var(--casino-text-soft);
+    font-size: .84rem; font-weight: 600;
+    text-decoration: none; white-space: nowrap;
+    transition: all .16s ease;
+}
+.svc-tab:hover { border-color: var(--casino-gold); color: var(--casino-gold); }
+.svc-tab.active {
+    background: var(--casino-gold); border-color: var(--casino-gold); color: #14100a;
+}
+
+/* Drawer sub-service (mở khi bấm 1 dịch vụ) */
+.svc-drawer {
+    position: fixed; inset: 0; z-index: 1080;
+    display: none;
+}
+.svc-drawer.show { display: block; }
+.svc-drawer-backdrop {
+    position: absolute; inset: 0;
+    background: rgba(4, 3, 8, .72);
+    backdrop-filter: blur(4px);
+    animation: svcFade .18s ease;
+}
+.svc-drawer-panel {
+    position: absolute; top: 0; right: 0; bottom: 0;
+    width: min(520px, 100%);
+    background: var(--casino-bg-2);
+    border-left: 1px solid var(--casino-line);
+    box-shadow: -20px 0 50px rgba(0, 0, 0, .5);
+    display: flex; flex-direction: column;
+    animation: svcSlide .24s cubic-bezier(.22, .9, .32, 1);
+}
+@keyframes svcFade { from { opacity: 0; } to { opacity: 1; } }
+@keyframes svcSlide { from { transform: translateX(28px); opacity: .4; } to { transform: none; opacity: 1; } }
+.svc-drawer-head {
+    display: flex; align-items: center; gap: .85rem;
+    padding: 1.1rem 1.25rem;
+    border-bottom: 1px solid var(--casino-line);
+}
+.svc-drawer-body { padding: 1.25rem; overflow-y: auto; flex: 1 0 auto; }
+.svc-drawer-foot {
+    padding: .9rem 1.25rem;
+    border-top: 1px solid var(--casino-line);
+    display: flex; gap: .6rem;
+}
+.svc-sub {
+    display: flex; align-items: center; gap: .75rem;
+    padding: .7rem .8rem;
+    border-radius: .75rem;
+    border: 1px solid var(--casino-line-soft);
+    margin-bottom: .55rem;
+    transition: border-color .16s ease, background .16s ease;
+}
+.svc-sub:hover { border-color: var(--casino-gold); background: rgba(245, 197, 66, .05); }
+.svc-sub .svc-sub-name { font-size: .87rem; font-weight: 600; }
+.svc-sub .svc-sub-desc { font-size: .74rem; color: var(--casino-muted); }
+.svc-sub .svc-sub-price { margin-left: auto; text-align: right; }
+.svc-sub .svc-sub-price b { color: var(--casino-gold); font-size: .92rem; }
+.svc-sub .svc-sub-price span { display: block; font-size: .66rem; color: var(--casino-muted); }
+
+/* =====================================================================
+   5. VIP 3D BADGE — mỗi cấp một hình khác nhau
+   ===================================================================== */
+.vip-badge {
+    position: relative;
+    width: 76px; height: 76px;
+    display: flex; align-items: center; justify-content: center;
+    border-radius: 50%;
+    font-weight: 900;
+    font-size: 1.25rem;
+    color: #fff;
+    isolation: isolate;
+    flex: 0 0 auto;
+}
+.vip-badge::before {
+    content: '';
+    position: absolute; inset: 0;
+    border-radius: 50%;
+    background: linear-gradient(160deg, rgba(255, 255, 255, .45), transparent 55%);
+    z-index: -1;
+}
+.vip-badge::after {
+    content: '';
+    position: absolute; inset: -4px;
+    border-radius: 50%;
+    border: 2px solid rgba(255, 255, 255, .16);
+    z-index: -2;
+}
+.vip-badge .vip-ring {
+    position: absolute; inset: 6px;
+    border-radius: 50%;
+    border: 1px dashed rgba(255, 255, 255, .28);
+    z-index: -1;
+}
+.vip-badge .vip-crown {
+    position: absolute; top: -12px; left: 50%; transform: translateX(-50%);
+    font-size: .95rem;
+    filter: drop-shadow(0 2px 4px rgba(0, 0, 0, .5));
+}
+.vip-badge-wrap { display: flex; flex-direction: column; align-items: center; gap: .4rem; }
+.vip-badge-wrap .vip-tier-label { font-size: .72rem; color: var(--casino-muted); }
+
+/* Badge 3D dạng SVG — nền trong suốt, kích thước theo SVG */
+.vip-badge-3d {
+    width: auto !important;
+    height: auto !important;
+    border-radius: 0 !important;
+    background: none !important;
+    isolation: auto;
+}
+.vip-badge-3d::before,
+.vip-badge-3d::after { display: none !important; }
+.vip-badge-3d svg { display: block; filter: drop-shadow(0 6px 14px rgba(0, 0, 0, .45)); }
+.vip-tier-card .vip-badge-3d svg { transition: transform .2s ease; }
+.vip-tier-card:hover .vip-badge-3d svg { transform: translateY(-3px) scale(1.04); }
+
+/* 6 nhóm màu theo tier — tạo khác biệt rõ rệt */
+.vip-badge.t-bronze   { background: linear-gradient(145deg, #e8a06a, #a35a2c 60%, #6d3315); }
+.vip-badge.t-silver   { background: linear-gradient(145deg, #f3f6fb, #b9c3d4 55%, #7d8798); }
+.vip-badge.t-gold     { background: linear-gradient(145deg, #ffe08a, #f5c542 50%, #b8860b); }
+.vip-badge.t-platinum { background: linear-gradient(145deg, #d8f6ff, #9fd8e8 45%, #5fa8bd); }
+.vip-badge.t-diamond  { background: linear-gradient(145deg, #e6fbff, #9ee8f5 40%, #4fb8d8 70%, #2b7fa8); }
+.vip-badge.t-obsidian { background: linear-gradient(145deg, #6c5bd6, #3d2f8f 55%, #1b1345); }
+.vip-badge.t-crimson  { background: linear-gradient(145deg, #ff9a9a, #e23b3b 55%, #8c1414); }
+.vip-badge.t-emerald  { background: linear-gradient(145deg, #8ef5c0, #22b573 55%, #0c6b44); }
+.vip-badge.t-void     { background: linear-gradient(145deg, #4a4a5e, #1b1b26 60%, #08080d); }
+.vip-badge.t-rainbow  {
+    background: conic-gradient(from 210deg, #ff5f6d, #ffc371, #7ee8fa, #a18cd1, #ff5f6d);
+    color: #fff;
+    text-shadow: 0 1px 4px rgba(0, 0, 0, .55);
+}
+.vip-badge.t-legendary {
+    background: linear-gradient(145deg, #ffcf5c, #ff8a3d 40%, #e0342c 75%, #7c1010);
+    box-shadow: 0 0 22px rgba(255, 140, 60, .35);
+}
+.vip-badge.t-mythic {
+    background: linear-gradient(145deg, #b0f0ff, #4f8bff 40%, #7b3fd4 75%, #2a0a5e);
+    box-shadow: 0 0 26px rgba(90, 130, 255, .4);
+}
+.vip-badge.t-ascend {
+    background: linear-gradient(145deg, #fffbe6, #ffd166 30%, #ef8354 60%, #c1121f);
+    box-shadow: 0 0 30px rgba(255, 209, 102, .45);
+}
+
+/* Thẻ VIP 60 cấp */
+.vip-tier-card {
+    border-radius: 1rem;
+    border: 1px solid var(--casino-line);
+    background: var(--casino-card);
+    padding: 1rem .85rem;
+    text-align: center;
+    height: 100%;
+    transition: transform .18s ease, border-color .18s ease;
+}
+.vip-tier-card:hover { transform: translateY(-3px); border-color: var(--casino-gold); }
+.vip-tier-card .vip-tier-num { font-size: .8rem; font-weight: 800; color: var(--casino-gold); }
+.vip-tier-card .vip-tier-price { font-size: .95rem; font-weight: 700; margin-top: .3rem; }
+.vip-tier-card .vip-tier-perk { font-size: .7rem; color: var(--casino-muted); }
+
+/* =====================================================================
+   6. 2FA — căn chỉnh QR / secret / ô nhập code
+   ===================================================================== */
+.tfa-wrap {
+    display: grid;
+    grid-template-columns: 260px 1fr;
+    gap: 1.5rem;
+    align-items: start;
+}
+@media (max-width: 767.98px) { .tfa-wrap { grid-template-columns: 1fr; } }
+
+.tfa-qr-panel {
+    display: flex; flex-direction: column; align-items: center;
+    gap: .75rem;
+    padding: 1.25rem;
+    border-radius: 1rem;
+    background: var(--casino-card);
+    border: 1px solid var(--casino-line);
+    text-align: center;
+}
+.tfa-qr-box {
+    width: 200px; height: 200px;
+    padding: 12px;
+    background: #ffffff;
+    border-radius: .9rem;
+    box-shadow: 0 10px 26px rgba(0, 0, 0, .4);
+    display: flex; align-items: center; justify-content: center;
+}
+.tfa-qr-box img, .tfa-qr-box canvas { width: 100%; height: 100%; object-fit: contain; display: block; }
+
+.tfa-secret {
+    width: 100%;
+    padding: .6rem .75rem;
+    border-radius: .6rem;
+    background: rgba(0, 0, 0, .38);
+    border: 1px solid var(--casino-line-soft);
+    font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', monospace;
+    font-size: .84rem;
+    letter-spacing: .08em;
+    color: var(--casino-text);
+    word-break: break-all;
+    text-align: center;
+}
+
+/* Ô nhập mã 6 số */
+.otp-inputs { display: flex; gap: .5rem; justify-content: center; flex-wrap: wrap; }
+.otp-inputs input {
+    width: 52px; height: 60px;
+    text-align: center;
+    font-size: 1.4rem; font-weight: 800;
+    font-variant-numeric: tabular-nums;
+    border-radius: .7rem !important;
+    padding: 0 !important;
+}
+.otp-inputs input:focus { transform: translateY(-2px); }
+
+/* =====================================================================
+   6b. 2FA — danh sách bước + mã khôi phục
+   ===================================================================== */
+.qa-steps {
+    margin: 0 0 .5rem;
+    padding-left: 1.35rem;
+    color: var(--casino-text-soft);
+    font-size: .88rem;
+    line-height: 1.7;
+}
+.qa-steps li { margin-bottom: .3rem; }
+.qa-steps li::marker { color: var(--casino-gold); font-weight: 700; }
+
+.recovery-codes {
+    display: flex; flex-wrap: wrap; gap: .45rem;
+    margin: .75rem 0;
+}
+.recovery-codes span {
+    font-family: 'SFMono-Regular', Consolas, monospace;
+    font-size: .82rem; letter-spacing: .06em;
+    padding: .35rem .6rem;
+    border-radius: .5rem;
+    background: rgba(0, 0, 0, .35);
+    border: 1px solid var(--casino-line-soft);
+    color: var(--casino-text);
+}
+
+/* =====================================================================
+   7. NẠP TIỀN / NẠP THẺ CÀO
+   ===================================================================== */
+.amount-presets {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(112px, 1fr));
+    gap: .5rem;
+}
+.amount-preset {
+    padding: .6rem .5rem;
+    border-radius: .7rem;
+    border: 1px solid var(--casino-line-soft);
+    background: rgba(255, 255, 255, .03);
+    color: var(--casino-text-soft);
+    font-size: .85rem; font-weight: 700;
+    font-variant-numeric: tabular-nums;
+    transition: all .16s ease;
+    text-align: center;
+}
+.amount-preset:hover { border-color: var(--casino-gold); color: var(--casino-gold); }
+.amount-preset.active {
+    background: var(--casino-gold); border-color: var(--casino-gold); color: #14100a;
+}
+.amount-preset.custom { grid-column: 1 / -1; }
+
+.qr-box {
+    display: inline-flex; flex-direction: column; align-items: center;
+    padding: 1rem;
+    background: #ffffff;
+    border-radius: 1rem;
+    box-shadow: 0 14px 34px rgba(0, 0, 0, .45);
+}
+.qr-box img { width: 230px; height: 230px; object-fit: contain; display: block; }
+
+/* Chọn mệnh giá thẻ cào */
+.card-denom-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(110px, 1fr));
+    gap: .5rem;
+}
+.card-denom {
+    padding: .55rem .4rem;
+    border-radius: .65rem;
+    border: 1px solid var(--casino-line-soft);
+    background: rgba(255, 255, 255, .03);
+    color: var(--casino-text-soft);
+    font-size: .84rem; font-weight: 700;
+    font-variant-numeric: tabular-nums;
+    text-align: center;
+    cursor: pointer;
+    transition: all .15s ease;
+}
+.card-denom:hover { border-color: var(--casino-gold); color: var(--casino-gold); }
+.card-denom.active { background: var(--casino-gold); border-color: var(--casino-gold); color: #14100a; }
+.card-denom input { display: none; }
+
+.card-provider-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+    gap: .5rem;
+}
+.card-provider {
+    display: flex; align-items: center; gap: .6rem;
+    padding: .55rem .7rem;
+    border-radius: .7rem;
+    border: 1px solid var(--casino-line-soft);
+    background: rgba(255, 255, 255, .03);
+    cursor: pointer;
+    transition: all .15s ease;
+}
+.card-provider:hover { border-color: var(--casino-gold); }
+.card-provider.active { border-color: var(--casino-gold); background: rgba(245, 197, 66, .1); }
+.card-provider input { display: none; }
+.card-provider .cp-logo {
+    width: 30px; height: 30px; flex: 0 0 30px;
+    border-radius: .5rem; overflow: hidden;
+    display: flex; align-items: center; justify-content: center;
+    background: rgba(255, 255, 255, .08);
+}
+.card-provider .cp-logo img { width: 20px; height: 20px; object-fit: contain; }
+
+/* =====================================================================
+   8. TÀI LIỆU API
+   ===================================================================== */
+.api-doc-layout { display: grid; grid-template-columns: 260px 1fr; gap: 1.5rem; align-items: start; }
+@media (max-width: 991.98px) { .api-doc-layout { grid-template-columns: 1fr; } }
+
+.api-doc-side {
+    position: sticky; top: 84px;
+    max-height: calc(100vh - 110px); overflow-y: auto;
+    padding: 1rem;
+    border-radius: 1rem;
+    background: var(--casino-card);
+    border: 1px solid var(--casino-line);
+}
+.api-doc-side .api-side-group { margin-bottom: 1.1rem; }
+.api-doc-side .api-side-group h6 {
+    font-size: .68rem; text-transform: uppercase; letter-spacing: .8px;
+    color: var(--casino-muted); margin-bottom: .5rem;
+}
+.api-doc-side .api-side-link {
+    display: block; padding: .4rem .55rem;
+    border-radius: .5rem;
+    font-size: .82rem;
+    color: var(--casino-text-soft);
+    text-decoration: none;
+    border-left: 2px solid transparent;
+    transition: all .14s ease;
+}
+.api-doc-side .api-side-link:hover { background: rgba(245, 197, 66, .08); color: var(--casino-gold); }
+.api-doc-side .api-side-link.active { border-left-color: var(--casino-gold); color: var(--casino-gold); background: rgba(245, 197, 66, .07); }
+
+.api-endpoint {
+    border-radius: 1rem;
+    border: 1px solid var(--casino-line);
+    background: var(--casino-card);
+    margin-bottom: 1rem;
+    overflow: hidden;
+}
+.api-endpoint-head {
+    display: flex; align-items: center; gap: .7rem;
+    padding: .8rem 1rem;
+    background: rgba(255, 255, 255, .02);
+    border-bottom: 1px solid var(--casino-line);
+}
+.api-method {
+    font-family: 'SFMono-Regular', Consolas, monospace;
+    font-size: .68rem; font-weight: 800;
+    letter-spacing: .5px;
+    padding: .22rem .5rem;
+    border-radius: .35rem;
+    min-width: 56px; text-align: center;
+}
+.api-method.m-GET    { background: rgba(52, 211, 153, .18); color: #6ee7b7; }
+.api-method.m-POST   { background: rgba(56, 189, 248, .18); color: #7dd3fc; }
+.api-method.m-PUT    { background: rgba(251, 191, 36, .18); color: #fcd34d; }
+.api-method.m-DELETE { background: rgba(248, 113, 113, .18); color: #fca5a5; }
+.api-endpoint-path {
+    font-family: 'SFMono-Regular', Consolas, monospace;
+    font-size: .85rem; color: var(--casino-text);
+    overflow-wrap: anywhere;
+}
+.api-endpoint-body { padding: 1rem; }
+
+.api-table { width: 100%; border-collapse: collapse; font-size: .82rem; }
+.api-table th {
+    text-align: left; padding: .5rem .6rem;
+    font-size: .68rem; text-transform: uppercase; letter-spacing: .6px;
+    color: var(--casino-muted); border-bottom: 1px solid var(--casino-line);
+}
+.api-table td { padding: .5rem .6rem; border-bottom: 1px solid var(--casino-line-soft); vertical-align: top; }
+.api-table code {
+    background: rgba(0, 0, 0, .35); padding: .1rem .35rem; border-radius: .3rem;
+    font-size: .78rem; color: var(--casino-gold-light, #ffdf85);
+}
+.api-req { color: var(--casino-danger, #f87171); font-size: .74rem; }
+
+.api-copy-bar {
+    position: sticky; top: 70px; z-index: 5;
+    display: flex; flex-wrap: wrap; align-items: center; gap: .6rem;
+    padding: .75rem 1rem;
+    border-radius: .9rem;
+    background: rgba(12, 10, 20, .92);
+    backdrop-filter: blur(10px);
+    border: 1px solid var(--casino-line);
+    margin-bottom: 1.25rem;
+}
+
+/* =====================================================================
+   9. NHÓM THU GỌN / MỞ RỘNG (sảnh game)
+   ===================================================================== */
+.prov-group { border: 1px solid var(--casino-line); border-radius: 1rem; margin-bottom: 1rem; overflow: hidden; }
+.prov-group-head {
+    display: flex; align-items: center; gap: .75rem;
+    width: 100%;
+    padding: .85rem 1rem;
+    background: rgba(255, 255, 255, .02);
+    border: 0;
+    color: inherit;
+    font-size: .92rem; font-weight: 700;
+    text-align: left;
+}
+.prov-group-head:hover { background: rgba(245, 197, 66, .06); }
+.prov-group-head .pg-chevron { margin-left: auto; transition: transform .2s ease; }
+.prov-group.open .prov-group-head .pg-chevron { transform: rotate(180deg); }
+.prov-group-body { padding: 1rem; border-top: 1px solid var(--casino-line); }
+.prov-group:not(.open) .prov-group-body { display: none; }
+
+/* =====================================================================
+   10. TYPOGRAPHY — chuẩn hoá font toàn site
+   ===================================================================== */
+html {
+    font-size: 15px;
+    -webkit-text-size-adjust: 100%;
+}
+body,
+button, input, select, textarea,
+h1, h2, h3, h4, h5, h6,
+.btn, .form-control, .form-select, .form-label,
+.card, .table, .modal-content, .dropdown-menu,
+nav, .navbar, .nav-link, .list-group-item {
+    font-family: var(--bs-font-sans-serif, 'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif) !important;
+}
+h1, h2, h3, h4, h5, h6 { line-height: 1.25; }
+p, li, td, th { line-height: 1.55; }
+code, pre, kbd, samp {
+    font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', 'Courier New', monospace !important;
+}
+/* Font số luôn thẳng hàng */
+input[type="number"], .font-numeric, .stat-value, .vip-tier-price {
+    font-variant-numeric: tabular-nums;
+    font-feature-settings: 'tnum';
+}
+/* Loại bỏ chênh lệch font do icon font */
+.fa, .fas, .far, .fab, .fal, .fad, .fa-solid, .fa-brands { line-height: 1; }
+
+/* =====================================================================
+   11c. WEBSITE CON (VIP) — card sáng, không bị trắng
+   ===================================================================== */
+.child-site-card {
+    display: flex; flex-direction: column;
+    border-radius: 1rem;
+    border: 1px solid var(--casino-line);
+    background: var(--casino-card);
+    overflow: hidden;
+    transition: transform .18s ease, border-color .18s ease;
+}
+.child-site-card:hover { transform: translateY(-3px); border-color: var(--casino-gold); }
+.child-site-card-empty { opacity: .78; border-style: dashed; }
+.child-site-card-empty:hover { transform: none; border-color: var(--casino-line); }
+.child-site-card .cs-head {
+    position: relative;
+    display: flex; align-items: center; gap: .7rem;
+    padding: .9rem 1rem;
+    border-bottom: 1px solid var(--casino-line-soft);
+    background: linear-gradient(120deg, rgba(255, 255, 255, .04), transparent);
+}
+.child-site-card .cs-banner {
+    position: absolute; inset: 0;
+    background-size: cover; background-position: center;
+    opacity: .18;
+}
+.child-site-card .cs-logo {
+    position: relative;
+    width: 42px; height: 42px; flex: 0 0 42px;
+    border-radius: .8rem;
+    display: flex; align-items: center; justify-content: center;
+    background: rgba(255, 255, 255, .08);
+    border: 1px solid var(--casino-line-soft);
+    overflow: hidden;
+}
+.child-site-card .cs-logo img { width: 26px; height: 26px; object-fit: contain; }
+.child-site-card .cs-title {
+    position: relative;
+    display: flex; flex-direction: column;
+    min-width: 0; flex: 1 0 auto;
+}
+.child-site-card .cs-title b {
+    font-size: .92rem; font-weight: 700;
+    white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+}
+.child-site-card .cs-meta {
+    display: grid; grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: .5rem .75rem;
+    padding: .8rem 1rem;
+}
+.child-site-card .cs-meta > div { min-width: 0; }
+.child-site-card .cs-meta span {
+    display: block; font-size: .66rem; text-transform: uppercase; letter-spacing: .4px;
+    color: var(--casino-muted);
+}
+.child-site-card .cs-meta b { font-size: .85rem; font-weight: 700; }
+.child-site-card .cs-actions {
+    margin-top: auto;
+    display: flex; gap: .5rem;
+    padding: .75rem 1rem;
+    border-top: 1px dashed var(--casino-line-soft);
+}
+
+/* =====================================================================
+   11b. ĐỤC UI/UX — thumbnail tài nguyên
+   ===================================================================== */
+.scraper-thumb {
+    position: relative;
+    border-radius: .7rem;
+    overflow: hidden;
+    border: 1px solid var(--casino-line-soft);
+    background: rgba(255, 255, 255, .03);
+}
+.scraper-thumb img {
+    width: 100%;
+    height: 92px;
+    object-fit: contain;
+    display: block;
+    background: rgba(0, 0, 0, .25);
+}
+.scraper-thumb-meta {
+    display: block;
+    padding: .3rem .45rem;
+    font-size: .64rem;
+    color: var(--casino-muted);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    border-top: 1px solid var(--casino-line-soft);
+}
+
+/* Logo ngân hàng dùng chung */
+.bank-logo {
+    width: 34px; height: 34px;
+    object-fit: contain;
+    border-radius: .5rem;
+    background: rgba(255, 255, 255, .06);
+    padding: 2px;
+    flex: 0 0 34px;
+}
+.bank-result { min-width: 0; }
+.bank-result .brand-icon { flex: 0 0 52px; }
+
+/* =====================================================================
+   11c. DỊCH VỤ SALE — logo nền tảng, xác minh 6 số, import file
+   ===================================================================== */.sale-acc-logo {
+    width: 30px; height: 30px;
+    object-fit: contain;
+    border-radius: .45rem;
+    background: rgba(255, 255, 255, .06);
+    padding: 2px;
+    flex: 0 0 30px;
+}
+.sale-status-badge {
+    font-size: .66rem;
+    font-weight: 700;
+    padding: .22rem .5rem;
+    border-radius: 999px;
+    letter-spacing: .2px;
+    white-space: nowrap;
+}
+.sale-status-pending {
+    background: rgba(255, 193, 7, .16);
+    color: #ffd76a;
+    border: 1px solid rgba(255, 193, 7, .35);
+}
+.sale-status-verified {
+    background: rgba(40, 199, 110, .16);
+    color: #5fe0a3;
+    border: 1px solid rgba(40, 199, 110, .35);
+}
+.sale-status-rejected {
+    background: rgba(220, 53, 69, .16);
+    color: #ff8b95;
+    border: 1px solid rgba(220, 53, 69, .35);
+}
+.sale-verify-row td {
+    background: rgba(255, 255, 255, .025);
+    padding-top: .45rem;
+    padding-bottom: .45rem;
+}
+.sale-code-input {
+    max-width: 130px;
+    font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, monospace;
+    letter-spacing: .45em;
+    text-align: center;
+    font-weight: 700;
+}
+.sale-code-input::placeholder { letter-spacing: .45em; opacity: .55; }
+[data-theme="light"] .sale-status-pending { color: #8a6100; }
+[data-theme="light"] .sale-status-verified { color: #0f7a45; }
+[data-theme="light"] .sale-status-rejected { color: #b02a37; }
+@media (prefers-color-scheme: light) {
+    [data-theme="system"] .sale-status-pending { color: #8a6100; }
+    [data-theme="system"] .sale-status-verified { color: #0f7a45; }
+    [data-theme="system"] .sale-status-rejected { color: #b02a37; }
+}
+
+/* =====================================================================
+   11. TIỆN ÍCH
+   ===================================================================== */
+.ui-divider { height: 1px; background: var(--casino-line); margin: 1.25rem 0; border: 0; }
+.ui-scroll-x { overflow-x: auto; }
+.text-muted-2 { color: var(--casino-muted) !important; }
+.cursor-pointer { cursor: pointer; }
+.gap-tight { gap: .4rem !important; }
+
+/* =====================================================================
+   12. DỊCH VỤ V16 — info-row, progress scraper, bảng giá
+   ===================================================================== */
+
+/* Hàng thông tin dạng nhãn / giá trị */
+.info-row {
+    display: flex;
+    align-items: flex-start;
+    gap: .75rem;
+    padding: .6rem .75rem;
+    border-radius: .6rem;
+    background: rgba(255, 255, 255, .035);
+    border: 1px solid var(--casino-line-soft);
+    margin-bottom: .5rem;
+}
+.info-row:last-child { margin-bottom: 0; }
+.info-label {
+    flex: 0 0 auto;
+    min-width: 132px;
+    font-size: .78rem;
+    font-weight: 700;
+    color: var(--casino-muted);
+    text-transform: uppercase;
+    letter-spacing: .3px;
+}
+.info-value {
+    flex: 1 1 auto;
+    min-width: 0;
+    font-size: .9rem;
+    font-weight: 600;
+    color: var(--casino-text);
+    word-break: break-word;
+}
+@media (max-width: 575.98px) {
+    .info-row { flex-direction: column; gap: .25rem; }
+    .info-label { min-width: 0; }
+}
+
+/* Thanh tiến trình quét UI/UX */
+.scraper-progress {
+    background: rgba(255, 255, 255, .035);
+    border: 1px solid var(--casino-line-soft);
+    border-radius: .8rem;
+    padding: 1rem 1.1rem;
+}
+.scraper-step {
+    font-size: .86rem;
+    font-weight: 700;
+    color: var(--casino-text);
+}
+.scraper-percent {
+    font-size: 1.15rem;
+    font-weight: 800;
+    color: var(--casino-gold);
+}
+.scraper-bar {
+    height: 9px;
+    background: rgba(255, 255, 255, .07);
+    border-radius: 999px;
+    overflow: hidden;
+}
+.scraper-bar .progress-bar {
+    background: linear-gradient(90deg, var(--casino-gold), #e08a1e);
+    border-radius: 999px;
+    transition: width .3s ease;
+}
+.scraper-meta {
+    font-size: .78rem;
+    color: var(--casino-muted);
+}
+
+/* Tiến trình nhỏ trong danh sách (SMS, site) */
+.progress {
+    background: rgba(255, 255, 255, .07);
+    border-radius: 999px;
+}
+.progress .progress-bar {
+    background: linear-gradient(90deg, var(--casino-gold), #e08a1e);
+    border-radius: 999px;
+}
+
+/* Bảng giá dịch vụ */
+.price-form-code {
+    text-transform: lowercase;
+}
+
+/* Thẻ nhỏ dùng chung cho admin */
+.mini-stat {
+    display: inline-flex;
+    align-items: baseline;
+    gap: .35rem;
+    font-size: .8rem;
+}
+.mini-stat b { color: var(--casino-gold); font-size: 1rem; }
+
+/* Chip trạng thái nhỏ trong bảng */
+.chip-soft {
+    display: inline-flex;
+    align-items: center;
+    gap: .3rem;
+    padding: .2rem .55rem;
+    border-radius: 999px;
+    font-size: .7rem;
+    font-weight: 700;
+    background: rgba(255, 255, 255, .06);
+    border: 1px solid var(--casino-line-soft);
+    color: var(--casino-muted);
+}

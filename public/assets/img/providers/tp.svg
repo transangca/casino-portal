@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="TP (Triple Play)">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#e05c5c"/>
+      <stop offset="1" stop-color="#e05c5c" stop-opacity=".62"/>
+    </linearGradient>
+  </defs>
+  <rect x="4" y="4" width="120" height="120" rx="26" fill="url(#g)"/>
+  <rect x="4" y="4" width="120" height="120" rx="26" fill="none" stroke="rgba(255,255,255,.35)" stroke-width="2"/>
+  <text x="64" y="64" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="52" font-weight="800"
+        fill="#1a1010" text-anchor="middle" dominant-baseline="central">TT</text>
+</svg>

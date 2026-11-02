@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Mobifone">
+  <defs>
+    <linearGradient id="mb" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#2ea0f7"/>
+      <stop offset="100%" stop-color="#00529b"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="14" fill="url(#mb)"/>
+  <path d="M16 40c6-14 12-20 16-20s10 6 16 20" fill="none" stroke="#fff" stroke-width="5" stroke-linecap="round"/>
+  <path d="M24 40c3.5-8 6.5-12 8-12s4.5 4 8 12" fill="none" stroke="#fff" stroke-width="3.4" stroke-linecap="round" opacity=".8"/>
+  <circle cx="32" cy="44" r="3.4" fill="#fff"/>
+</svg>

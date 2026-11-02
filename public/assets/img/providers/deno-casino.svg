@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <defs>
+    <linearGradient id="denoBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1b1436"/>
+      <stop offset="100%" stop-color="#0b0818"/>
+    </linearGradient>
+  </defs>
+  <rect width="100" height="100" rx="18" fill="url(#denoBg)"/>
+  <g transform="translate(9 39) scale(0.398)">
+    <g transform="translate(0 0)">
+      <path fill="#f5c542" d="M0 0h6v10H0z"/>
+      <path fill="#e8e2f0" d="M9 0h4.5v10H9z"/>
+      <path fill="#e8e2f0" d="M16 0h4.5v10H16z"/>
+      <path fill="#e8e2f0" d="M23 0h9v2.4h-6.3v1.9h5.6v2.3h-5.6v1.1h6.3V10H23z"/>
+      <path fill="#f5c542" d="M35 0h3.2v7.6H43V10H35z"/>
+      <path fill="#e8e2f0" d="M46 0h3.1v7.6H53V10H46z"/>
+      <path fill="#e8e2f0" d="M56 0h6.6v2.4h-3.5v1.9h3.1v2.3h-3.1V10H56z"/>
+      <path fill="#f5c542" d="M66 0h9.2v2.4h-6.1v1.9h5.5v2.3h-5.5v1.1h6.1V10H66z"/>
+    </g>
+  </g>
+  <text x="50" y="72" text-anchor="middle" font-family="Titan One, Arial Black, sans-serif"
+        font-size="13" fill="#f5c542" letter-spacing="0.5">DENO</text>
+  <text x="50" y="85" text-anchor="middle" font-family="Arial, sans-serif"
+        font-size="7.5" fill="#9a92a8" letter-spacing="2.4">CASINO</text>
+</svg>

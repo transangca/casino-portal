@@ -1,0 +1,23 @@
+{
+    "65": {
+        "game_id": "65",
+        "name": "Mahjong Ways",
+        "icon": "https:\/\/dsuown9evwz4y.cloudfront.net\/Images\/providers\/PGSOFT\/PGSOFT_65.jpg",
+        "embed_url": "https:\/\/m.pg-demo.com\/65\/index.html",
+        "game_type": "slot"
+    },
+    "74": {
+        "game_id": "74",
+        "name": "Mahjong Ways 2",
+        "icon": "https:\/\/dsuown9evwz4y.cloudfront.net\/Images\/providers\/PGSOFT\/PGSOFT_74.jpg",
+        "embed_url": "https:\/\/m.pg-demo.com\/74\/index.html",
+        "game_type": "slot"
+    },
+    "135": {
+        "game_id": "135",
+        "name": "Wild Bounty Showdown",
+        "icon": "https:\/\/dsuown9evwz4y.cloudfront.net\/Images\/providers\/PGSOFT\/PGSOFT_135.jpg",
+        "embed_url": "https:\/\/m.pg-demo.com\/135\/index.html",
+        "game_type": "slot"
+    }
+}

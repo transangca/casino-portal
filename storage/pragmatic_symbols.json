@@ -1,0 +1,3382 @@
+{
+    "5-lions-dance": {
+        "symbol": "vs1024lionsd",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2020\/09\/5-Lion-Dance™_EN_339x180_01_c-2.png",
+        "title": "5 Lions Dance™"
+    },
+    "jungle-gorilla-slot": {
+        "symbol": "vs20gorilla",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2020\/08\/Jungle-Gorilla™_EN_339x180_01.png",
+        "title": "Jungle Gorilla™"
+    },
+    "ultra-hold-and-spin-slot": {
+        "symbol": "vs5ultra",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2020\/08\/Ultra_Hold__Spin™_EN_339x180.png",
+        "title": "Ultra Hold and Spin™"
+    },
+    "star-bounty-slot": {
+        "symbol": "vswayshive",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2020\/09\/Star_Bounty™_339x180.png",
+        "title": "Star Bounty™"
+    },
+    "wild-walker-slot": {
+        "symbol": "vs25walker",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2020\/09\/Wild-Walker™_EN_339x180_02.png",
+        "title": "Wild Walker™"
+    },
+    "starz-megaways-slot": {
+        "symbol": "vs117649starz",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2020\/05\/Starz-Megaways™_339x180-1.png",
+        "title": "Starz Megaways™"
+    },
+    "pyramid-king-slot": {
+        "symbol": "vs25pyramid",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2020\/06\/Pyramid-King™_339x180_02-1.png",
+        "title": "Pyramid King™"
+    },
+    "street-racer-slot": {
+        "symbol": "vs40streetracer",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2020\/06\/Street-Racer_™_339x180_02.png",
+        "title": "Street Racer™"
+    },
+    "mysterious-slot": {
+        "symbol": "vs4096mystery",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2020\/02\/Mysterious™_EN_339x180.png",
+        "title": "Mysterious™"
+    },
+    "aztec-bonanza-slot": {
+        "symbol": "vs7776aztec",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2020\/02\/Aztec-Bonanza™_EN_03_339x180_01-1.png",
+        "title": "Aztec Bonanza™"
+    },
+    "the-wild-machine-slot": {
+        "symbol": "vs40madwheel",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2020\/02\/The-Wild-Machine™_EN_339x180_01-1.png",
+        "title": "The Wild Machine™"
+    },
+    "dance-party-slot": {
+        "symbol": "vs243dancingpar",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2020\/03\/Dance-Party™_EN_339x180_01-2.png",
+        "title": "Dance Party™"
+    },
+    "fruit-rainbow-slot": {
+        "symbol": "vs40frrainbow",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2020\/03\/Fruit-Rainbow™_EN_339x180.png",
+        "title": "Fruit Rainbow™"
+    },
+    "money-mouse-slot": {
+        "symbol": "vs25mmouse",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2020\/01\/Money-Mouse™_EN_339x180_02-1.png",
+        "title": "Money Mouse™"
+    },
+    "master-joker-slot": {
+        "symbol": "vs1masterjoker",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2020\/01\/Master-Joker™_EN_339x180_01.png",
+        "title": "Master Joker™"
+    },
+    "magic-journey-slot": {
+        "symbol": "vs8magicjourn",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2019\/12\/Magic-Journey™_EN_339x180_01-1.png",
+        "title": "Magic Journey™"
+    },
+    "greek-gods-slot": {
+        "symbol": "vs243fortseren",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2019\/11\/Greek-Gods™_EN_339x180_02-1.png",
+        "title": "Greek Gods™"
+    },
+    "hercules-and-pegasus-slot": {
+        "symbol": "vs20hercpeg",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2019\/10\/Hercules-Pegasus_339x180_01-2.png",
+        "title": "Hercules and Pegasus™"
+    },
+    "fire-strike-slot": {
+        "symbol": "vs10firestrike",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2019\/09\/Firestrike™_339x180-1.png",
+        "title": "Fire Strike™"
+    },
+    "super-joker-slot": {
+        "symbol": "vs5spjoker",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2019\/08\/Super-Joker_339x180-1.png",
+        "title": "Super Joker™"
+    },
+    "john-hunter-and-the-tomb-of-the-scarab-queen-slot": {
+        "symbol": "vs25scarabqueen",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2019\/08\/John-Hunter-and-TOSQ™_339x180_01-2.png",
+        "title": "John Hunter and the Tomb of the Scarab Queen™"
+    },
+    "tree-of-riches-slot": {
+        "symbol": "vs1fortunetree",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2019\/08\/Tree-of-Riches™_339x180-1.png",
+        "title": "Tree of Riches™"
+    },
+    "the-great-chicken-escape-slot": {
+        "symbol": "vs20chicken",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2019\/07\/The-Great-Chicken-Escape™_339x180px-1.png",
+        "title": "The Great Chicken Escape™"
+    },
+    "vampires-vs-wolves-slot": {
+        "symbol": "vs10vampwolf",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2019\/07\/VampireVsWolf™_339x180-2-1.png",
+        "title": "Vampires vs Wolves™"
+    },
+    "john-hunter-and-the-aztec-treasure-slot": {
+        "symbol": "vs7776secrets",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2019\/06\/JH-and-the-Aztec-treasure™_339x180_02-2.png",
+        "title": "John Hunter and the Aztec Treasure™"
+    },
+    "triple-jokers-slot": {
+        "symbol": "vs5trjokers",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2019\/03\/Triple-Jokers™_339x180px-1-1.png",
+        "title": "Triple Jokers™"
+    },
+    "caishens-cash-slot": {
+        "symbol": "vs243caishien",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2019\/03\/Caishens-Cah™_339x180px-2.png",
+        "title": "Caishen’s Cash™"
+    },
+    "pirate-gold-slot": {
+        "symbol": "vs40pirate",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2019\/03\/Pirates-Code™_Thumb_339x180_02-4.png",
+        "title": "Pirate Gold™"
+    },
+    "wild-pixies-slot": {
+        "symbol": "vs20wildpix",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2019\/02\/Thumb_Wild-Pixies_339x180px-2.png",
+        "title": "Wild Pixies™"
+    },
+    "egyptian-fortunes-slot": {
+        "symbol": "vs20egypttrs",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2019\/02\/Egyptian-Fortunes™_Thumb_339x180-1-1.png",
+        "title": "Egyptian Fortunes™"
+    },
+    "extra-juicy-slot": {
+        "symbol": "vs10fruity2",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2019\/01\/thumb_Extra-Juicy™_330x140px-1-1.png",
+        "title": "Extra Juicy™"
+    },
+    "treasure-horse-slot": {
+        "symbol": "vs18mashang",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2018\/12\/Treasure-Horse™_339x180px-1.png",
+        "title": "Treasure Horse™"
+    },
+    "leprechaun-carol-slot": {
+        "symbol": "vs20leprexmas",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2018\/11\/Leprechaun-Song™_Thumb_339x180-1.png",
+        "title": "Leprechaun Carol™"
+    },
+    "triple-dragons-slot": {
+        "symbol": "vs5trdragons",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2018\/10\/Thumb_Triple-Dragons_339x180px-2.png",
+        "title": "Triple Dragons™"
+    },
+    "vegas-magic-slot": {
+        "symbol": "vs20vegasmagic",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2018\/09\/thumb-Vegas-Magic_330x140px-2.png",
+        "title": "Vegas Magic™"
+    },
+    "ancient-egypt-classic-slot": {
+        "symbol": "vs10egyptcls",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2018\/10\/Thumb_Ancient-Egypt-Classic_339x180px-2-2.png",
+        "title": "Ancient Egypt Classic™"
+    },
+    "master-chens-fortune-slot": {
+        "symbol": "vs9chen",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2018\/09\/thumb_Master-Chens-Fortune_339x180-1.png",
+        "title": "Master Chen’s Fortune™"
+    },
+    "leprechaun-song-slot": {
+        "symbol": "vs20leprechaun",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2018\/08\/thumb_Leprechaun_Song_339X180-1-1.png",
+        "title": "Leprechaun Song™"
+    },
+    "peking-luck-slot": {
+        "symbol": "vs25peking",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2018\/07\/thumb_Peking_Luck_330x140-1-1.png",
+        "title": "Peking Luck™"
+    },
+    "jade-butterfly-slot": {
+        "symbol": "vs1024butterfly",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2018\/06\/thumbs_jade_butterfly_330x140px-1-1.png",
+        "title": "Jade Butterfly™"
+    },
+    "the-champions-slot": {
+        "symbol": "vs25champ",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2018\/05\/the_champions_330x140-1.png",
+        "title": "The Champions™"
+    },
+    "asgard-slot": {
+        "symbol": "vs25asgard",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2018\/05\/thumb_Asgard_330x140-1.png",
+        "title": "Asgard™"
+    },
+    "88-fire-slot": {
+        "symbol": "vs7fire88",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2018\/03\/thumbs-pt-site_fire88_330x140px-1.png",
+        "title": "Fire 88™"
+    },
+    "fairytale-fortune-slot": {
+        "symbol": "vs15fairytale",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2018\/03\/thumb-Fairytale-Fortune_330x140px-1.png",
+        "title": "Fairytale Fortune™"
+    },
+    "lucky-new-year-slot": {
+        "symbol": "vs25newyear",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2018\/01\/thumb-Lucky-New-Year_330x140px-2-1.png",
+        "title": "Lucky New Year™"
+    },
+    "ancient-egypt-slot": {
+        "symbol": "vs10egypt",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2018\/01\/thumb-Ancient-Egypt_330x140-2px-1.png",
+        "title": "Ancient Egypt™"
+    },
+    "gold-rush-slot": {
+        "symbol": "vs25goldrush",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2017\/12\/thumbs-pt-site_Gold-Rush_330x140px-2.png",
+        "title": "Gold Rush™"
+    },
+    "triple-tigers-slot": {
+        "symbol": "vs1tigers",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2017\/11\/thumb-TRIPLE-TIGERS_330x140px-1.png",
+        "title": "Triple Tigers™"
+    },
+    "monkey-madness-slot": {
+        "symbol": "vs9madmonkey",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2017\/11\/thumbs-pt-site_Monkey-Madness_330x140px-1.png",
+        "title": "Monkey Madness™"
+    },
+    "pandas-fortune-slot": {
+        "symbol": "vs25pandagold",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2017\/11\/thumbs-pt-site_Panda-Fortune_330x140px-1.png",
+        "title": "Panda’s Fortune™"
+    },
+    "santa-slot": {
+        "symbol": "vs20santa",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2017\/11\/thumbs-pt-site_Santa_330x140px-3.png",
+        "title": "Santa"
+    },
+    "7-piggies-slot": {
+        "symbol": "vs7pigs",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2017\/10\/thumbs-pt-site_7_Piggies_330x140px-1.png",
+        "title": "7 Piggies™"
+    },
+    "vegas-nights-slot": {
+        "symbol": "vs25vegas",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2017\/09\/thumbs-pt-site_Vegas-Nights_330x140px-3.png",
+        "title": "Vegas Nights™"
+    },
+    "caishens-gold-slot": {
+        "symbol": "vs243fortune",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2017\/08\/thumbs-pt-site_Cashien_s-Gold_330x140px.png",
+        "title": "Caishen’s Gold™"
+    },
+    "wild-spells-slot": {
+        "symbol": "vs25wildspells",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2017\/08\/thumbs-pt-site_Wild_Spells_330x140px-2.png",
+        "title": "Wild Spells™"
+    },
+    "888-dragons-slot": {
+        "symbol": "vs1dragon8",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2017\/06\/thumb_888-Dragons_330x140px-1.png",
+        "title": "888 Dragons™"
+    },
+    "gold-train-slot": {
+        "symbol": "vs3train",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2017\/05\/thumbs-pt-site_Gold-Train_330x140px-1-2.png",
+        "title": "Gold Train™"
+    },
+    "return-of-the-dead": {
+        "symbol": "vs10returndead",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2020\/10\/Return-of-Ra™_EN_339x180_04.png",
+        "title": "Return of the Dead™"
+    },
+    "pirate-gold-deluxe": {
+        "symbol": "vs40pirgold",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2020\/10\/Pirate_Gold_Deluxe™_EN_339x180.png",
+        "title": "Pirate Gold Deluxe™"
+    },
+    "cowboys-gold": {
+        "symbol": "vs10cowgold",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2020\/10\/Cow-Boys-GoldOao_EN_339x180.png",
+        "title": "Cowboys Gold™"
+    },
+    "spartan-king": {
+        "symbol": "vs40spartaking",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2020\/11\/Spartan-King™_EN_339x180_01.png",
+        "title": "Spartan King™"
+    },
+    "mysterious-egypt": {
+        "symbol": "vs10wildtut",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2020\/12\/Mysterious_Egypt_EN_339x180.png",
+        "title": "Mysterious Egypt™"
+    },
+    "voodoo-magic": {
+        "symbol": "vs40voodoo",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2020\/12\/Voodoo_Magic_EN_339x180.png",
+        "title": "Voodoo Magic™"
+    },
+    "eye-of-the-storm": {
+        "symbol": "vs10eyestorm",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2021\/01\/EOTS_EN_339x180.png",
+        "title": "Eye of the Storm™"
+    },
+    "joker-king": {
+        "symbol": "vs25jokerking",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2021\/02\/Joker_King_EN_339x180.png",
+        "title": "Joker King™"
+    },
+    "fishin-reels": {
+        "symbol": "vs10goldfish",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2021\/02\/Fishin_Reels_EN_339x180.png",
+        "title": "Fishin’ Reels™"
+    },
+    "temujin-treasures": {
+        "symbol": "vs1024temuj",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2021\/03\/Tamujin_Treasures_EN_339x180.png",
+        "title": "Temujin Treasures™"
+    },
+    "super-7s-slot": {
+        "symbol": "vs5super7",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2020\/01\/Super7s™_EN_339x180_03.png",
+        "title": "Super 7s™"
+    },
+    "power-of-thor-megaways": {
+        "symbol": "vswayshammthor",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2021\/03\/Power_of_Thor_Megaways_EN_339x180.png",
+        "title": "Power of Thor Megaways™"
+    },
+    "wild-booster": {
+        "symbol": "vs20wildboost",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2021\/03\/Wild_Booster_EN_339x180.png",
+        "title": "Wild Booster™"
+    },
+    "hot-fiesta": {
+        "symbol": "vs25hotfiesta",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2021\/04\/Hot_Fiesta_EN_339x180.png",
+        "title": "Hot Fiesta™"
+    },
+    "phoenix-forge": {
+        "symbol": "vs20phoenixf",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2021\/04\/Phoenix_Forge_EN_339x180.png",
+        "title": "Phoenix Forge™"
+    },
+    "cash-elevator": {
+        "symbol": "vs20terrorv",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2021\/05\/CashElevator_EN_339x180_04-1.png",
+        "title": "Cash Elevator™"
+    },
+    "heart-of-rio": {
+        "symbol": "vs25rio",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2021\/05\/Heart_of_-Rio_EN_339x180.png",
+        "title": "Heart of Rio"
+    },
+    "lucky-lightning": {
+        "symbol": "vswayslight",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2021\/06\/Lucky_Lightning_EN_339x180.png",
+        "title": "Lucky Lightning™"
+    },
+    "panda-fortune-2": {
+        "symbol": "vs25pandatemple",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2021\/05\/Pandas_Fortune_2_EN_339x180.png",
+        "title": "Panda’s Fortune 2"
+    },
+    "empty-the-bank": {
+        "symbol": "vs20emptybank",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2021\/06\/Empty_The_Bank_EN_339x180.png",
+        "title": "Empty the Bank™"
+    },
+    "lucky-grace-and-charm": {
+        "symbol": "vs10luckcharm",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2021\/06\/Lucky_Grace__Charm_EN_339x180.png",
+        "title": "Lucky Grace And Charm"
+    },
+    "tales-of-egypt-slot": {
+        "symbol": "vs20egypt",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2016\/05\/59_Tales-of-Egypt_desktop-330x140px-1.png",
+        "title": "Tales of Egypt"
+    },
+    "great-reef-slot": {
+        "symbol": "vs25sea",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2016\/05\/33_Great-Reef_desktop-330x140px-1.png",
+        "title": "Great Reef"
+    },
+    "glorious-rome-slot": {
+        "symbol": "vs20rome",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2016\/05\/30_Glorious-Rome_desktop-330x140px-1.png",
+        "title": "Glorious Rome"
+    },
+    "dwarven-gold-slot-2": {
+        "symbol": "vs25dwarves",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2016\/05\/25_Dwarven-Gold_desktop_330x140px-1.png",
+        "title": "Dwarven Gold"
+    },
+    "lady-of-the-moon-slot": {
+        "symbol": "vs13ladyofmoon",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2016\/05\/35_Lady-of-the-Moon_desktop_330x140px-2.png",
+        "title": "Lady of the Moon"
+    },
+    "aladdins-treasure-slot": {
+        "symbol": "vs50amt",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2016\/05\/12_Aladdins-Treasure_desktop-330x140px-1.png",
+        "title": "Aladdin’s Treasure"
+    },
+    "hockey-league-slot": {
+        "symbol": "vs20hockey",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2016\/05\/thumbs_Hockey_remake_330x140px-1.png",
+        "title": "Hockey League"
+    },
+    "magic-crystals-slot": {
+        "symbol": "vs243crystalcave",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2016\/05\/thumb-_Magic-Crystals__330x140px.png",
+        "title": "Magic Crystals"
+    },
+    "the-catfather-slot": {
+        "symbol": "vs9catz",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2016\/05\/thumb_The-Catfather-__330x140px.png",
+        "title": "The Catfather™"
+    },
+    "lady-godiva-slot": {
+        "symbol": "vs20godiva",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2016\/05\/06_Lady-Godiva_desktop_330x140px-1.png",
+        "title": "Lady Godiva™"
+    },
+    "mighty-kong-slot": {
+        "symbol": "vs50kingkong",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2016\/05\/05_Mighty-Kong_desktop-330x140px-5.png",
+        "title": "Mighty Kong™"
+    },
+    "hockey-league-wild-match-slot": {
+        "symbol": "vs9hockey",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2016\/05\/04_Hockey-League-Wild-Match_desktop_330x140px-1.png",
+        "title": "Hockey League Wild Match™"
+    },
+    "7-monkeys-slot": {
+        "symbol": "vs7monkeys",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2016\/05\/11_7-Monkeys_desktop_330x140px-1.png",
+        "title": "7 Monkeys"
+    },
+    "romeo-and-juliet-slot": {
+        "symbol": "vs25romeoandjuliet",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2016\/05\/02_Romeo-and-Juliet_desktop_330x140px-2.png",
+        "title": "Romeo and Juliet™"
+    },
+    "the-catfather-part-slot": {
+        "symbol": "vs30catz",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2016\/11\/thumbs-pt-site_Catz-Part-II_330x140px-2.png",
+        "title": "The Catfather Part II™"
+    },
+    "lucky-dragons-slot": {
+        "symbol": "vs50chinesecharms",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2016\/07\/Lucky-Dragons_330x140px-2.png",
+        "title": "Lucky Dragons™"
+    },
+    "journey-to-the-west-slot": {
+        "symbol": "vs25journey",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2016\/10\/thumbs-pt-site_Journey-to-the-West_330x140px.png",
+        "title": "Journey to the West™"
+    },
+    "3-genie-wishes-slot": {
+        "symbol": "vs50aladdin",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2016\/11\/thumbs-pt-site_3-GENIE-WISHES_330x140px.png",
+        "title": "3 Genie Wishes™"
+    },
+    "dragon-kingdom-slot": {
+        "symbol": "vs25dragonkingdom",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2016\/12\/thumbs-pt-site_3-Dragon-Kingdom_330x140px-1.png",
+        "title": "Dragon Kingdom™"
+    },
+    "hercules-son-zeus-slot": {
+        "symbol": "vs50hercules",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2016\/12\/thumbs-pt-site_Hercules-son-of-Zeus_330x140px-2.png",
+        "title": "Hercules Son of Zeus™"
+    },
+    "888-gold-slot": {
+        "symbol": "cs5triple8gold",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2017\/02\/thumbs-pt-site_888_GOLD_330x140px-2.png",
+        "title": "888 Gold™"
+    },
+    "irish-charms-slot": {
+        "symbol": "cs3irishcharms",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2017\/03\/thumbs-pt-site_IRISH-CHARMS__330x140px-1-1.png",
+        "title": "Irish Charms™"
+    },
+    "queen-of-atlantis-slot": {
+        "symbol": "vs1024atlantis",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2017\/03\/thumbs-pt-site_QUEEN-of-Atlantis__330x140px-4-1.png",
+        "title": "Queen of Atlantis™"
+    },
+    "panther-queen-slot": {
+        "symbol": "vs25pantherqueen",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2017\/03\/thumbs-pt-site__Panther-Queen__330x140px-1.png",
+        "title": "Panther Queen™"
+    },
+    "3-kingdoms-battle-of-red-cliffs-slot": {
+        "symbol": "vs25kingdoms",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2017\/04\/thumb-_3-Kingdoms__330x140px.png",
+        "title": "3 Kingdoms – Battle of Red Cliffs™"
+    },
+    "safari-king-slot": {
+        "symbol": "vs50safariking",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2019\/01\/Safari-Kings™_339x180px-2.png",
+        "title": "Safari King™"
+    },
+    "wild-gladiators-slot": {
+        "symbol": "vs25gladiator",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2019\/01\/Wild-Gladiators™_339x180px_03-2.png",
+        "title": "Wild Gladiators™"
+    },
+    "8-dragons-slot": {
+        "symbol": "vs20eightdragons",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2017\/05\/thumb_8_Dragons_330x140px-1.png",
+        "title": "8 Dragons™"
+    },
+    "treasure-wild": {
+        "symbol": "vs20trsbox",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2021\/09\/Treasure-wild_339x180.png",
+        "title": "Treasure Wild™"
+    },
+    "christmas-carol-megaways": {
+        "symbol": "vs20xmascarol",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2020\/11\/Christmas-Carol-Megaways__EN_339x180.png",
+        "title": "Christmas Carol Megaways™"
+    },
+    "curse-of-the-werewolf-megaways-slot": {
+        "symbol": "vswayswerewolf",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2020\/08\/Curse_of_the_Werewolf_Megaways™_EN_339x180.png",
+        "title": "Curse of the Werewolf Megaways™"
+    },
+    "diamonds-are-forever-3-lines-slot": {
+        "symbol": "cs3w",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2016\/05\/thumbs-pt-site_330x140px.png",
+        "title": "Diamonds are Forever 3 Lines™"
+    },
+    "drago-jewels-of-fortune-slot": {
+        "symbol": "vs1600drago",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2020\/06\/Drago_JOF™_339x180-1.png",
+        "title": "Drago – Jewels of Fortune™"
+    },
+    "dragon-hot-hold-and-spin": {
+        "symbol": "vs5drhs",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2021\/06\/DHHS_EN_339x180_04.png",
+        "title": "Dragon Hot Hold and Spin™"
+    },
+    "dragon-kingdom-eyes-of-fire": {
+        "symbol": "vs5drmystery",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2021\/01\/DKEOF_EN_339x180-1.png",
+        "title": "Dragon Kingdom – Eyes of Fire™"
+    },
+    "john-hunter-and-the-mayan-gods": {
+        "symbol": "vs10mayangods",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2020\/11\/John-Hunter-and-the-Mayan-Gods™_EN_339x180_01.png",
+        "title": "John Hunter and the Mayan Gods™"
+    },
+    "the-amazing-money-machine": {
+        "symbol": "vs10amm",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2021\/04\/Amazing_Money_Machine_EN_339x180.png",
+        "title": "The Amazing Money Machine™"
+    },
+    "the-magic-cauldron-enchanted-brew": {
+        "symbol": "vs20magicpot",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2021\/05\/The_Magic_Cauldron_EN_339x180.png",
+        "title": "The Magic Cauldron – Enchanted Brew™"
+    },
+    "piggy-bank-bills": {
+        "symbol": "vs9piggybank",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2021\/09\/Piggy-Bank-Bills_339x180.png",
+        "title": "Piggy Bank Bills™"
+    },
+    "mystic-chief": {
+        "symbol": "vswayswest",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2021\/09\/Mystic-Chief_EN_339x180.png",
+        "title": "Mystic Chief™"
+    },
+    "cash-bonanza": {
+        "symbol": "vswaysbankbonz",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2021\/09\/Cash_Bonanza_EN_339x180.png",
+        "title": "Cash Bonanza™"
+    },
+    "day-of-dead": {
+        "symbol": "vs20daydead",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2021\/10\/Day-of-Dead_339x180-2.png",
+        "title": "Day of Dead™"
+    },
+    "star-pirates-code": {
+        "symbol": "vs10starpirate",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2021\/10\/StarPiratesCode™_EN_339x180_04.png",
+        "title": "Star Pirates Code™"
+    },
+    "big-juan": {
+        "symbol": "vs40bigjuan",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2021\/10\/Big-Juan_339x180.png",
+        "title": "Big Juan™"
+    },
+    "bounty-gold": {
+        "symbol": "vs25btygold",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2021\/10\/BOUNTY-GOLD_EN_339x180.png",
+        "title": "Bounty Gold™"
+    },
+    "super-x": {
+        "symbol": "vs20superx",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2021\/11\/Super_X_EN_339x180.png",
+        "title": "Super X™"
+    },
+    "christmas-big-bass-bonanza": {
+        "symbol": "vs10bxmasbnza",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2021\/11\/ChristmasBBB™_EN_339x180_04.png",
+        "title": "Christmas Big Bass Bonanza™"
+    },
+    "crystal-caverns-megaways": {
+        "symbol": "vswayscryscav",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2021\/12\/Crystal-Cavern-Megaways_339x180-1.png",
+        "title": "Crystal Caverns Megaways™"
+    },
+    "magicians-secrets": {
+        "symbol": "vs4096magician",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2021\/12\/MASE_EN_339x180.png",
+        "title": "Magician’s Secrets™"
+    },
+    "santas-wonderland": {
+        "symbol": "vs20santawonder",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2021\/11\/Santass-Wonderland_339x180-2.png",
+        "title": "Santa’s Wonderland™"
+    },
+    "smugglers-cove": {
+        "symbol": "vs20smugcove",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2021\/11\/SMUGGLERS-COVE_339x180.png",
+        "title": "Smugglers Cove™"
+    },
+    "gold-party": {
+        "symbol": "vs25goldparty",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2022\/01\/Gold-Party_EN_339x180.png",
+        "title": "Gold Party®"
+    },
+    "book-of-the-fallen": {
+        "symbol": "vs10bookfallen",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2021\/11\/Book-of-Fallen_339x180-1.png",
+        "title": "Book of the Fallen™"
+    },
+    "rock-vegas": {
+        "symbol": "vs20rockvegas",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2022\/01\/Rock-Vegas™_EN_339x180_04.png",
+        "title": "Rock Vegas™"
+    },
+    "wild-depths": {
+        "symbol": "vs40wanderw",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2021\/12\/Wild-Depth_339x180-1.png",
+        "title": "Wild Depths™"
+    },
+    "gates-of-valhalla": {
+        "symbol": "vs10runes",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2022\/01\/Gate_Of_Valhalla_EN_339x180.png",
+        "title": "Gates of Valhalla™"
+    },
+    "the-ultimate-5": {
+        "symbol": "vs20ultim5",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2022\/01\/TU5_EN_339x180.png",
+        "title": "The Ultimate 5"
+    },
+    "elemental-gems-megaways": {
+        "symbol": "vswayselements",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2022\/01\/ELEMENTAL-GEMS-MW_339x180.png",
+        "title": "Elemental Gems Megaways™"
+    },
+    "might-of-ra": {
+        "symbol": "vs50mightra",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2022\/02\/Might_of_Ra_EN_339x180.png",
+        "title": "Might of Ra"
+    },
+    "snakes-and-ladders-megadice": {
+        "symbol": "vs10snakeladd",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2022\/02\/Snakes-and-Ladders_EN_339x180_04.png",
+        "title": "Snakes and Ladders Megadice™"
+    },
+    "extra-juicy-megaways": {
+        "symbol": "vswaysxjuicy",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2022\/01\/Extra-Juicy-Megaways_339x180.png",
+        "title": "Extra Juicy Megaways™"
+    },
+    "queenie": {
+        "symbol": "vs243queenie",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2022\/02\/Queenie_EN_339x180.png",
+        "title": "Queenie™"
+    },
+    "wild-beach-party": {
+        "symbol": "vs20bchprty",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2022\/02\/Wild_Beach_Party_EN_339x180-1.png",
+        "title": "Wild Beach Party™"
+    },
+    "drill-that-gold": {
+        "symbol": "vs20drtgold",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2022\/03\/Drill_That_Gold_EN_339x180.png",
+        "title": "Drill that Gold"
+    },
+    "rainbow-gold": {
+        "symbol": "vs20rainbowg",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2022\/03\/Rainbow_Gold_339x180.png",
+        "title": "Rainbow Gold™"
+    },
+    "tic-tac-take": {
+        "symbol": "vs10tictac",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2022\/03\/TTT_EN_339x180_04.png",
+        "title": "Tic Tac Take"
+    },
+    "barn-festival": {
+        "symbol": "vs20farmfest",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2022\/03\/Barn-Festival_339x180.png",
+        "title": "Barn Festival"
+    },
+    "eye-of-cleopatra": {
+        "symbol": "vs40cleoeye",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2022\/04\/Eye-of-Cleo_339x180.png",
+        "title": "Eye of Cleopatra™"
+    },
+    "wolf-gold-scratchcard": {
+        "symbol": "scwolfgold",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2017\/12\/thumbs-pt-site_330x140px.png",
+        "title": "Wolf Gold Scratchcard"
+    },
+    "gold-rush-scratchcard": {
+        "symbol": "scgoldrush",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2017\/12\/thumbs-pt-site_330x140px-1.png",
+        "title": "Gold Rush Scratchcard"
+    },
+    "queen-of-gold-scratchcard": {
+        "symbol": "scqog",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2017\/12\/thumbs-pt-site_330x140px-3.png",
+        "title": "Queen of Gold Scratchcard"
+    },
+    "hot-safari-scratchcard": {
+        "symbol": "scsafari",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2017\/12\/thumbs-pt-site_667x414-px-4.png",
+        "title": "Hot Safari Scratchcard"
+    },
+    "panda-gold-scratchcard": {
+        "symbol": "scpanda",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2017\/12\/thumbs-pt-site_330x140px-5.png",
+        "title": "Panda Gold Scratchcard"
+    },
+    "7-piggies-scratchcard": {
+        "symbol": "sc7piggies",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2017\/12\/thumbs-pt-site_330x140px-6.png",
+        "title": "7 Piggies Scratchcard"
+    },
+    "diamond-strike-scratchcard": {
+        "symbol": "scdiamond",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2017\/12\/thumbs-pt-site_330x140px-2.png",
+        "title": "Diamond Strike Scratchcard"
+    },
+    "spirit-of-adventure": {
+        "symbol": "vs10spiritadv",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2022\/04\/Spirit-of-Adventure™_EN_339x180_04.png",
+        "title": "Spirit of Adventure"
+    },
+    "north-guardians": {
+        "symbol": "vs50northgard",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2022\/04\/NORTH-GUARDIANS_339x180.png",
+        "title": "North Guardians"
+    },
+    "fire-strike-2": {
+        "symbol": "vs10firestrike2",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2022\/04\/FIRE-STRIKE2_339x180.png",
+        "title": "Fire Strike 2"
+    },
+    "chicken-chase": {
+        "symbol": "vs10chkchase",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2022\/03\/Chicken-Chase_339x180.png",
+        "title": "Chicken Chase"
+    },
+    "the-great-stick-up": {
+        "symbol": "vs20stickysymbol",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2022\/05\/THE-GREAT-STICK-UP_339x180.png",
+        "title": "The Great Stick-Up"
+    },
+    "little-gem": {
+        "symbol": "vs5littlegem",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2022\/05\/Little-Gem_339x180-1.png",
+        "title": "Little Gem"
+    },
+    "zombie-carnival": {
+        "symbol": "vswayszombcarn",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2022\/05\/ZOMBIE-CARNIVAL_339x180.png",
+        "title": "Zombie Carnival"
+    },
+    "fortune-of-giza": {
+        "symbol": "vs20amuleteg",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2021\/12\/Amulet_of_Egypt_667x414.png",
+        "title": "Fortune of Giza™"
+    },
+    "queen-of-gods": {
+        "symbol": "vs10egrich",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2022\/06\/Queen-of-Gods_339x180.png",
+        "title": "Queen of Gods"
+    },
+    "cash-patrol": {
+        "symbol": "vs25copsrobbers",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2022\/02\/Cash-Patrol_339x180-1.png",
+        "title": "Cash Patrol"
+    },
+    "bomb-bonanza": {
+        "symbol": "vs25bomb",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2022\/06\/Bomb-Bonanza_339x180.png",
+        "title": "Bomb Bonanza"
+    },
+    "cosmic-cash": {
+        "symbol": "vs40cosmiccash",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2022\/06\/Cosmic-Cash_339x180.png",
+        "title": "Cosmic Cash"
+    },
+    "shining-hot-5": {
+        "symbol": "vs5sh",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2022\/07\/Shining-Hot-5_339x180.png",
+        "title": "Shining Hot 5"
+    },
+    "shining-hot-20": {
+        "symbol": "vs20sh",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2022\/07\/Shining-Hot-20_339x180.png",
+        "title": "Shining Hot 20"
+    },
+    "shining-hot-40": {
+        "symbol": "vs40sh",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2022\/07\/Shining-Hot-40_339x180.png",
+        "title": "Shining Hot 40"
+    },
+    "shining-hot-100": {
+        "symbol": "vs100sh",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2022\/07\/Shining-Hot-100_339x180.png",
+        "title": "Shining Hot 100"
+    },
+    "tropical-tiki": {
+        "symbol": "vswaysjkrdrop",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2022\/07\/Tropical-Tiki_339x180.png",
+        "title": "Tropical Tiki"
+    },
+    "magic-money-maze": {
+        "symbol": "vs10mmm",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2022\/07\/Magic-Money-Maze™_EN_339x180_04.png",
+        "title": "Magic Money Maze"
+    },
+    "gorilla-mayhem": {
+        "symbol": "vs1024gmayhem",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2022\/07\/Gorilla-Mayhem_339x180.png",
+        "title": "Gorilla Mayhem"
+    },
+    "greedy-wolf": {
+        "symbol": "vs20wolfie",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2022\/07\/Greedy-Wolf_339x180.png",
+        "title": "Greedy Wolf"
+    },
+    "fire-hot-5": {
+        "symbol": "vs5firehot",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2022\/08\/Fire-Hot-5_339x180.png",
+        "title": "Fire Hot 5"
+    },
+    "fire-hot-20": {
+        "symbol": "vs20fh",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2022\/08\/Fire-Hot-20_339x180.png",
+        "title": "Fire Hot 20"
+    },
+    "fire-hot-40": {
+        "symbol": "vs40firehot",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2022\/08\/Fire-Hot-40_339x180.png",
+        "title": "Fire Hot 40"
+    },
+    "fire-hot-100": {
+        "symbol": "vs100firehot",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2022\/08\/Fire-Hot-100_339x180.png",
+        "title": "Fire Hot 100"
+    },
+    "down-the-rails": {
+        "symbol": "vs20underground",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2022\/08\/339x180-1.png",
+        "title": "Down the Rails"
+    },
+    "octobeer-fortunes": {
+        "symbol": "vs20octobeer",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2022\/08\/Octobeer-Fortunes_339x180.png",
+        "title": "Octobeer Fortunes"
+    },
+    "happy-hooves": {
+        "symbol": "vs40mstrwild",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2022\/08\/Happy_Hooves_EN_339x180.png",
+        "title": "Happy Hooves"
+    },
+    "dwarven-gold-deluxe-slot": {
+        "symbol": "vs25dwarves_new",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2016\/05\/thumbs-pt-site_Dwarven-Gold-Deluxe_330x140px-1.png",
+        "title": "Dwarven Gold Deluxe™"
+    },
+    "striking-hot-5": {
+        "symbol": "vs5strh",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2022\/08\/Striking-Hot-5_339x180.png",
+        "title": "Striking Hot 5"
+    },
+    "book-of-golden-sands": {
+        "symbol": "vswaysbook",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2022\/09\/Book-of-Golden-Sands_339x180.png",
+        "title": "Book of Golden Sands"
+    },
+    "crown-of-fire": {
+        "symbol": "vs10crownfire",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2022\/09\/Crown-of-Fire_339x180-1.png",
+        "title": "Crown of Fire"
+    },
+    "wild-hopdrop": {
+        "symbol": "vs20mparty",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2022\/09\/Wild-HopDrop_339x180.png",
+        "title": "Wild Hop&Drop"
+    },
+    "floating-dragon-megaways": {
+        "symbol": "vswaysfltdrg",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2022\/09\/Floating-Dragon-Megaways_339x180-1.png",
+        "title": "Floating Dragon Megaways"
+    },
+    "aztec-blaze": {
+        "symbol": "vs25kfruit",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2022\/09\/Aztec-Blaze_339x180.png",
+        "title": "Aztec Blaze"
+    },
+    "black-bull": {
+        "symbol": "vs20trswild2",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2022\/07\/Black-Bull_339x180.png",
+        "title": "Black Bull"
+    },
+    "pirate-golden-age": {
+        "symbol": "vs20mtreasure",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2022\/09\/Pirate-Golden-Age_339x180.png",
+        "title": "Pirate Golden Age"
+    },
+    "firebird-spirit": {
+        "symbol": "vswaysconcoll",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2022\/09\/Firebird-Spirit_339x180.png",
+        "title": "Firebird Spirit"
+    },
+    "muertos-multiplier-megaways": {
+        "symbol": "vs20muertos",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2022\/09\/Muertos-Multiplier-Megaways_339x180.png",
+        "title": "Muertos Multiplier Megaways"
+    },
+    "candy-stars": {
+        "symbol": "vswaysstrwild",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2022\/09\/Candy_Star_339x180.png",
+        "title": "Candy Stars"
+    },
+    "big-bass-keeping-it-reel": {
+        "symbol": "vs10bbkir",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2022\/10\/Big_Bass_Bonanza_Keeping_it_Reel_EN_339x180.png",
+        "title": "Big Bass – Keeping it Reel"
+    },
+    "john-hunter-and-the-quest-for-bermuda-riches": {
+        "symbol": "vs20bermuda",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2021\/10\/John-Hunter-the-Quest-for-Bermuda-Riches_339x180.png",
+        "title": "John Hunter and the Quest for Bermuda Riches™"
+    },
+    "sword-of-ares": {
+        "symbol": "vs20swordofares",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2022\/10\/Sword-of-Ares_339x180.png",
+        "title": "Sword of Ares™"
+    },
+    "towering-fortunes": {
+        "symbol": "vs20theights",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2022\/10\/Towering-Fortunes_339x180.png",
+        "title": "Towering Fortunes™"
+    },
+    "spin-score-megaways": {
+        "symbol": "vswaysfrywld",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2022\/10\/Spin__Score_Megaways_339x180.png",
+        "title": "Spin & Score Megaways™"
+    },
+    "hot-safari-slot": {
+        "symbol": "vs25safari",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2016\/05\/03_Hot-Safari_desktop_330x140px-2.png",
+        "title": "Hot Safari™"
+    },
+    "release-the-kraken-2": {
+        "symbol": "vs20kraken2",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2022\/10\/Release_The_Kraken_2_339x180.png",
+        "title": "Release the Kraken® 2"
+    },
+    "wild-west-gold-megaways": {
+        "symbol": "vswayswildwest",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2022\/05\/Wild_West_Gold_Megaways_EN_339x180_01-1.png",
+        "title": "Wild West Gold® Megaways"
+    },
+    "goblin-heist-powernudge": {
+        "symbol": "vs20gobnudge",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2022\/04\/Goblin_Hiest_339x180.png",
+        "title": "Goblin Heist PowerNudge™"
+    },
+    "colossal-cash-zone": {
+        "symbol": "vs20colcashzone",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2022\/01\/Colossal_Cash_Zone_EN_339x180.png",
+        "title": "Colossal Cash Zone™"
+    },
+    "yum-yum-powerways": {
+        "symbol": "vswaysyumyum",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2021\/08\/339x180_Yum-Yum-Powerways_Thumbnails-1.png",
+        "title": "Yum Yum PowerWays®"
+    },
+    "rise-of-giza-powernudge": {
+        "symbol": "vs10nudgeit",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2021\/07\/Rise_of_Giza_PN_EN_339x180.png",
+        "title": "Rise of Giza PowerNudge™"
+    },
+    "chicken-drop": {
+        "symbol": "vs20chickdrop",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2021\/07\/Chicken_Drop_EN_339x180.png",
+        "title": "Chicken Drop®"
+    },
+    "book-of-vikings": {
+        "symbol": "vs10bookviking",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2021\/06\/BOV__EN_339x180.png",
+        "title": "Book of Vikings®"
+    },
+    "emerald-king-rainbow-road": {
+        "symbol": "vs20ekingrr",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2021\/01\/EKRR_EN_339x180.png",
+        "title": "Emerald King® Rainbow Road"
+    },
+    "book-of-kingdoms": {
+        "symbol": "vs25bkofkngdm",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2020\/10\/Book_of_KingdomsOao_EN_339x180.png",
+        "title": "Book of Kingdoms®"
+    },
+    "gems-bonanza": {
+        "symbol": "vs20goldfever",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2020\/09\/Gems-Bonanza™_339x180_01-1.png",
+        "title": "Gems Bonanza®"
+    },
+    "emerald-king-slot": {
+        "symbol": "vs20eking",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2020\/09\/Emerald_King_Thumbnail.png",
+        "title": "Emerald King®"
+    },
+    "ultra-burn-slot": {
+        "symbol": "vs5ultrab",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2020\/05\/Ultra_Burn_EN_339x180-1.png",
+        "title": "Ultra Burn®"
+    },
+    "release-the-kraken-slot": {
+        "symbol": "vs20kraken",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2020\/01\/ReleaseTheKraken™_EN_339x180_01-1.png",
+        "title": "Release the Kraken®"
+    },
+    "diamond-strike-slot": {
+        "symbol": "vs15diamond",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2017\/09\/thumbs-pt-site_Diamond-Strike_330x140px-1.png",
+        "title": "Diamond Strike®"
+    },
+    "pixie-wings-slot": {
+        "symbol": "vs50pixie",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2017\/07\/thumbs-pt-sitePixie_Wings_330x140px-2-1.png",
+        "title": "Pixie Wings®"
+    },
+    "jurassic-giants-slot": {
+        "symbol": "vs4096jurassic",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2017\/06\/thumbs_Jurassic-Giants_330x140px-1.png",
+        "title": "Jurassic Giants®"
+    },
+    "john-hunter-and-the-book-of-tut-respin": {
+        "symbol": "vs10tut",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2022\/09\/John-Hunter-Book-of-Tut-Respin_339x180.png",
+        "title": "John Hunter and the Book of Tut Respin™"
+    },
+    "shield-of-sparta": {
+        "symbol": "vs20sparta",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2022\/11\/Shield-of-Sparta_339x180-1.png",
+        "title": "Shield of Sparta™"
+    },
+    "gems-of-serengeti": {
+        "symbol": "vs20lcount",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2022\/11\/Gems_of_Serengeti_339x180.png",
+        "title": "Gems of Serengeti™"
+    },
+    "santas-great-gifts": {
+        "symbol": "vs20porbs",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2022\/11\/Santas_Great_Gifts_EN_339x180-1.png",
+        "title": "Santa’s Great Gifts™"
+    },
+    "snakes-ladders-snake-eyes": {
+        "symbol": "vs10snakeeyes",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2022\/10\/Snake__Ladders_Snake_Eyes_339x180-1.png",
+        "title": "Snakes & Ladders – Snake Eyes™"
+    },
+    "fury-of-odin-megaways": {
+        "symbol": "vswaysfuryodin",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2022\/11\/Fury-of-Odin_339x180.png",
+        "title": "Fury of Odin Megaways™"
+    },
+    "reel-banks": {
+        "symbol": "vs25rlbank",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2022\/11\/Reel-Banks_339x180.png",
+        "title": "Reel Banks™"
+    },
+    "hot-pepper": {
+        "symbol": "vs20dugems",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2022\/11\/HOT-PEPPER_339x180.png",
+        "title": "Hot Pepper™"
+    },
+    "pizza-pizza-pizza": {
+        "symbol": "vswayspizza",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2022\/11\/PPPizza_EN_380x230.png",
+        "title": "PIZZA! PIZZA? PIZZA!™"
+    },
+    "sweet-powernudge": {
+        "symbol": "vs20clspwrndg",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2022\/12\/Sweet-Powernudge_339x180.png",
+        "title": "Sweet Powernudge™"
+    },
+    "starlight-christmas": {
+        "symbol": "vs20schristmas",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2022\/11\/Starlight-Christmas_339x180.png",
+        "title": "Starlight Christmas"
+    },
+    "dragon-hero": {
+        "symbol": "vs20drgbless",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2022\/12\/Dragon_Hero_339x180.png",
+        "title": "Dragon Hero™"
+    },
+    "wild-wild-bananas": {
+        "symbol": "vswayswwhex",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2022\/12\/xd3TfPnE.png",
+        "title": "Wild Wild Bananas™"
+    },
+    "pinup-girls": {
+        "symbol": "vs20ltng",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2023\/01\/Pinup_Girls_339x180.png",
+        "title": "Pinup Girls"
+    },
+    "secret-city-gold": {
+        "symbol": "vs25spgldways",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2023\/01\/Secret-City-Gold_339x180.png",
+        "title": "Secret City Gold"
+    },
+    "fish-eye": {
+        "symbol": "vs10fisheye",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2023\/01\/Fish-Eye_339x180.png",
+        "title": "Fish Eye"
+    },
+    "mammoth-gold-megaways": {
+        "symbol": "vs20mammoth",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2023\/01\/MM_MW_339x180.png",
+        "title": "Mammoth Gold Megaways"
+    },
+    "monster-superlanche": {
+        "symbol": "vs20superlanche",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2023\/01\/monster_superlanche-1.png",
+        "title": "Monster Superlanche"
+    },
+    "fire-archer": {
+        "symbol": "vs25archer",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2023\/01\/Fire_Archer_339x180.png",
+        "title": "Fire Archer"
+    },
+    "club-tropicana": {
+        "symbol": "vs12tropicana",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2023\/01\/Club-Tropicana_339x180.png",
+        "title": "Club Tropicana™"
+    },
+    "peak-power": {
+        "symbol": "vs10powerlines",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2023\/02\/Peak-Power_339x180.png",
+        "title": "Peak Power™"
+    },
+    "cowboy-coins": {
+        "symbol": "vswaysultrcoin",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2023\/02\/s0zstLrY.png",
+        "title": "Cowboy Coins™"
+    },
+    "mochimon": {
+        "symbol": "vs20mochimon",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2023\/02\/Mochimon_339x180-1.png",
+        "title": "Mochimon™"
+    },
+    "jasmine-dreams": {
+        "symbol": "vs20mvwild",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2023\/03\/Jasmine-Dream_339x180.png",
+        "title": "Jasmine Dreams™"
+    },
+    "the-knight-king": {
+        "symbol": "vs20sknights",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2023\/03\/The-Knight-King_339x180.png",
+        "title": "The Knight King™"
+    },
+    "rabbit-garden": {
+        "symbol": "vs20goldclust",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2023\/03\/rabbit_garden.png",
+        "title": "Rabbit Garden"
+    },
+    "big-bass-hold-spinner": {
+        "symbol": "vs10bbhas",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2023\/03\/BBHaS_EN_339x180_04.png",
+        "title": "Big Bass – Hold & Spinner™"
+    },
+    "bigger-bass-blizzard-christmas-catch": {
+        "symbol": "vs12bbbxmas",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2022\/11\/BBBKiR_EN_339x180_04.png",
+        "title": "Bigger Bass Blizzard – Christmas Catch™"
+    },
+    "the-red-queen": {
+        "symbol": "vswaysredqueen",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2023\/03\/FCkYil5o.png",
+        "title": "The Red Queen™"
+    },
+    "gods-of-giza": {
+        "symbol": "vs10gizagods",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2023\/03\/Gods_Of_Giza.png",
+        "title": "Gods of Giza™"
+    },
+    "african-elephant": {
+        "symbol": "vs20hotzone",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2023\/03\/l_R0x2-4.png",
+        "title": "African Elephant™"
+    },
+    "wild-celebrity-bus-megaways": {
+        "symbol": "vswaysrsm",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2023\/04\/yUpenbrU.png",
+        "title": "Wild Celebrity Bus Megaways™"
+    },
+    "kingdom-of-the-dead": {
+        "symbol": "vs10kingofdth",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2023\/04\/Kingdom-of-the-Dead_339x180-1.png",
+        "title": "Kingdom of The Dead™"
+    },
+    "excalibur-unleashed": {
+        "symbol": "vs20excalibur",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2023\/04\/Excalibur_Unlished_339x180.png",
+        "title": "Excalibur Unleashed™"
+    },
+    "knight-hot-spotz": {
+        "symbol": "vs25spotz",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2023\/04\/Knight-Hot-Spotz_339x180.png",
+        "title": "Knight Hot Spotz™"
+    },
+    "diamonds-of-egypt": {
+        "symbol": "vswayseternity",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2023\/04\/Diamond_Of_Egypt.png",
+        "title": "Diamonds Of Egypt™"
+    },
+    "lamp-of-infinity": {
+        "symbol": "vs20lampinf",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2023\/04\/Lamp-of-Infinity_339x180.png",
+        "title": "Lamp Of Infinity™"
+    },
+    "jewel-rush": {
+        "symbol": "vs20jewelparty",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2023\/05\/Jewel-Rush_339x180.png",
+        "title": "Jewel Rush™"
+    },
+    "sticky-bees": {
+        "symbol": "vs20clustwild",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2023\/05\/Sticky-Bees_339x180.png",
+        "title": "Sticky Bees™"
+    },
+    "pirates-pub": {
+        "symbol": "vs9outlaw",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2023\/05\/Pirates-Pub_339x180.png",
+        "title": "Pirates Pub™"
+    },
+    "country-farming": {
+        "symbol": "vs20mysteryst",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2023\/05\/Country_Farmimg_339x180.png",
+        "title": "Country Farming™"
+    },
+    "fat-panda": {
+        "symbol": "vs20beefed",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2023\/06\/Fat_Panda_339x180.png",
+        "title": "Fat Panda™"
+    },
+    "big-bass-amazon-xtreme": {
+        "symbol": "vs10bbextreme",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2023\/06\/BBAEx_EN_339x180.png",
+        "title": "Big Bass Amazon Xtreme"
+    },
+    "heist-for-the-golden-nuggets": {
+        "symbol": "vs20hstgldngt",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2023\/06\/Heist-for-the-Golden-Nuggets_339x180.png",
+        "title": "Heist for the Golden Nuggets™"
+    },
+    "spellbinding-mystery": {
+        "symbol": "vs20splmystery",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2023\/06\/Spell-Binding-Mystery_339x180-1.png",
+        "title": "Spellbinding Mystery™"
+    },
+    "cash-box": {
+        "symbol": "vs20cashmachine",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2023\/06\/Cash-Box_339x180.png",
+        "title": "Cash Box™"
+    },
+    "power-of-merlin-megaways": {
+        "symbol": "vswayspowzeus",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2023\/06\/Power-of-Merlin-Megaways_339x180.png",
+        "title": "Power of Merlin Megaways™"
+    },
+    "wisdom-of-athena": {
+        "symbol": "vs20procount",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2023\/06\/Wisdom_Of_Athena_339x180.png",
+        "title": "Wisdom of Athena™"
+    },
+    "3-buzzing-wilds": {
+        "symbol": "vs20wildparty",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2023\/07\/3-Buzzing-Wilds_339x180.png",
+        "title": "3 Buzzing Wilds™"
+    },
+    "lobster-bobs-crazy-crab-shack": {
+        "symbol": "vs20lobcrab",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2023\/07\/Lobster-Bobs-Crazy-Crab-Shack_339x180.png",
+        "title": "Lobster Bob’s Crazy Crab Shack™"
+    },
+    "hellvis-wild": {
+        "symbol": "vs243nudge4gold",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2023\/06\/Hellvis-wild__339x180.png",
+        "title": "Hellvis Wild™"
+    },
+    "sky-bounty": {
+        "symbol": "vs50jucier",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2023\/07\/Sky-Bounty_339x180-1.png",
+        "title": "Sky Bounty™"
+    },
+    "diamond-cascade": {
+        "symbol": "vs50dmdcascade",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2023\/07\/Diamond-Cascade_339x180-300x159-1.png",
+        "title": "Diamond Cascade™"
+    },
+    "juicy-fruits": {
+        "symbol": "vs50juicyfr",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2021\/03\/Juicy_Fruits_EN_339x180.png",
+        "title": "Juicy Fruits™"
+    },
+    "rocket-blast-megaways": {
+        "symbol": "vswaysrockblst",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2023\/07\/Rocket-Blast-Megaways_339x180-1.png",
+        "title": "Rocket Blast Megaways"
+    },
+    "piggy-bankers": {
+        "symbol": "vs20piggybank",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2023\/07\/Piggy-Bankers_339x180-1.png",
+        "title": "Piggy Bankers™"
+    },
+    "pub-kings": {
+        "symbol": "vs20lvlup",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2023\/08\/Pub_King_339x180-1.png",
+        "title": "Pub Kings™"
+    },
+    "forge-of-olympus": {
+        "symbol": "vs20forge",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2023\/08\/Forge-of-Olympus_339x180-1-1.png",
+        "title": "Forge of Olympus™"
+    },
+    "jane-hunter-and-the-mask-of-montezuma": {
+        "symbol": "vs10jnmntzma",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2023\/04\/JHATMOM.png",
+        "title": "Jane Hunter and the Mask of Montezuma™"
+    },
+    "floating-dragon-dragon-boat-festival": {
+        "symbol": "vs10fdrasbf",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2023\/05\/Floating-Dragon-Boat_339x180.png",
+        "title": "Floating Dragon – Dragon Boat Festival™"
+    },
+    "big-bass-hold-spinner-megaways": {
+        "symbol": "vswaysbbhas",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2023\/08\/6Tn7u0er.png",
+        "title": "Big Bass Hold & Spinner Megaways™"
+    },
+    "mustang-trail": {
+        "symbol": "vs10trail",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2023\/08\/Mustang-Trail_339x180-1.png",
+        "title": "Mustang Trail™"
+    },
+    "candy-blitz": {
+        "symbol": "vs20candyblitz",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2023\/08\/Candy-Blitz_339x180-1.png",
+        "title": "Candy Blitz™"
+    },
+    "frozen-tropics": {
+        "symbol": "vswaysftropics",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2023\/08\/6VECEM9X.png",
+        "title": "Frozen Tropics™"
+    },
+    "book-of-tut-megaways": {
+        "symbol": "vswaystut",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2023\/09\/Book-of-Tut-Megaways_339x180.png",
+        "title": "Book of Tut Megaways™"
+    },
+    "cyclops-smash": {
+        "symbol": "vs20earthquake",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2023\/08\/Cyclops-Smash_339x180.png",
+        "title": "Cyclops Smash™"
+    },
+    "8-golden-dragon-challenge": {
+        "symbol": "vs10gdchalleng",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2023\/09\/8-Golden-Dragon-Challenge_339x180.png",
+        "title": "8 Golden Dragon Challenge™"
+    },
+    "fortunes-of-aztec": {
+        "symbol": "vswaysstrlght",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2023\/09\/Fortunes-of-the-Aztec_339x180.png",
+        "title": "Fortunes of Aztec™"
+    },
+    "gold-oasis": {
+        "symbol": "vswaysincwnd",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2023\/08\/Gold-Oasis_339x180.png",
+        "title": "Gold Oasis™"
+    },
+    "rainbow-reels": {
+        "symbol": "vs40rainbowr",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2023\/09\/Rainbow-Reels_-_339x180.png",
+        "title": "Rainbow Reels™"
+    },
+    "gravity-bonanza": {
+        "symbol": "vs20gravity",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2023\/09\/Gravity-Bonanza_339x180-1.png",
+        "title": "Gravity Bonanza™"
+    },
+    "twilight-princess": {
+        "symbol": "vs20dhcluster",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2023\/09\/Twilight-Princess_339x180.png",
+        "title": "Twilight Princess™"
+    },
+    "demon-pots": {
+        "symbol": "vs40demonpots",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2023\/09\/Demon-Pots_339x180.png",
+        "title": "Demon Pots™"
+    },
+    "cash-chips": {
+        "symbol": "vs20maskgame",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2023\/09\/Cash-Chips_339x180.png",
+        "title": "Cash Chips™"
+    },
+    "big-bass-crash": {
+        "symbol": "",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2023\/09\/Big-Bass-Crash_339x180.png",
+        "title": "Big Bass Crash™"
+    },
+    "tundras-fortune": {
+        "symbol": "vswaysraghex",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2023\/09\/Tundras-Fortune_339x180-1.png",
+        "title": "Tundra’s Fortune™"
+    },
+    "infective-wild": {
+        "symbol": "vs40infwild",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2023\/09\/Infective-Wild™_339x180.png",
+        "title": "Infective Wild™"
+    },
+    "big-bass-halloween": {
+        "symbol": "vs10bhallbnza",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2023\/10\/Big_Bass_Halloween_339x180.png",
+        "title": "Big Bass Halloween™"
+    },
+    "the-money-men-megaways": {
+        "symbol": "vswaysmoneyman",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2023\/10\/The-Money-men_Megaways_339x180.png",
+        "title": "The Money Men Megaways™"
+    },
+    "starlight-princess-1000": {
+        "symbol": "vs20starlightx",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2023\/07\/Starlight-Princess-1000_339x180.png",
+        "title": "Starlight Princess 1000™"
+    },
+    "viking-forge": {
+        "symbol": "vs20sugarcoins",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2023\/10\/Viking-Forge_339x180.png",
+        "title": "Viking Forge™"
+    },
+    "timber-stacks": {
+        "symbol": "vswaystimber",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2023\/10\/Timber-Stacks_339x180.png",
+        "title": "Timber Stacks™"
+    },
+    "chase-for-glory": {
+        "symbol": "vswayscfglory",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2023\/10\/Chase-for-Glory_339x180.png",
+        "title": "Chase for Glory™"
+    },
+    "nile-fortune": {
+        "symbol": "vs20nilefort",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2023\/10\/Nile-Fortune_339x180.png",
+        "title": "Nile Fortune™"
+    },
+    "sugar-supreme-powernudge": {
+        "symbol": "vs20sugarnudge",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2023\/10\/Sugar-Supreme-Powernudge_339x180.png",
+        "title": "Sugar Supreme Powernudge™"
+    },
+    "the-wild-gang": {
+        "symbol": "vswayswildgang",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2023\/11\/The-Wild-Gang_339x180.png",
+        "title": "The Wild Gang™"
+    },
+    "big-bass-christmas-bash": {
+        "symbol": "vs10bbsplxmas",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2023\/11\/Big-Bass-Christmas-Bash_339x180.png",
+        "title": "Big Bass Christmas Bash™"
+    },
+    "5-frozen-charms-megaways": {
+        "symbol": "vswayscharms",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2023\/11\/5-Frozen-Charms-Megaways_339x180.png",
+        "title": "5 Frozen Charms Megaways™"
+    },
+    "sugar-rush-xmas": {
+        "symbol": "vs20sugrux",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2023\/11\/Sugar-Rush-Xmas_339x180.png",
+        "title": "Sugar Rush Xmas™"
+    },
+    "ding-dong-christmas-bells": {
+        "symbol": "vs10ddcbells",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2023\/11\/Ding-Dong-Christmas-Bells-_339x180.png",
+        "title": "Ding Dong Christmas Bells™"
+    },
+    "floating-dragon-new-year-festival-ultra-megaways-hold-spin": {
+        "symbol": "vswaysfltdrgny",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2023\/12\/Floating-Dragon-New-Year-Festival-Ultra-Megaways-Hold-Spin_339x180.png",
+        "title": "Floating Dragon New Year Festival Ultra Megaways™ Hold & Spin"
+    },
+    "gates-of-olympus-1000": {
+        "symbol": "vs20olympx",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2023\/12\/Gates-of-Olympus_1000_339x180.png",
+        "title": "Gates of Olympus 1000™"
+    },
+    "juicy-fruits-multihold": {
+        "symbol": "vs50jfmulthold",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2023\/12\/Juicy-Fruits-Multihold_339x180.png",
+        "title": "Juicy Fruits Multihold™"
+    },
+    "the-big-dawgs": {
+        "symbol": "vs20bigdawgs",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2023\/12\/The-Big-Dawgs_339x180.png",
+        "title": "The Big Dawgs"
+    },
+    "castle-of-fire": {
+        "symbol": "vswaysexpandng",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2023\/12\/Castle-of-Fire_339x180.png",
+        "title": "Castle of Fire"
+    },
+    "candy-jar-clusters": {
+        "symbol": "vs20cjcluster",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2023\/11\/Candy-Jar-Cluster_339x180.png",
+        "title": "Candy Jar Clusters™"
+    },
+    "year-of-the-dragon-king": {
+        "symbol": "vs20yotdk",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2023\/12\/Year-Of-The-Dragon-King_339x180.png",
+        "title": "Year of the Dragon King"
+    },
+    "blade-fangs": {
+        "symbol": "vs20mergedwndw",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2023\/12\/Blade-Fangs_339x180.png",
+        "title": "Blade & Fangs"
+    },
+    "blazing-wilds-megaways": {
+        "symbol": "vswaysfirewmw",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2024\/01\/Blazing-Wilds-Megaways_339x180.png",
+        "title": "Blazing Wilds Megaways"
+    },
+    "lokis-riches": {
+        "symbol": "vs20loksriches",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2024\/01\/Lokis-Riches_339x180-1.png",
+        "title": "Loki’s Riches"
+    },
+    "red-hot-luck": {
+        "symbol": "vs20powerpays",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2024\/01\/Red-Hot-Luck_339x180.png",
+        "title": "Red Hot Luck"
+    },
+    "good-luck-good-fortune": {
+        "symbol": "vs10luckfort",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2023\/12\/Good-Luck-Good-Fortune_339x180.png",
+        "title": "Good Luck & Good Fortune"
+    },
+    "trees-of-treasure": {
+        "symbol": "vs20treesot",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2024\/01\/Trees-of-Treasure_339x180.png",
+        "title": "Trees of Treasure"
+    },
+    "the-alter-ego": {
+        "symbol": "vswaysalterego",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2024\/01\/The-Alter-Ego_339x180-2.png",
+        "title": "The Alter Ego"
+    },
+    "pompeii-megareels-megaways": {
+        "symbol": "vswaysmegareel",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2024\/01\/Pompeii-Megareels-Megaways_339x180.png",
+        "title": "Pompeii Megareels Megaways™"
+    },
+    "big-bass-floats-my-boat": {
+        "symbol": "vs10bbfloats",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2024\/01\/Big-Bass-Floats-My-Boat_339x180.png",
+        "title": "Big Bass Floats My Boat"
+    },
+    "strawberry-cocktail": {
+        "symbol": "vs10strawberry",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2024\/02\/Strawberry-Cocktail_339x180.png",
+        "title": "Strawberry Cocktail"
+    },
+    "mighty-munching-melons": {
+        "symbol": "vs20mmmelon",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2024\/02\/Mighty_Munching_Melons_339x180.png",
+        "title": "Mighty Munching Melons"
+    },
+    "wheel-ogold": {
+        "symbol": "vs20multiup",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2024\/01\/Wheel-OGold_339x180.png",
+        "title": "Wheel O’Gold"
+    },
+    "gears-of-horus": {
+        "symbol": "vs20clustext",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2024\/02\/Gears-of-Horus_339x180-1.png",
+        "title": "Gears of Horus"
+    },
+    "big-bass-day-at-the-races": {
+        "symbol": "vs10bbbnz",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2024\/02\/Big-Bass-Day-at-The-Races_339x180.png",
+        "title": "Big Bass Day at the Races"
+    },
+    "beware-the-deep-megaways": {
+        "symbol": "vswaysbewaretd",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2024\/02\/Beware-The-Deep-Megaways_339x180.png",
+        "title": "Beware The Deep Megaways™"
+    },
+    "pot-of-fortune": {
+        "symbol": "vs20stckwldsc",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2024\/03\/Pot-of-Fortune_339x180.png",
+        "title": "Pot of Fortune"
+    },
+    "fire-portals": {
+        "symbol": "vs20portals",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2024\/03\/Fire-Portals_339x180.png",
+        "title": "Fire Portals"
+    },
+    "big-burger-load-it-up-with-xtra-cheese": {
+        "symbol": "vs10bburger",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2024\/03\/Big-Burger-Load-It-Up-With-Xtra-Cheese_339x180.png",
+        "title": "Big Burger Load it up with Xtra cheese"
+    },
+    "the-dog-house-dog-or-alive": {
+        "symbol": "vs20doghouse2",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2024\/03\/The-Dog-House-Dog-or-Alive_339x180-2.png",
+        "title": "The Dog House – Dog or Alive"
+    },
+    "ripe-rewards": {
+        "symbol": "vs40stckwldlvl",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2024\/03\/Ripe-Rewards_339x180.png",
+        "title": "Ripe Rewards"
+    },
+    "aztec-powernudge": {
+        "symbol": "vs20sbpnudge",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2024\/03\/Aztec-Powernudge_339x180.png",
+        "title": "Aztec Powernudge"
+    },
+    "ice-lobster": {
+        "symbol": "vs20stickypos",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2024\/03\/Ice-Lobster_339x180.png",
+        "title": "Ice Lobster"
+    },
+    "big-bass-secrets-of-the-golden-lake": {
+        "symbol": "vs10bblotgl",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2024\/03\/Big-Bass-Secrets-of-the-Golden-Lake_339x180.png",
+        "title": "Big Bass Secrets of the Golden Lake"
+    },
+    "barnyard-megahays-megaways": {
+        "symbol": "vswaysmegahays",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2024\/03\/Barnyard-Megahays-Megaways_339x180-1.png",
+        "title": "Barnyard Megahays Megaways™"
+    },
+    "lobster-bobs-sea-food-and-win-it": {
+        "symbol": "vs20lobseafd",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2024\/04\/Lobster-Bobs-Sea-Food-and-Win-It_339x180.png",
+        "title": "Lobster Bob’s Sea Food and Win It"
+    },
+    "release-the-bison": {
+        "symbol": "vs20bison",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2024\/03\/Release-the-Bison_339x180.png",
+        "title": "Release the Bison"
+    },
+    "candy-blitz-bombs": {
+        "symbol": "vs20candybltz2",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2024\/04\/Candy-Blitz-Bombs_339x180.png",
+        "title": "Candy Blitz Bombs"
+    },
+    "fruity-treats": {
+        "symbol": "vs20fortbon",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2024\/04\/Fruity-Treats_339x180.png",
+        "title": "Fruity Treats"
+    },
+    "heart-of-cleopatra": {
+        "symbol": "vs20heartcleo",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2024\/04\/Heart-of-Cleopatra_339x180.png",
+        "title": "Heart of Cleopatra"
+    },
+    "dwarf-dragon": {
+        "symbol": "vswaysspltsym",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2024\/05\/Dwarf-Dragon_339x180.png",
+        "title": "Dwarf & Dragon"
+    },
+    "rise-of-pyramids": {
+        "symbol": "vswayshexhaus",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2024\/05\/Rise-of-Pyramids_339x180-1.png",
+        "title": "Rise of Pyramids"
+    },
+    "heroic-spins": {
+        "symbol": "vs20shootstars",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2024\/04\/Heroic-Spins_339x180.png",
+        "title": "Heroic Spins"
+    },
+    "big-bass-bonanza-reel-action": {
+        "symbol": "vs10bbbrlact",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2024\/05\/Big-Bass-Bonanza-Reel-Action_339x180.png",
+        "title": "Big Bass Bonanza – Reel Action"
+    },
+    "starlight-princess-pachi": {
+        "symbol": "vswaysjapan",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2024\/05\/Starlight-Princess-Pachi_339x180.png",
+        "title": "Starlight Princess Pachi"
+    },
+    "revenge-of-loki-megaways": {
+        "symbol": "vswaysloki",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2024\/05\/Revenge-of-Loki-Megaways_339x180.png",
+        "title": "Revenge of Loki Megaways"
+    },
+    "wildies": {
+        "symbol": "vs25wildies",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2024\/05\/Wildies_339x180.png",
+        "title": "Wildies"
+    },
+    "devilicious": {
+        "symbol": "vs20devilic",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2024\/05\/Devilicious_339x180.png",
+        "title": "Devilicious"
+    },
+    "hand-of-midas-2": {
+        "symbol": "vs20midas2",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2024\/06\/Hand-of-Midas-2_339x180.png",
+        "title": "Hand of Midas 2"
+    },
+    "big-bass-mission-fishin": {
+        "symbol": "vs10bbfmission",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2024\/06\/Big-Bass-Mission-Fishin_339x180.png",
+        "title": "Big Bass Mission Fishin’"
+    },
+    "sweet-kingdom": {
+        "symbol": "vs20clustcol",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2024\/06\/Sweet-Kingdom_339x180.png",
+        "title": "Sweet Kingdom"
+    },
+    "crank-it-up": {
+        "symbol": "vs20crankit",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2024\/06\/Crank-it-up_339x180-1.png",
+        "title": "Crank It Up"
+    },
+    "samurai-code": {
+        "symbol": "vs12scode",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2024\/06\/Samurai-Code_339x180.png",
+        "title": "Samurai Code"
+    },
+    "6-jokers": {
+        "symbol": "vs5magicdoor",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2024\/06\/6-Jokers_339x180.png",
+        "title": "6 Jokers"
+    },
+    "hot-to-burn-multiplier": {
+        "symbol": "vs5hotbmult",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2024\/06\/Hot_to_Burn_Multiplier™_EN_339x180.png",
+        "title": "Hot to Burn Multiplier"
+    },
+    "sweet-bonanza-1000": {
+        "symbol": "vs20fruitswx",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2024\/05\/Sweet-Bonanza-1000_339x180.png",
+        "title": "Sweet Bonanza 1000"
+    },
+    "jokers-jewels-wild": {
+        "symbol": "vs5jjwild",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2024\/04\/Jokers-Jewels-Wild_339x180.png",
+        "title": "Joker’s Jewels Wild"
+    },
+    "dynamite-diggin-doug": {
+        "symbol": "vs10dyndigd",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2024\/07\/Dynamite-Diggin-Doug_339x180.png",
+        "title": "Dynamite Diggin Doug"
+    },
+    "jackpot-hunter": {
+        "symbol": "vs20jhunter",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2024\/07\/Jackpot-Hunter_339x180.png",
+        "title": "Jackpot Hunter"
+    },
+    "bow-of-artemis": {
+        "symbol": "vs20gembondx",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2024\/07\/Bow-of-Artemis_339x180.png",
+        "title": "Bow of Artemis"
+    },
+    "dragon-gold-88": {
+        "symbol": "vs10dgold88",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2024\/07\/Dragon-Gold-88_339x180.png",
+        "title": "Dragon Gold 88"
+    },
+    "running-sushi": {
+        "symbol": "vswayscashconv",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2024\/07\/Running-Sushi_339x180.png",
+        "title": "Running Sushi"
+    },
+    "yeti-quest": {
+        "symbol": "vs20mesmult",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2024\/07\/Yeti-Quest_339x180.png",
+        "title": "Yeti Quest"
+    },
+    "hot-to-burn-7-deadly-free-spins": {
+        "symbol": "vs10hottb7fs",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2024\/07\/Hot-to-Burn-7-Deadly-Free-Spins_339x180-2.png",
+        "title": "Hot to Burn – 7 Deadly Free Spins"
+    },
+    "gem-elevator": {
+        "symbol": "vs20elevclust",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2024\/07\/Gem-Elevator_339x180.png",
+        "title": "Gem Elevator"
+    },
+    "money-stacks": {
+        "symbol": "vs20bblitz",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2024\/07\/Money-Stacks_Money-Stack_339x180.png",
+        "title": "Money Stacks"
+    },
+    "sumo-supreme-megaways": {
+        "symbol": "vswaysmegwghts",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2024\/07\/Sumo-Supreme-Megaways_339x180.png",
+        "title": "Sumo Supreme Megaways™"
+    },
+    "aztec-treasure-hunt": {
+        "symbol": "vs20trswild3",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2024\/07\/Aztec-Treasure-Hunt_339x180.png",
+        "title": "Aztec Treasure Hunt"
+    },
+    "forging-wilds": {
+        "symbol": "vs20forgewilds",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2024\/07\/Forging-Wilds_339x180.png",
+        "title": "Forging Wilds"
+    },
+    "angel-vs-sinner": {
+        "symbol": "vs15fghtmultlv",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2024\/08\/Angel-vs-Sinner_339x180.png",
+        "title": "Angel vs Sinner"
+    },
+    "mystery-mice": {
+        "symbol": "vs20powerwild",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2024\/08\/Mystery-Mice_339x180.png",
+        "title": "Mystery Mice"
+    },
+    "congo-cash-xl": {
+        "symbol": "vswayscongcash",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2024\/08\/Congo-Cash-XL_339x180.png",
+        "title": "Congo Cash XL"
+    },
+    "oodles-of-noodles": {
+        "symbol": "vs10noodles",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2024\/08\/Oodles-of-Noodles_339x180.png",
+        "title": "Oodles of Noodles"
+    },
+    "badge-blitz": {
+        "symbol": "vs25badge",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2024\/08\/Badge-Blitz_339x180.png",
+        "title": "Badge Blitz"
+    },
+    "wisdom-of-athena-1000": {
+        "symbol": "vs20procountx",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2024\/08\/Wisdom-Of-Athena-1000_339x180.png",
+        "title": "Wisdom of Athena 1000"
+    },
+    "the-dog-house-muttley-crew": {
+        "symbol": "vs20dhcluster2",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2024\/09\/The-Dog-House-Muttley-Crew_339x180.png",
+        "title": "The Dog House – Muttley Crew"
+    },
+    "fortune-hitn-roll": {
+        "symbol": "vs40wildrun",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2024\/09\/Fortune-Hitn-Roll_339x180.png",
+        "title": "Fortune Hit’n Roll"
+    },
+    "big-bass-double-down-deluxe": {
+        "symbol": "vs10bbdoubled",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2024\/08\/Big-Bass-Vegas-Double-Down-Deluxe_339x180.png",
+        "title": "Big Bass Vegas Double Down Deluxe"
+    },
+    "chests-of-cai-shen": {
+        "symbol": "vs25checaishen",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2024\/09\/Chests-of-Cai-Shen_339x180.png",
+        "title": "Chests of Cai Shen"
+    },
+    "release-the-kraken-megaways": {
+        "symbol": "vswayskrakenmw",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2024\/09\/Release-the-Kraken-Megaways_339x180.png",
+        "title": "Release the Kraken Megaways™"
+    },
+    "7-clovers-of-fortune": {
+        "symbol": "vswayssevenc",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2024\/09\/7-Clovers-Of-Fortune_339x180.png",
+        "title": "7 Clovers of Fortune"
+    },
+    "fangtastic-freespins": {
+        "symbol": "vs10fangfree",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2024\/09\/Fangtastic-Freespins_339x180.png",
+        "title": "Fangtastic Freespins"
+    },
+    "mustang-gold-megaways": {
+        "symbol": "vswaysgoldcol",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2024\/08\/Mustang-Gold-Megaways_339x180.png",
+        "title": "Mustang Gold Megaways™"
+    },
+    "wolf-gold-ultimate": {
+        "symbol": "vs25ultwolgol",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2024\/10\/Wolf-Gold-Ultimate_339x180.png",
+        "title": "Wolf Gold Ultimate"
+    },
+    "moleionaire": {
+        "symbol": "vs20clreacts",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2024\/10\/Moleionaire_339x180-1.png",
+        "title": "Moleionaire"
+    },
+    "eternal-empress-freeze-time": {
+        "symbol": "vswaysfreezet",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2024\/10\/Eternal-Empress-Freeze-Time_339x180.png",
+        "title": "Eternal Empress – Freeze Time"
+    },
+    "big-bass-xmas-extreme": {
+        "symbol": "vs10bbxext",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2024\/10\/Big-Bass-Xmas-Xtreme_339x180.png",
+        "title": "Big Bass Xmas Extreme"
+    },
+    "vampy-party": {
+        "symbol": "vswayswbounty",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2024\/09\/Vampy-Party_339x180.png",
+        "title": "Vampy Party"
+    },
+    "big-bass-halloween-2": {
+        "symbol": "vs10bhallbnza2",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2024\/09\/Big-Bass-Halloween-II_339x180.png",
+        "title": "Big Bass Halloween 2"
+    },
+    "penguins-christmas-party-time": {
+        "symbol": "vs25xmasparty",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2024\/11\/Penguins-Christmas-Party-Time_339x180.png",
+        "title": "Penguins Christmas Party Time"
+    },
+    "gates-of-olympus-xmas-1000": {
+        "symbol": "vs20olympxmas",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2024\/11\/Gates-Of-Olympus-X-mas-1000_339x180.png",
+        "title": "Gates of Olympus Xmas 1000"
+    },
+    "dragon-king-hot-pots": {
+        "symbol": "vs10dkinghp",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2024\/11\/Dragon-King-Hot-Pots_339x180_without-border.png",
+        "title": "Dragon King Hot Pots"
+    },
+    "tiny-toads": {
+        "symbol": "vs50fatfrogs",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2024\/11\/Tiny-Toads_339x180.png",
+        "title": "Tiny Toads"
+    },
+    "mining-rush": {
+        "symbol": "vs20minerush",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2024\/11\/Mining-Rush_339x180.png",
+        "title": "Mining Rush"
+    },
+    "might-of-freya-megaways": {
+        "symbol": "vswaysmfreya",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2024\/11\/Might-of-Freya-Megaways_339x180.png",
+        "title": "Might of Freya Megaways™"
+    },
+    "santas-xmas-rush": {
+        "symbol": "vs20rainbowrsh",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2024\/11\/Santas-Xmas-Rush_339x180.png",
+        "title": "Santa’s Xmas Rush"
+    },
+    "the-dog-house-slot": {
+        "symbol": "vs20doghouse",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2019\/02\/The-Dog-House™_339x180px-1-1.png",
+        "title": "The Dog House®"
+    },
+    "himalayan-wild": {
+        "symbol": "vs5himalaw",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2024\/10\/Himalayan-Wild_339x180.png",
+        "title": "Himalayan Wild"
+    },
+    "jokers-jewels-hot": {
+        "symbol": "vs10jokerhot",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2024\/09\/Jokers-Jewels-Hot_339x180-1.png",
+        "title": "Joker’s Jewels Hot"
+    },
+    "candy-corner": {
+        "symbol": "vs20fourmc",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2024\/09\/Candy-Corner_339x180.png",
+        "title": "Candy Corner"
+    },
+    "medusas-stone": {
+        "symbol": "vs20medusast",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2024\/05\/Medusas-Stone_339x180.png",
+        "title": "Medusa’s Stone"
+    },
+    "big-bass-bonanza-3-reeler": {
+        "symbol": "vs5bb3reeler",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2024\/12\/Big-Bass-Bonanza-3-Reeler_339x180.png",
+        "title": "Big Bass Bonanza 3 Reeler"
+    },
+    "money-stacks-megaways": {
+        "symbol": "vswaysbblitz",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2024\/12\/Money-Stacks-Megaways_339x180.png",
+        "title": "Money Stacks Megaways™"
+    },
+    "irish-crown": {
+        "symbol": "vs20irishcrown",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2024\/12\/Irish-crown_339x180.png",
+        "title": "Irish Crown"
+    },
+    "aztec-smash": {
+        "symbol": "vs20plsmcannon",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2024\/12\/Aztec-Smash_339x180.png",
+        "title": "Aztec Smash"
+    },
+    "floating-dragon-year-of-the-snake": {
+        "symbol": "vs10fdsnake",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2024\/12\/Floating-Dragon-Year-of-the-Snake_339x180.png",
+        "title": "Floating Dragon – Year of the Snake"
+    },
+    "fonzos-feline-fortunes": {
+        "symbol": "vs10fonzofff",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/01\/Fonzos-Feline-Fortunes_339x180.png",
+        "title": "Fonzo’s Feline Fortunes"
+    },
+    "aztec-gems-megaways": {
+        "symbol": "vswaysaztec",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/01\/Aztec-Gems-Megaways_339x180.png",
+        "title": "Aztec Gems Megaways™"
+    },
+    "wild-wild-pearls": {
+        "symbol": "vswayspearls",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/01\/Wild-Wild-Pearls_339x180.png",
+        "title": "Wild Wild Pearls"
+    },
+    "wild-wildebeest-wins": {
+        "symbol": "vswaysbufstamp",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/01\/WILD-WILDEBEEST-WINS_339x180.png",
+        "title": "Wild Wildebeest Wins"
+    },
+    "escape-the-pyramid-fire-ice": {
+        "symbol": "vs10fireice",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/01\/Escape-the-Pyramid-Fire-Ice_339x180.png",
+        "title": "Escape the Pyramid – Fire & Ice"
+    },
+    "savannah-legend": {
+        "symbol": "vswayssavlgnd",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/01\/Savannah-Legend_339x180.png",
+        "title": "Savannah Legend"
+    },
+    "ancient-island-megaways": {
+        "symbol": "vswaysmodfr",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/01\/Ancient-Island-Megaways_339x180-1-1.png",
+        "title": "Ancient Island Megaways™"
+    },
+    "john-hunter-and-galileos-secrets": {
+        "symbol": "vs10booklight",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/01\/John-Hunter-and-Galileos-Secrets_339x180-1.png",
+        "title": "John Hunter and Galileo’s Secrets"
+    },
+    "big-bass-return-to-the-races": {
+        "symbol": "vs10bbrttr",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/01\/Big-Bass-Return-To-The-Races_339x180-1.png",
+        "title": "Big Bass Return to the Races"
+    },
+    "greedy-fortune-pig": {
+        "symbol": "vs10fortnpig",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/02\/Greedy-Fortune-Pig_339x180.png",
+        "title": "Greedy Fortune Pig"
+    },
+    "peppes-pepperoni-pizza-plaza": {
+        "symbol": "vswaystonypzz",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/02\/Peppes-Pepperoni-Pizza-Plaza_339x180.png",
+        "title": "Peppe’s Pepperoni Pizza Plaza"
+    },
+    "5-lions-megaways-2": {
+        "symbol": "vsways5lions2",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/02\/5-Lions-Megaways-2_339x180-1.png",
+        "title": "5 Lions Megaways™ 2"
+    },
+    "raging-waterfall-megaways": {
+        "symbol": "vswaysmltchmgw",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/02\/Raging-Waterfall-Megaways_339x180.png",
+        "title": "Raging Waterfall Megaways™"
+    },
+    "luckys-wild-pub": {
+        "symbol": "vs25luckwildpb",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/02\/Luckys-Wild-Pub_339x180_Without-Border.png",
+        "title": "Lucky’s Wild Pub"
+    },
+    "triple-pot-gold": {
+        "symbol": "vswaysasiatrzn",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/02\/TRIPLE-POT-GOLD_339x180.png",
+        "title": "Triple Pot Gold"
+    },
+    "volcano-goddess": {
+        "symbol": "vswaysvlcgds",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/02\/Volcano-Goddess_339x180.png",
+        "title": "Volcano Goddess"
+    },
+    "wild-wild-joker": {
+        "symbol": "vswayswwjoker",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/02\/Wild-Wild-Joker_339x180.png",
+        "title": "Wild Wild Joker"
+    },
+    "blitz-super-wheel": {
+        "symbol": "vs20lightblitz",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/02\/Blitz-Super-Wheel_339x180.png",
+        "title": "Blitz Super Wheel"
+    },
+    "the-dog-house-royal-hunt": {
+        "symbol": "vs20dhsuper",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/02\/The-Dog-House-Royal-Hunt_339x180.png",
+        "title": "The Dog House – Royal Hunt"
+    },
+    "bandit-megaways": {
+        "symbol": "vswaysbandit",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/03\/Bandit-Megaways_339x180.png",
+        "title": "Bandit Megaways™"
+    },
+    "jokers-jewels-cash": {
+        "symbol": "vs5jokerjc",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/03\/Jokers-Jewels-Cash_339x180.png",
+        "title": "Joker’s Jewels Cash"
+    },
+    "ride-the-lightning": {
+        "symbol": "vs9ridelightng",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/03\/Ride-The-Lightning_339x180.png",
+        "title": "Ride The Lightning"
+    },
+    "5-lions-reborn": {
+        "symbol": "vsways5lionsr",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/03\/5-Lions-Reborn_339x180.png",
+        "title": "5 Lions Reborn"
+    },
+    "resurrecting-riches": {
+        "symbol": "vswaysresurich",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/03\/Resurrecting-Riches_339x180.png",
+        "title": "Resurrecting Riches"
+    },
+    "cash-surge": {
+        "symbol": "vswayscashsurg",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/03\/Cash-Surge_339x180.png",
+        "title": "Cash Surge"
+    },
+    "witch-heart-megaways": {
+        "symbol": "vswayswildbrst",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/04\/Witch-Heart-Megaways_339x180.png",
+        "title": "Witch Heart Megaways"
+    },
+    "sleeping-dragon": {
+        "symbol": "vs25sleepdrag",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/04\/Sleeping-Dragon_339x180-1.png",
+        "title": "Sleeping Dragon"
+    },
+    "majestic-express-gold-run": {
+        "symbol": "vs25goldrexp",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/05\/Majestic-Express-Gold-Run_667x414-339x180-1.png",
+        "title": "Majestic Express – Gold Run"
+    },
+    "jumbo-safari": {
+        "symbol": "vs20jjjack",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/04\/Jumbo-Safari_339x180.png",
+        "title": "Jumbo Safari"
+    },
+    "fiesta-fortune": {
+        "symbol": "vs10gbseries",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/04\/Fiesta-Fortune_339x180.png",
+        "title": "Fiesta Fortune"
+    },
+    "wild-west-gold-blazing-bounty": {
+        "symbol": "vs20wwgcluster",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/05\/Wild-West-Gold-Blazing-Bounty_339x180.png",
+        "title": "Wild West Gold Blazing Bounty"
+    },
+    "big-bass-boxing-bonus-round": {
+        "symbol": "vs10bbbbrnd",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/05\/Big-Bass-Boxing-Bonus-Round_EN_339x180.png",
+        "title": "Big Bass Boxing Bonus Round"
+    },
+    "eye-of-spartacus": {
+        "symbol": "vs15eyeofspart",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/05\/Eye-of-Spartacus_339x180.png",
+        "title": "Eye of Spartacus"
+    },
+    "mummys-jewels": {
+        "symbol": "vswaysmjwl",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/06\/Mummys-Jewels_339x180.png",
+        "title": "Mummy’s Jewels"
+    },
+    "finger-lickn-free-spins": {
+        "symbol": "vs10fingerlfs",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/06\/Finger-Lickn-Free-Spins_339x180-1.png",
+        "title": "Finger Lick’n Free Spins"
+    },
+    "temple-guardians": {
+        "symbol": "vs10diamondrgh",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/05\/Temple-Guardians_339x180.png",
+        "title": "Temple Guardians"
+    },
+    "gem-fire-fortune": {
+        "symbol": "vs20gemfirefor",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/06\/Gem-Fire-Fortune_339x180.png",
+        "title": "Gem Fire Fortune"
+    },
+    "gold-party-2-after-hours": {
+        "symbol": "vs25goldpartya",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/06\/Gold-Party-2-After-Hours_339x180-1.png",
+        "title": "Gold Party 2 – After Hours"
+    },
+    "waves-of-poseidon": {
+        "symbol": "vs20bigmass",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/06\/Waves-of-Poseidon_339x180.png",
+        "title": "Waves of Poseidon"
+    },
+    "club-tropicana-happy-hour": {
+        "symbol": "vs12trpcnhour",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/06\/Club-Tropicana-Happy-Hour_339x180.png",
+        "title": "Club Tropicana – Happy Hour"
+    },
+    "wolf-gold-4-pack": {
+        "symbol": "vs25quadwolf",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/07\/Wolf-Gold-4-Pack_339x180.png",
+        "title": "Wolf Gold 4 Pack"
+    },
+    "alien-invaders": {
+        "symbol": "vs20alieninv",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/06\/Alien-Invaders_339x180-1.png",
+        "title": "Alien Invaders"
+    },
+    "monkey-warrior-slot": {
+        "symbol": "vs243mwarrior",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2019\/06\/Monkey-warrior™.png",
+        "title": "Monkey Warrior™"
+    },
+    "chilli-heat-spicy-spins": {
+        "symbol": "vs10chillihmr",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/07\/Chilli-Heat-Spicy-Spins_339x180.png",
+        "title": "Chilli Heat Spicy Spins"
+    },
+    "big-bass-reel-repeat": {
+        "symbol": "vs10bbrrp",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/07\/Big-Bass-Reel-Repeat_339x180.png",
+        "title": "Big Bass Reel Repeat"
+    },
+    "ice-mints": {
+        "symbol": "vs20popbottles",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/07\/Ice-Mints_339x180.png",
+        "title": "Ice Mints"
+    },
+    "honey-honey-honey-slot": {
+        "symbol": "vs20honey",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2019\/09\/Honey-Honey-Honey™_339x180-1.png",
+        "title": "Honey Honey Honey™"
+    },
+    "aladdin-and-the-sorcerer-slot": {
+        "symbol": "vs20aladdinsorc",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2019\/10\/Aladdin-and-the-Sorcerer™_339x180-1.png",
+        "title": "Aladdin and the Sorcerer™"
+    },
+    "da-vincis-treasure-slot": {
+        "symbol": "vs25davinci",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2018\/08\/thumb_DaVincis-Treasure_339x180_ver2.png",
+        "title": "John Hunter and the secrets of Da Vinci’s Treasure"
+    },
+    "gem-trio": {
+        "symbol": "vs9gemtrio",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/07\/Gem-Trio_339x180_EN.png",
+        "title": "Gem Trio"
+    },
+    "argonauts": {
+        "symbol": "vswaysargonts",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/07\/Argonauts_339x180_EN.png",
+        "title": "Argonauts"
+    },
+    "spellmaster": {
+        "symbol": "vs10spellmastr",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/08\/Spell-Master_339x180_EN.png",
+        "title": "Spellmaster"
+    },
+    "zombie-school-megaways": {
+        "symbol": "vswayspompmr2",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/07\/Zombie-School-Megaways_339x180_EN.png",
+        "title": "Zombie School Megaways"
+    },
+    "captain-kraken-megaways": {
+        "symbol": "vswayschilhtwo",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/08\/Captain-Kraken-Megaways_339x180.png",
+        "title": "Captain Kraken Megaways"
+    },
+    "jackpot-blaze": {
+        "symbol": "vs10jpblaze",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/08\/Jackpot-Blaze_339x180_EN.png",
+        "title": "Jackpot Blaze"
+    },
+    "3-dancing-monkeys": {
+        "symbol": "vswaysmonkey",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2023\/04\/SqDaiork.png",
+        "title": "3 Dancing Monkeys™"
+    },
+    "wild-west-duels": {
+        "symbol": "vs20pistols",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2023\/02\/Wild-West-Duels_339x180.png",
+        "title": "Wild West Duels"
+    },
+    "mystery-of-the-orient": {
+        "symbol": "vswaysmorient",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2023\/02\/Mystry-of-the-Orient_339x180.png",
+        "title": "Mystery of the Orient"
+    },
+    "lobster-house": {
+        "symbol": "vs20lbstrhouse",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/08\/Lobster-House_339x180_EN.png",
+        "title": "Lobster House"
+    },
+    "genies-gem-bonanza": {
+        "symbol": "vs20gengembnz",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/08\/Genies-Gem-Bonanza_667x414_EN-339x180-1.png",
+        "title": "Genie’s Gem Bonanza"
+    },
+    "bee-keeper": {
+        "symbol": "vs10beekeep",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/09\/Bee-Keeper_339x180_EN.png",
+        "title": "Bee Keeper"
+    },
+    "bounty-hunter": {
+        "symbol": "vs20bhunter",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/09\/Bounty-Hunter_339x180.png",
+        "title": "Bounty Hunter"
+    },
+    "bigger-barn-house-bonanza": {
+        "symbol": "vswaysbbarnh",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/09\/Bigger-Barn-House-Bonanza_339x180_EN.png",
+        "title": "Bigger Barn House Bonanza"
+    },
+    "hundreds-and-thousands": {
+        "symbol": "vs100hsandks",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/09\/Hundreds-and-Thousands_339x180.png",
+        "title": "Hundreds and Thousands"
+    },
+    "mermaids-treasure-trove": {
+        "symbol": "vs20mmdtres",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/09\/Mermaids-Treasure-Trove_339x180_EN.png",
+        "title": "Mermaid’s Treasure Trove"
+    },
+    "chests-of-cai-shen-2": {
+        "symbol": "vs25caishen2",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/09\/Chests-of-Cai-Shen-2_339x180_EN.png",
+        "title": "Chests of Cai Shen 2"
+    },
+    "big-bass-halloween-3": {
+        "symbol": "vs10bhallbnza3",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/09\/Big-Bass-Halloween-3_339x180.png",
+        "title": "Big Bass Halloween 3"
+    },
+    "bingo-mania": {
+        "symbol": "vs30bingomania",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/10\/Bingo-Mania_339x180_EN.png",
+        "title": "Bingo Mania"
+    },
+    "lava-balls": {
+        "symbol": "vswayslavabls",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/10\/Lava-Balls_339x180_EN.png",
+        "title": "Lava Balls"
+    },
+    "frightening-frankie": {
+        "symbol": "vs20frankie",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/10\/Frightening-Frankie_339x180_EN.png",
+        "title": "Frightening Frankie"
+    },
+    "pandemic-rising": {
+        "symbol": "vs40pdmrsg",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/10\/Pandemic-Rising_339x180_EN.png",
+        "title": "Pandemic Rising"
+    },
+    "oracle-of-gold": {
+        "symbol": "vs20oragold",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/10\/Oracle-of-Gold_339x180_EN.png",
+        "title": "Oracle of Gold"
+    },
+    "wild-wild-riches-returns": {
+        "symbol": "vswayswwrichr",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/10\/Wild-Wild-Riches-Returns_339x180_EN.png",
+        "title": "Wild Wild Riches Returns"
+    },
+    "duel-of-night-day": {
+        "symbol": "vswaysyinyang",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/10\/Duel-of-Night-Day_339x180_EN.png",
+        "title": "Duel of Night & Day"
+    },
+    "super-gummy-strike": {
+        "symbol": "vs5supergummy",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/10\/Super-Gummy-Strike_339x180_EN-1.png",
+        "title": "Super Gummy Strike"
+    },
+    "santas-slay": {
+        "symbol": "vs10santasl",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/11\/Santas-Slay_339x180-1.png",
+        "title": "Santa’s Slay"
+    },
+    "zeus-vs-typhon": {
+        "symbol": "vswaysreelbtl",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/11\/Zeus-vs-Typhon_339x180_EN-1.png",
+        "title": "Zeus vs Typhon"
+    },
+    "big-bass-splash-1000": {
+        "symbol": "vs10bbsplashx",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/11\/Big-Bass-Splash-1000_339x180_EN.png",
+        "title": "Big Bass Splash 1000"
+    },
+    "wisdom-of-athena-1000-xmas": {
+        "symbol": "vs20procountxm",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/11\/Wisdom-of-Athena-1000-Xmas_667x414_EN-1-339x180-1-1.png",
+        "title": "Wisdom of Athena 1000 Xmas"
+    },
+    "sweet-craze": {
+        "symbol": "vs20chestcol",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/11\/Sweet-Craze_339x180_EN.png",
+        "title": "Sweet Craze"
+    },
+    "bloody-dawn": {
+        "symbol": "vswayswildb",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/11\/Bloody-Dawn_339x180_EN.png",
+        "title": "Bloody Dawn"
+    },
+    "hammerstorm": {
+        "symbol": "vs40hmrstrm",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/11\/Hammerstorm_339x180_EN.png",
+        "title": "Hammerstorm"
+    },
+    "anaconda-gold": {
+        "symbol": "vswaysacnd",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/11\/Anaconda-Gold_339x180_EN.png",
+        "title": "Anaconda Gold"
+    },
+    "big-bass-christmas-frozen-lake": {
+        "symbol": "vs10bbglxmas",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/11\/Big-Bass-Christmas-Frozen-Lake_339x180_EN-1.png",
+        "title": "Big Bass Christmas – Frozen Lake"
+    },
+    "book-of-monsters": {
+        "symbol": "vs20fatbook",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/02\/Book-of-Monsters_339x180.png",
+        "title": "Book of Monsters"
+    },
+    "jokers-jewels-hold-spin": {
+        "symbol": "vs5jokjewhs",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/12\/Jokers-Jewels-Hold-Spin_339x180_EN.png",
+        "title": "Joker’s Jewels Hold & Spin"
+    },
+    "wheel-of-happiness": {
+        "symbol": "vswayswildeq",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/12\/Wheel-of-Happiness_339x180_EN.png",
+        "title": "Wheel of Happiness"
+    },
+    "odds-on-winner": {
+        "symbol": "vs10frontrun",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2024\/05\/ODDS-ON-WINNER_339x180.png",
+        "title": "Odds On Winner"
+    },
+    "brick-house-bonanza": {
+        "symbol": "vswaysbrickhos",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/01\/Brick-House-Bonanza_339x180-1.png",
+        "title": "Brick House Bonanza"
+    },
+    "hot-tuna": {
+        "symbol": "vs10hottuna",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2026\/01\/Hot-Tuna_339x180_EN.png",
+        "title": "Hot Tuna"
+    },
+    "floating-dragon-wild-horses": {
+        "symbol": "vs10fdwhorses",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2026\/01\/Floating-Dragon-Wild-Horses_339x180_EN.png",
+        "title": "Floating Dragon Wild Horses"
+    },
+    "dragon-tiger-fortunes": {
+        "symbol": "vswayshuffpbh",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2026\/01\/Dragon-Tiger-Fortunes_339x180.png",
+        "title": "Dragon Tiger Fortunes"
+    },
+    "super-tiki-strike": {
+        "symbol": "vs5tikistrike",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2026\/01\/Super-Tiki-Strike_339x180_EN.png",
+        "title": "Super Tiki Strike"
+    },
+    "cyberheist-city": {
+        "symbol": "vswayscyhecity",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2026\/01\/Cyberheist-City_339x180_EN.png",
+        "title": "Cyberheist City"
+    },
+    "3-magic-eggs": {
+        "symbol": "vs25wolfgmm",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2026\/01\/3-Magic-Eggs_339x180.png",
+        "title": "3 Magic Eggs"
+    },
+    "zeus-vs-hades-gods-of-war-250": {
+        "symbol": "vs15zeushadseq",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2026\/01\/Zeus-vs-Hades-Gods-of-War-250_339x180.png",
+        "title": "Zeus vs Hades – Gods of War 250"
+    },
+    "knights-vs-barbarians": {
+        "symbol": "vs10cenrlgdevl",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2026\/01\/Knights-vs-Barbarians_339x180_EN-1.png",
+        "title": "Knights vs Barbarians"
+    },
+    "bigger-bass-splash": {
+        "symbol": "vs12bgrbspl",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/01\/BIGGER-BASS-SPLASH_339x180.png",
+        "title": "Bigger Bass Splash"
+    },
+    "emerald-king-wheel-of-wealth": {
+        "symbol": "vs10dublin",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2026\/02\/Emerald-King-Wheel-of-Wealth_339x180_EN.png",
+        "title": "Emerald King – Wheel of Wealth"
+    },
+    "mummys-jewels-100": {
+        "symbol": "vswaysmjwl2",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2026\/02\/Mummys-Jewels-100_339x180_EN.png",
+        "title": "Mummy’s Jewels 100"
+    },
+    "rolling-in-treasures": {
+        "symbol": "vs20rnriches",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2026\/02\/Rolling-in-Treasures_339x180_EN.png",
+        "title": "Rolling in Treasures"
+    },
+    "treasures-of-osiris": {
+        "symbol": "vs25tripleps",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2026\/02\/Treasures-of-Osiris_339x180_EN.png",
+        "title": "Treasures of Osiris"
+    },
+    "sugar-rush-super-scatter": {
+        "symbol": "vs20sugrushss",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2026\/01\/Sugar-Rush-Super-Scatter_339x180_EN.png",
+        "title": "Sugar Rush Super Scatter"
+    },
+    "big-bass-splash": {
+        "symbol": "vs10txbigbass",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2022\/06\/BBSPLASH_EN_339x180_04-1.png",
+        "title": "Big Bass Splash"
+    },
+    "you-can-piggy-bank-on-it": {
+        "symbol": "vs10piggybank",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/07\/You-Can-Piggy-Bank-On-It_339x180_EN.png",
+        "title": "You Can Piggy Bank On It"
+    },
+    "big-bass-bonanza-1000": {
+        "symbol": "vs10bbbnz1000",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/03\/Big-Bass-Bonanza-1000_339x180.png",
+        "title": "Big Bass Bonanza 1000"
+    },
+    "fortune-of-olympus": {
+        "symbol": "vs20olympgcl",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/11\/Fortune-of-Olympus_339x180_EN.png",
+        "title": "Fortune of Olympus"
+    },
+    "gates-of-olympus-super-scatter": {
+        "symbol": "vs20olympgold",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/03\/Gates-Of-Olympus-Super-Scatter_339x180.png",
+        "title": "Gates of Olympus Super Scatter"
+    },
+    "starlight-princess-super-scatter": {
+        "symbol": "vs20starprss",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/10\/Starlight-Princess-Super-Scatter_339x180_EN.png",
+        "title": "Starlight Princess Super Scatter"
+    },
+    "sugar-rush-1000": {
+        "symbol": "vs20sugarrushx",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2024\/03\/Sugar-Rush-1000_339x180.png",
+        "title": "Sugar Rush 1000"
+    },
+    "sweet-bonanza-super-scatter": {
+        "symbol": "vs20swbonsup",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/07\/Sweet-Bonanza-Super-Scatter_339x180_Scatter.png",
+        "title": "Sweet Bonanza Super Scatter"
+    },
+    "haunted-crypt": {
+        "symbol": "vs20dhousehm",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2026\/02\/Haunted-Crypt_339x180_EN.png",
+        "title": "Haunted Crypt"
+    },
+    "big-bass-raceday-repeat": {
+        "symbol": "vs10bbrcdr",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2026\/02\/Big-Bass-Raceday-Repeat_339x180_EN.png",
+        "title": "Big Bass Raceday Repeat"
+    },
+    "gates-of-hades": {
+        "symbol": "vs20gtsofhades",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/05\/Gates-of-Hades_339x180.png",
+        "title": "Gates of Hades"
+    },
+    "sweet-rush-bonanza": {
+        "symbol": "vs20swrbon",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/09\/Sweet-Rush-Bonanza_339x180-1.png",
+        "title": "Sweet Rush Bonanza"
+    },
+    "cult": {
+        "symbol": "vs25scolymp",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2026\/03\/Cult_339x180_EN.png",
+        "title": "CULT"
+    },
+    "luckys-wild-pub-2": {
+        "symbol": "vs25luckpub",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2026\/03\/Luckys-Wild-Pub-2_339x180_EN.png",
+        "title": "Lucky’s Wild Pub 2"
+    },
+    "steamin-reels": {
+        "symbol": "vs10stmreels",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2026\/03\/Steamin-Reels_339x180_EN.png",
+        "title": "Steamin’ Reels"
+    },
+    "triple-pot-diamond": {
+        "symbol": "vswaystrpgug",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2026\/03\/Triple-Pot-Diamond_667x414_EN-339x180-1.png",
+        "title": "Triple Pot Diamond"
+    },
+    "snow-party": {
+        "symbol": "vs20clustersw",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2026\/03\/Snow-Party_339x180_EN.png",
+        "title": "Snow Party"
+    },
+    "wild-skullz": {
+        "symbol": "vswayscyclop",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2026\/02\/Wild-Skullz_339x180_EN.png",
+        "title": "Wild Skullz"
+    },
+    "american-blackjack": {
+        "symbol": "bjmb",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2017\/12\/thumbs-pt-site_Aztec-Gems_330x140px-1-1.png",
+        "title": "American Blackjack"
+    },
+    "multihand-blackjack": {
+        "symbol": "bjma",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2016\/11\/thumbs-pt-site_Multihand-Blackjack_330x140px_new.png",
+        "title": "Multihand Blackjack™"
+    },
+    "baccarat": {
+        "symbol": "bca",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2016\/05\/Thumb_Baccarat_339x180px.png",
+        "title": "Baccarat"
+    },
+    "the-dog-house-multihold": {
+        "symbol": "vs20doghousemh",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2023\/02\/The_Dog_House_Multihold_339x180.png",
+        "title": "The Dog House Multihold™"
+    },
+    "big-bass-bonanza-megaways": {
+        "symbol": "vswaysbbb",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2021\/11\/Big_Bass_Bonanaza_MEGAWAYS_EN_339x180_04.png",
+        "title": "Big Bass Bonanza Megaways™"
+    },
+    "bigger-bass-bonanza": {
+        "symbol": "vs12bbb",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2021\/08\/Bigger-Bass-Bonanza_EN_339x180.png",
+        "title": "Bigger Bass Bonanza™"
+    },
+    "madame-destiny-slot": {
+        "symbol": "vs10madame",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2018\/06\/thumb_madame_destiny_330x140-3.png",
+        "title": "Madame Destiny™"
+    },
+    "wolf-gold-slot": {
+        "symbol": "vs25wolfgold",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2017\/04\/thumb__WOLF_GOLD__330x140px.png",
+        "title": "Wolf Gold®"
+    },
+    "great-rhino-slot": {
+        "symbol": "vs20rhino",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2018\/04\/new-thumbs-1.png",
+        "title": "Great Rhino®"
+    },
+    "great-rhino-megaways-slot": {
+        "symbol": "vswaysrhino",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2020\/04\/Great-Rhino-Megaways™_EN_339x180_02-2.png",
+        "title": "Great Rhino® Megaways"
+    },
+    "great-rhino-deluxe-slot": {
+        "symbol": "vs20rhinoluxe",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2020\/07\/GR_Deluxe™_EN_339x180_03.png",
+        "title": "Great Rhino® Deluxe"
+    },
+    "clover-gold": {
+        "symbol": "vs20mustanggld2",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2022\/04\/Clover_Gold_EN_339x180.png",
+        "title": "Clover Gold"
+    },
+    "zeus-vs-hades-gods-of-war": {
+        "symbol": "vs15godsofwar",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2023\/05\/Zeus-vs-Hades-Gods-of-war_339x180.png",
+        "title": "Zeus vs Hades – Gods of War™"
+    },
+    "john-hunter-and-the-book-of-tut-slot": {
+        "symbol": "vs10bookoftut",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2020\/04\/John-Hunter-Book-of-Tut™_339x180-1-1.png",
+        "title": "John Hunter and the book of Tut™"
+    },
+    "wild-wild-riches-slot": {
+        "symbol": "vs576treasures",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2020\/09\/Wild_Wild_Riches™_EN_339x180.png",
+        "title": "Wild Wild Riches™"
+    },
+    "wild-wild-riches-megaways": {
+        "symbol": "vswayswwriches",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2023\/02\/wild_wild_riches_megaways.png",
+        "title": "Wild Wild Riches Megaways™"
+    },
+    "cleocatra": {
+        "symbol": "vs20cleocatra",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2022\/05\/Cleocatra_339x180.png",
+        "title": "Cleocatra®"
+    },
+    "big-bass-bonanza": {
+        "symbol": "vs10bbbonanza",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2020\/11\/Big-Bass-Bonanza™_EN_339x180_04.png",
+        "title": "Big Bass Bonanza™"
+    },
+    "starlight-princess": {
+        "symbol": "vs20starlight",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2021\/08\/Starlight-Princess_EN_339x180_01.png",
+        "title": "Starlight Princess™"
+    },
+    "sweet-bonanza-slot": {
+        "symbol": "vs20fruitsw",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2019\/03\/Sweet-Bonanza™_Thumb_339x180-3.png",
+        "title": "Sweet Bonanza®"
+    },
+    "gates-of-olympus": {
+        "symbol": "vs20olympgate",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2021\/02\/GOOL_EN_339x180.png",
+        "title": "Gates of Olympus™"
+    },
+    "sugar-rush": {
+        "symbol": "vs20sugarrush",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2022\/06\/Sugar_Rush_EN_339x180.png",
+        "title": "Sugar Rush"
+    },
+    "sweet-bonanza-xmas-slot": {
+        "symbol": "vs20sbxmas",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2019\/11\/Sweet-Bonanza-Xmas™_339x180.png",
+        "title": "Sweet Bonanza® Xmas"
+    },
+    "jokers-jewels-slot": {
+        "symbol": "vs5joker",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2018\/03\/thumbs_Jokers_jewels_330x140px.png",
+        "title": "Joker’s Jewels™"
+    },
+    "madame-destiny-megaways": {
+        "symbol": "vswaysmadame",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2021\/01\/MDM_EN_339x180.png",
+        "title": "Madame Destiny Megaways™"
+    },
+    "fruit-party-slot": {
+        "symbol": "vs20fruitparty",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2020\/05\/Fruit-Party™_339x180_01-1.png",
+        "title": "Fruit Party™"
+    },
+    "fruit-party-2": {
+        "symbol": "vs20fparty2",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2021\/07\/Fruit_Party_2_EN_339x180.png",
+        "title": "Fruit Party 2™"
+    },
+    "wild-west-gold-slot": {
+        "symbol": "vs40wildwest",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2020\/03\/Wild-West-Gold™_EN_339x180_01-3.png",
+        "title": "Wild West Gold®"
+    },
+    "5-lions-megaways": {
+        "symbol": "vswayslions",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2021\/06\/5_Lions_Megaways_EN_339x180-1.png",
+        "title": "5 Lions Megaways™"
+    },
+    "5-lions-gold-slot": {
+        "symbol": "vs243lionsgold",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2019\/03\/Thumb_5-Lions-Gold™_339x180px-2.png",
+        "title": "5 Lions Gold™"
+    },
+    "5-lions-slot": {
+        "symbol": "vs243lions",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2018\/05\/thumbs_5_lions_330x140px.png",
+        "title": "5 Lions™"
+    },
+    "the-hand-of-midas": {
+        "symbol": "vs20midas",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2021\/02\/THOM_EN_339x180-1.png",
+        "title": "The Hand of Midas™"
+    },
+    "congo-cash": {
+        "symbol": "vs432congocash",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2021\/01\/Congo-Cash™_EN_339x180_01.png",
+        "title": "Congo Cash™"
+    },
+    "aztec-gems-slot": {
+        "symbol": "vs5aztecgems",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2018\/02\/thumbs-pt-site_Aztec-Gems_330x140px-1.png",
+        "title": "Aztec Gems™"
+    },
+    "aztec-gems-deluxe-slot": {
+        "symbol": "vs9aztecgemsdx",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2020\/07\/Aztec-GemsÔäó_EN_339x180_02.png",
+        "title": "Aztec Gems Deluxe™"
+    },
+    "chilli-heat-megaways": {
+        "symbol": "vswayschilheat",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2021\/08\/Chilli_Heat_Megaways_339x180.png",
+        "title": "Chilli Heat® Megaways"
+    },
+    "hot-chilli-slot": {
+        "symbol": "vs9hotroll",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2019\/06\/Hot-Chilli™_v02_339x180-3.png",
+        "title": "Hot Chilli™"
+    },
+    "three-star-fortune-slot": {
+        "symbol": "vs10threestar",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2020\/06\/Three-Star-Fortune_EN-_339x180-1.png",
+        "title": "Three Star Fortune™"
+    },
+    "hot-to-burn-extreme": {
+        "symbol": "vs40hotburnx",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2022\/08\/Hot-to-Burn™_EN_339x180_04.png",
+        "title": "Hot to Burn® Extreme"
+    },
+    "hot-to-burn-hold-and-spin": {
+        "symbol": "vs20hburnhs",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2021\/02\/HTBHAS_EN_EN_339x180.png",
+        "title": "Hot to Burn® Hold and Spin"
+    },
+    "hot-to-burn-slot": {
+        "symbol": "vs5hotburn",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2020\/04\/Hot-to-Burn™_EN-_339x180-1.png",
+        "title": "Hot to Burn®"
+    },
+    "chilli-heat-slot": {
+        "symbol": "vs25chilli",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2018\/01\/thumbs-pt-site_Chilli-Heat_330x140px-1.png",
+        "title": "Chilli Heat®"
+    },
+    "mustang-gold-slot": {
+        "symbol": "vs25mustang",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2018\/12\/Thumb_mustang-gold_339x180px-1.png",
+        "title": "Mustang Gold™"
+    },
+    "dragon-tiger-rng": {
+        "symbol": "bndt",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2026\/03\/Thumb_Dragon-Tiger™_339x180px.png",
+        "title": "Dragon Tiger"
+    },
+    "idol-pop-fever": {
+        "symbol": "vs20slightwdm",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2026\/03\/Idol-Pop-Fever_339x180_EN.png",
+        "title": "Idol Pop Fever"
+    },
+    "jelly-express": {
+        "symbol": "vs20payanyvol",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2026\/02\/Jelly-Express_339x180_EN.png",
+        "title": "Jelly Express"
+    },
+    "roulette": {
+        "symbol": "rla",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2017\/12\/thumbs-pt-site_Roulette_330x140px.png",
+        "title": "Roulette™"
+    },
+    "big-bass-trophy-catch": {
+        "symbol": "vs10bbtrphfshn",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2026\/03\/Big-Bass-Trophy-Catch_339x180_EN.png",
+        "title": "Big Bass Trophy Catch"
+    },
+    "inca-queen": {
+        "symbol": "vs20thunder",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2026\/03\/Inca-Queen_339x180_EN.png",
+        "title": "Inca Queen"
+    },
+    "great-ghosts": {
+        "symbol": "vs50grghsts",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2026\/04\/Great-Ghosts_339x180_EN.png",
+        "title": "Great Ghosts!"
+    },
+    "dragon-pots-megaways": {
+        "symbol": "vswaysdragden",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2026\/04\/Dragon-Pots-Megaways_339x180_EN.png",
+        "title": "Dragon Pots Megaways™"
+    },
+    "buffalo-king-slot": {
+        "symbol": "vs4096bufking",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2019\/11\/Buffalo-King_339x180_EN.png",
+        "title": "Buffalo King™"
+    },
+    "buffalo-king-megaways": {
+        "symbol": "vswaysbufking",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2021\/04\/Buffalo-King-Megaways_339x180_EN.png",
+        "title": "Buffalo King Megaways™"
+    },
+    "buffalo-king-untamed-megaways": {
+        "symbol": "vswaysbkingasc",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2024\/06\/Buffalo-King-Untamed-Megaways_339x180_EN.png",
+        "title": "Buffalo King Untamed Megaways"
+    },
+    "launch-to-riches": {
+        "symbol": "vswaysrocktrls",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2026\/04\/Launch-to-Riches_339x180_EN.png",
+        "title": "Launch to Riches"
+    },
+    "heartbreakers": {
+        "symbol": "vs20prizegrow",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2026\/04\/Heartbreakers_339x180_EN.png",
+        "title": "Heartbreakers"
+    },
+    "fire-stampede": {
+        "symbol": "vswaysstampede",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2023\/12\/Fire-Stampede_339x180-1.png",
+        "title": "Fire Stampede™"
+    },
+    "fire-stampede-2": {
+        "symbol": "vswaysfirest2",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/08\/Fire-Stampede-2_339x180.png",
+        "title": "Fire Stampede 2"
+    },
+    "fire-stampede-ultimate": {
+        "symbol": "vswaysfirest3",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2026\/02\/Fire-Stampede-Ultimate_339x180.png",
+        "title": "Fire Stampede Ultimate"
+    },
+    "floating-dragon-hold-and-spin": {
+        "symbol": "vs10floatdrg",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2021\/03\/Floating_Dragon_EN_339x180.png",
+        "title": "Floating Dragon Hold and Spin™"
+    },
+    "mr-nulls-wicked-wares": {
+        "symbol": "vswaysmrcursc",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2026\/04\/Mr.-Nulls-Wicked-Wares_339x180_EN.png",
+        "title": "Mr Null’s Wicked Wares"
+    },
+    "triple-pot-plinko-hercules": {
+        "symbol": "vswaysplnk3p",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2026\/05\/Triple-Pot-Plinko-Hercules_339x180_EN.png",
+        "title": "Triple Pot Plinko – Hercules"
+    },
+    "dragons-gate-bonus-choice": {
+        "symbol": "vs50dragatebch",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2026\/05\/Dragons-Gate-Bonus-Choice_339x180_EN.png",
+        "title": "Dragon’s Gate – Bonus Choice"
+    },
+    "spaceman": {
+        "symbol": "",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2022\/03\/Spaceman_EN_339x180.png",
+        "title": "Spaceman"
+    },
+    "high-flyer": {
+        "symbol": "",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2024\/09\/High-Flyer_339x180.png",
+        "title": "High Flyer"
+    },
+    "the-dog-house-megaways-slot": {
+        "symbol": "vswaysdogs",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2020\/07\/DOHO_Megaways™_EN_339x180.png",
+        "title": "The Dog House Megaways™"
+    },
+    "sanatorium-secrets": {
+        "symbol": "vswayssanator",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2026\/05\/Sanatorium-Secrets_339x180_EN.png",
+        "title": "Sanatorium Secrets"
+    },
+    "jokers-revenge": {
+        "symbol": "vs5jkrrevenge",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2026\/05\/Jokers-Revenge_339x180.png",
+        "title": "Joker’s Revenge"
+    },
+    "caishens-cash-pots": {
+        "symbol": "vsways4ptgld",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2026\/05\/Caishens-Cash-Pots_339x180_EN.png",
+        "title": "Caishen’s Cash Pots"
+    },
+    "candy-rush": {
+        "symbol": "vs20candyia",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2026\/05\/Candy-Rush_339x180_EN.png",
+        "title": "Candy Rush"
+    },
+    "bear-crazy": {
+        "symbol": "vs20bigbbear",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2026\/06\/Bear-Crazy_339x180_EN.png",
+        "title": "Bear Crazy"
+    },
+    "mahjong-wins-triple-pot": {
+        "symbol": "vswaysmajhng3p",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2026\/06\/Mahjong-Wins-Triple-Pot_339x180_EN.png",
+        "title": "Mahjong Wins Triple Pot"
+    },
+    "better-barn-house-bonanza": {
+        "symbol": "vswaysbibebarn",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2026\/06\/Better-Barn-House-Bonanza_339x180_EN.png",
+        "title": "Better Barn House Bonanza"
+    },
+    "fury-of-anubis": {
+        "symbol": "vs20wraanu",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2026\/05\/Fury-of-Anubis_339x180.png",
+        "title": "Fury of Anubis"
+    },
+    "hell-butcher": {
+        "symbol": "vs20multcann",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2026\/06\/Hell-Butcher_339x180_EN.png",
+        "title": "Hell Butcher"
+    },
+    "luxor-of-cleopatra": {
+        "symbol": "vswaysladythf",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2026\/06\/Luxor-of-Cleopatra_339x180_EN.png",
+        "title": "Luxor of Cleopatra"
+    },
+    "big-bass-blast": {
+        "symbol": "vs10bbasblitz",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2026\/06\/Big-Bass-Blast_339x180_EN.png",
+        "title": "Big Bass Blast"
+    },
+    "out-of-the-woods": {
+        "symbol": "vs25bstackwild",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2026\/06\/Out-of-the-Woods_339x180_EN.png",
+        "title": "Out of the Woods"
+    },
+    "the-dog-house-megaways-1000": {
+        "symbol": "vswaysdh1000",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2026\/06\/The-Dog-House-Megaways-1000_339x180_EN.png",
+        "title": "The Dog House Megaways 1000"
+    },
+    "cosmic-clusters": {
+        "symbol": "vs20cjoinclust",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2026\/07\/Cosmic-Clusters_339x180_EN.png",
+        "title": "Cosmic Clusters!"
+    },
+    "sleeping-dragon-ultra-dark": {
+        "symbol": "vs10sleepdud",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2026\/07\/Sleeping-Dragon-Ultra-Dark_667x414_EN-339x180-1.png",
+        "title": "Sleeping Dragon Ultra Dark"
+    },
+    "sunnydaze-asylum": {
+        "symbol": "vswayssndzaslm",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2026\/07\/Sunnydaze-Asylum_339x180_EN.png",
+        "title": "Sunnydaze Asylum"
+    },
+    "happy-dragon": {
+        "symbol": "vs10dmreels",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2026\/03\/Happy-Dragon_339x180_NB.png",
+        "title": "Happy Dragon"
+    },
+    "code-of-cairo": {
+        "symbol": "vs5spjokfp",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/10\/Code-of-Cairo_339x180_NB.png",
+        "title": "Code of Cairo"
+    },
+    "dino-drop": {
+        "symbol": "vs5tdragresk",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/08\/Dino-Drop_339x180_B.png",
+        "title": "Dino Drop"
+    },
+    "emotiwins": {
+        "symbol": "vs10emotiwins",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/03\/Emotiwins_339x180_NB.png",
+        "title": "Emotiwins"
+    },
+    "jelly-candy": {
+        "symbol": "vs5jellyc",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/04\/Jelly-Candy_339x180_NB.png",
+        "title": "Jelly Candy"
+    },
+    "lucky-dice": {
+        "symbol": "vs5luckdce88",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/11\/Lucky-Dice_339x180_NB.png",
+        "title": "Lucky Dice"
+    },
+    "lucky-dog": {
+        "symbol": "vs5luckydogly",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/04\/Lucky-Dog_339x180_NB.png",
+        "title": "Lucky Dog"
+    },
+    "lucky-monkey": {
+        "symbol": "vs5luckymly",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/05\/Lucky-Monkey_339x180_NB.png",
+        "title": "Lucky Monkey"
+    },
+    "master-gems": {
+        "symbol": "vs1mjokfp",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/07\/Master-Gems_339x180_NB.png",
+        "title": "Master Gems"
+    },
+    "mystic-wishes": {
+        "symbol": "vs7fire88fp",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/10\/Mystic-Wishes_339x180_NB.png",
+        "title": "Mystic Wishes"
+    },
+    "pig-farm": {
+        "symbol": "vs25pfarmfp",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/06\/Pig-Farm_339x180_NB.png",
+        "title": "Pig Farm"
+    },
+    "lucky-phoenix": {
+        "symbol": "vs5luckyphnly",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/06\/Lucky-Phoenix_339x180_B.png",
+        "title": "Lucky Phoenix"
+    },
+    "tuts-treasure-tower": {
+        "symbol": "vs5luckytwr",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2026\/03\/Tuts-Treasure-Tower_339x180_B-1.png",
+        "title": "Tut’s Treasure Tower"
+    },
+    "lucky-tiger-gold": {
+        "symbol": "vs5luckytru",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2026\/02\/Lucky-Tiger-Gold_339x180_B-1.png",
+        "title": "Lucky Tiger Gold"
+    },
+    "lucky-fortune-tree": {
+        "symbol": "vssg5luckycol",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2026\/01\/Lucky-Fortune-Tree_339x180_B-1-1.png",
+        "title": "Lucky Fortune Tree"
+    },
+    "dj-neko": {
+        "symbol": "vs10djneko",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/12\/DJ-Neko_339x180_B-1.png",
+        "title": "DJ Neko"
+    },
+    "starlight-wins": {
+        "symbol": "vswayssw",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/07\/Starlight-Wins_339x180_B.png",
+        "title": "Starlight Wins"
+    },
+    "touro-sortudo": {
+        "symbol": "vs10fortnhs",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/02\/Touro-Sortudo_339x180_B-1-1.png",
+        "title": "Touro Sortudo"
+    },
+    "ratinho-sortudo": {
+        "symbol": "vs10forwild",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2024\/12\/Ratinho-Sortudo_339x180_B-1.png",
+        "title": "Ratinho Sortudo"
+    },
+    "fortune-of-aztec": {
+        "symbol": "vswaysaztecgm",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/07\/Fortune-of-Aztec_339x180_B.png",
+        "title": "Fortune of Aztec"
+    },
+    "plushie-wins": {
+        "symbol": "vs1dragon888",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/06\/Plushie-Wins_339x180_B.png",
+        "title": "Plushie Wins"
+    },
+    "lucky-tiger-1000": {
+        "symbol": "vs5luckyt1kly",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/05\/Lucky-Tiger-1000_339x180_B.png",
+        "title": "Lucky Tiger 1000"
+    },
+    "wealthy-frog": {
+        "symbol": "vs5wfrog",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/05\/Wealthy-Frog_339x180_B.png",
+        "title": "Wealthy Frog"
+    },
+    "lucky-ox": {
+        "symbol": "vs10fortnhsly",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/04\/Lucky-Bull_339x180_B-1.png",
+        "title": "Lucky Bull"
+    },
+    "lucky-mouse": {
+        "symbol": "vs10forwildly",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/03\/Lucky-Mouse_339x180_B.png",
+        "title": "Lucky Mouse"
+    },
+    "lucky-panda": {
+        "symbol": "vs5lckpnd",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/12\/Lucky-Panda_339x180_B.png",
+        "title": "Lucky Panda"
+    },
+    "happy-nets": {
+        "symbol": "vs20fishptrn",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/11\/Happy-Nets_339x180_B-2.png",
+        "title": "Happy Nets"
+    },
+    "777-rush": {
+        "symbol": "vs5t8goldfp",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/09\/777-Rush_339x180_B-1.png",
+        "title": "777 Rush"
+    },
+    "olympus-wins": {
+        "symbol": "vswaysolwfp",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/08\/Olympus-Wins-Super-Scatter_339x180_B.png",
+        "title": "Olympus Wins"
+    },
+    "lucky-tiger": {
+        "symbol": "vs5luckytigly",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/03\/Lucky-Tiger_339x180_B.png",
+        "title": "Lucky Tiger"
+    },
+    "sweet-bonanza-2500": {
+        "symbol": "vs20swbon2500",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2026\/04\/Sweet-Bonanza-2500_339x180_EN.png",
+        "title": "Sweet Bonanza 2500"
+    },
+    "the-big-dog-house": {
+        "symbol": "vs20bgdoghouse",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2026\/05\/The-Big-Dog-House_339x180_EN-1.png",
+        "title": "The Big Dog House"
+    },
+    "big-bass-football-bonanza": {
+        "symbol": "vs10bbwcup",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2026\/05\/Big-Bass-Football-Bonanza_339x180_EN.png",
+        "title": "Big Bass Football Bonanza"
+    },
+    "mahjong-wins-super-scatter": {
+        "symbol": "vswaysmwss",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2025\/05\/Mahjong-Wins-Super-Scatter_339x180.png",
+        "title": "Mahjong Wins Super Scatter"
+    },
+    "jade-legends": {
+        "symbol": "vs20jademrich",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2026\/07\/Jade-Legends_339x180_EN.png",
+        "title": "Jade Legends"
+    },
+    "super-serge": {
+        "symbol": "vswayssparkadv",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2026\/07\/Super-Serge_339x180_EN.png",
+        "title": "Super Serge"
+    },
+    "777-wheel-blitz": {
+        "symbol": "vs5wheel7s",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2026\/07\/777-Wheel-Blitz_339x180_EN.png",
+        "title": "777 Wheel Blitz"
+    },
+    "harvest-moon-grave-profits": {
+        "symbol": "vs15grprofits",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2026\/07\/Harvest-Moon-Grave-Profits_339x180_EN.png",
+        "title": "Harvest Moon – Grave Profits"
+    },
+    "golden-retriever": {
+        "symbol": "vs10goldenret",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2026\/07\/Golden-Retriever_339x180_EN-1.png",
+        "title": "Golden Retriever"
+    },
+    "death-dominion": {
+        "symbol": "vs20ddominion",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2026\/07\/Death-Dominion_339x180_EN.png",
+        "title": "Death Dominion"
+    },
+    "sweet-burst": {
+        "symbol": "vs10luckybnz",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2026\/01\/Sweet-Burst_339x180_B-1.png",
+        "title": "Sweet Burst"
+    },
+    "bubble-up": {
+        "symbol": "vs20bblup",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2026\/08\/Bubble-Up_339x180_EN.png",
+        "title": "Bubble Up!"
+    },
+    "heart-of-venus": {
+        "symbol": "vs20sugarrusha",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2026\/08\/Hearts-of-Venus_339x180_EN.png",
+        "title": "Heart of Venus"
+    },
+    "lucky-drums-88": {
+        "symbol": "vs20luckycoi88",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2026\/08\/Lucky-Drums-88_339x180_EN.png",
+        "title": "Lucky Drums 88"
+    },
+    "ra-vs-osiris": {
+        "symbol": "vs15raos",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2026\/08\/Ra-vs-Osiris_339x180_EN.png",
+        "title": "Ra vs Osiris"
+    },
+    "eternal-diamonds": {
+        "symbol": "vs50tphns",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2026\/08\/Eternal-Diamonds_339x180.png",
+        "title": "Eternal Diamonds"
+    },
+    "triple-hop-pots": {
+        "symbol": "vs5luckytpg",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2026\/08\/Triple-Hop-Pots_339x180_B.png",
+        "title": "Triple Hop Pots"
+    },
+    "freya-1000": {
+        "symbol": "vs10freya",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2026\/09\/Freya-1000_339x180_EN.png",
+        "title": "Freya 1000"
+    },
+    "coven-rising": {
+        "symbol": "vs20coven",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2026\/09\/Coven-Rising_339x180_EN.png",
+        "title": "Coven Rising"
+    },
+    "gates-of-olympus-pop": {
+        "symbol": "vs10olymppop",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2026\/07\/Gates-of-Olympus-POP_339x180_NB.png",
+        "title": "Gates of Olympus POP"
+    },
+    "gates-of-olympus-2500": {
+        "symbol": "vs20olympmmd",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2026\/09\/Gates-of-Olympus-2500_339x180_EN-1.png",
+        "title": "Gates of Olympus 2500"
+    },
+    "forever-split-megaways": {
+        "symbol": "vswaysmgrmgw",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2026\/09\/Forever-Split-Megaways_339x180_EN.png",
+        "title": "Forever Split Megaways™"
+    },
+    "deep-sea-frenzy": {
+        "symbol": "vs50frenzy",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2026\/09\/Deep-Sea-Frenzy_339x180_EN.png",
+        "title": "Deep Sea Frenzy"
+    },
+    "pelican-payday": {
+        "symbol": "vs10lckfshmn",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2026\/09\/Pelican-Payday_339x180_B.png",
+        "title": "Pelican Payday"
+    },
+    "helios-triple-sun": {
+        "symbol": "vs20olympuspot",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2026\/08\/Helios-Triple-Sun_339x180.png",
+        "title": "Helios – Triple Sun"
+    },
+    "eastern-fury": {
+        "symbol": "vs15eastfury",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2026\/08\/Eastern-Fury_339x180.png",
+        "title": "Eastern Fury"
+    },
+    "big-bass-vegas-1000": {
+        "symbol": "vs10bbveg1000",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2026\/09\/Big-Bass-Vegas-1000_339x180_EN.png",
+        "title": "Big Bass Vegas 1000"
+    },
+    "cheetah-wild": {
+        "symbol": "vswayscheetah",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2026\/10\/Cheetah-Wild_339x180_EN.png",
+        "title": "Cheetah Wild"
+    },
+    "big-bass-halloween-splash-1000": {
+        "symbol": "vs10bbsplxh",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2026\/10\/Big-Bass-Halloween-Splash-1000_339x180.png",
+        "title": "Big Bass Halloween Splash 1000"
+    },
+    "wonders-of-aztec": {
+        "symbol": "vs20gtsparta",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2026\/10\/Wonders-of-Aztec_339x180_EN.png",
+        "title": "Wonders of Aztec"
+    },
+    "chests-of-cai-shen-infinity": {
+        "symbol": "vs25caishen4",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2026\/10\/Chests-Of-Cai-Shen-Infinity_339x180_EN.png",
+        "title": "Chests Of Cai Shen – Infinity"
+    },
+    "sweet-loot": {
+        "symbol": "vs20stopbnnza",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2026\/10\/Sweet-Loot_339x180_EN.png",
+        "title": "Sweet Loot"
+    },
+    "killer-night": {
+        "symbol": "",
+        "thumb": "",
+        "title": "PragmaticSoftware Provider -"
+    },
+    "sweet-bonanza-pop": {
+        "symbol": "vs10swtbnz",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2026\/10\/Sweet-Bonanza-POP_339x180_NB.png",
+        "title": "Sweet Bonanza POP"
+    },
+    "rat-royale": {
+        "symbol": "vswaysratking",
+        "thumb": "https:\/\/www.pragmaticplay.com\/wp-content\/uploads\/2026\/10\/Rat-Royale_339x180.png",
+        "title": "Rat Royale"
+    },
+    "super-golden-spins": {
+        "symbol": "",
+        "thumb": "",
+        "title": "PragmaticSoftware Provider -"
+    }
+}

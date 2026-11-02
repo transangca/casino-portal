@@ -1,0 +1,533 @@
+{
+    "list": [
+      {
+        "id": 63,
+        "name": "Fortune Gems",
+        "name_ch": "财富宝石",
+        "img": "066.jpg",
+        "demoLink": "https://game-res-br-demo.rykdf.com/games/slofortunegems/index.html?server_url=wss://game-api-br-demo.rykdf.com/slofortunegems",
+        "gid": "slofortunegems",
+        "info": [
+          {
+            "key": "Reels",
+            "value": "3"
+          },
+          {
+            "key": "Lines",
+            "value": "5"
+          },
+          {
+            "key": "RTP",
+            "value": "96.85%"
+          }
+        ],
+        "status": 1
+      },
+      {
+        "id": 62,
+        "name": "Maneki Neko",
+        "name_ch": "招财猫",
+        "img": "065.jpg",
+        "demoLink": "https://goslo-demo.yxjgux.com/games/sloneko/index.html?server_url=wss://goslo-demo-game.yxjgux.com/sloneko",
+        "gid": "sloneko",
+        "info": [
+          {
+            "key": "Reels",
+            "value": "6"
+          },
+          {
+            "key": "Lines",
+            "value": "2025-32400"
+          },
+          {
+            "key": "RTP",
+            "value": "96.50%"
+          }
+        ],
+        "status": 1
+      },
+      {
+        "id": 61,
+        "name": "Mahjong wins Last-tile win",
+        "name_ch": "麻将胡了-海底捞月",
+        "img": "064.jpg",
+        "demoLink": "https://goslo-demo.yxjgux.com/games/slomahjong2/index.html?server_url=wss://goslo-demo-game.yxjgux.com/slomahjong2",
+        "gid": "slomahjong2",
+        "info": [
+          {
+            "key": "Reels",
+            "value": "5"
+          },
+          {
+            "key": "Lines",
+            "value": "2000"
+          },
+          {
+            "key": "RTP",
+            "value": "96.96%"
+          }
+        ],
+        "status": 1
+      },
+      {
+        "id": 60,
+        "name": "Empire of Gold",
+        "name_ch": "黄金帝国",
+        "img": "063.jpg",
+        "demoLink": "https://goslo-demo.yxjgux.com/games/slogoldenempire/index.html?server_url=wss://goslo-demo-game.yxjgux.com/slogoldenempire",
+        "gid": "slogoldenempire",
+        "info": [
+          {
+            "key": "Reels",
+            "value": "6"
+          },
+          {
+            "key": "Lines",
+            "value": "2025-32400"
+          },
+          {
+            "key": "RTP",
+            "value": "96.8%"
+          }
+        ],
+        "status": 1
+      },
+      {
+        "id": 59,
+        "name": "Phoenix Legend",
+        "name_ch": "凤凰传奇",
+        "img": "062.jpg",
+        "demoLink": "https://goslo-demo.yxjgux.com/games/slophoenixlegend/index.html?server_url=wss://goslo-demo-game.yxjgux.com/slophoenixlegend",
+        "gid": "slophoenixlegend",
+        "info": [
+          {
+            "key": "Reels",
+            "value": "5"
+          },
+          {
+            "key": "Lines",
+            "value": "10"
+          },
+          {
+            "key": "RTP",
+            "value": "96.50%"
+          }
+        ],
+        "status": 1
+      },
+      {
+        "id": 58,
+        "name": "Monkey's Grace",
+        "name_ch": "猴运连连",
+        "img": "061.jpg",
+        "demoLink": "https://goslo-demo.yxjgux.com/games/slofortunemonkey/index.html?server_url=wss://goslo-demo-game.yxjgux.com/slofortunemonkey",
+        "gid": "slofortunemonkey",
+        "info": [
+          {
+            "key": "Reels",
+            "value": "3"
+          },
+          {
+            "key": "Lines",
+            "value": "10"
+          },
+          {
+            "key": "RTP",
+            "value": "96.50%"
+          }
+        ],
+        "status": 1
+      },
+      {
+        "id": 57,
+        "name": "Chicken Dash",
+        "name_ch": "小鸡快跑",
+        "img": "060.jpg",
+        "demoLink": "https://game-res-br-demo.juan365.games/games/slochickendash/index.html?server_url=wss://game-api-br-demo.rykdf.com/slochickendash",
+        "gid": "slochickendash",
+        "info": [
+          {
+            "key": "Reels",
+            "value": "/"
+          },
+          {
+            "key": "Lines",
+            "value": "/"
+          },
+          {
+            "key": "RTP",
+            "value": "96.50%"
+          }
+        ],
+        "status": 1
+      },
+      {
+        "id": 56,
+        "name": "Hot & Wild Beach",
+        "name_ch": "热辣沙滩",
+        "img": "059.jpg",
+        "demoLink": "https://game-res-br-demo.juan365.games/games/slohotwildbeach/index.html?server_url=wss://game-api-br-demo.rykdf.com/slohotwildbeach",
+        "gid": "slohotwildbeach",
+        "info": [
+          {
+            "key": "Reels",
+            "value": "5"
+          },
+          {
+            "key": "Lines",
+            "value": "30"
+          },
+          {
+            "key": "RTP",
+            "value": "96.75%"
+          }
+        ],
+        "status": 1
+      },
+        {
+            "id": 55,
+            "name": "Zombie Hunter",
+            "name_ch": "生化危机",
+            "img": "058.jpg",
+            "demoLink": "https://game-res-br-demo.juan365.games/games/sloresidentevil/index.html?server_url=wss://game-api-br-demo.rykdf.com/sloresidentevil",
+            "gid": "sloresidentevil",
+            "info": [
+                {
+                    "key": "Reels",
+                    "value": "/"
+                },
+                {
+                    "key": "Lines",
+                    "value": "/"
+                },
+                {
+                    "key": "RTP",
+                    "value": "97.00%"
+                }
+            ],
+            "status": 1
+        },
+        {
+            "id": 54,
+            "name": "Joker Ace",
+            "name_ch": "同花顺了",
+            "img": "057.jpg",
+            "demoLink": "https://game-res-br-demo.juan365.games/games/slojokerwild/index.html?server_url=wss://game-api-br-demo.rykdf.com/slojokerwild",
+            "gid": "slojokerwild",
+            "info": [
+                {
+                    "key": "Reels",
+                    "value": "5"
+                },
+                {
+                    "key": "Lines",
+                    "value": "/"
+                },
+                {
+                    "key": "RTP",
+                    "value": "97.07%"
+                }
+            ],
+            "status": 1
+        },
+        {
+            "id": 53,
+            "name": "Tiger's Grace",
+            "name_ch": "福虎生财",
+            "img": "056.jpg",
+            "demoLink": "https://res.slo888.com/slo-pub/index.html?env=demo&plat=gw&gid=slofortunetiger&lang=en&port=443&gate=https://demoslo-game.yxjgux.comm",
+            "gid": "slofortunetiger",
+            "info": [
+                {
+                    "key": "Reels",
+                    "value": "3"
+                },
+                {
+                    "key": "Lines",
+                    "value": "5"
+                },
+                {
+                    "key": "RTP",
+                    "value": "96.66%"
+                }
+            ],
+            "status": 1
+        },
+        {
+            "id": 52,
+            "name": "Rabbit's Grace",
+            "name_ch": "幸运兔",
+            "img": "055.jpg",
+            "demoLink": "https://res.slo888.com/slo-pub/index.html?env=demo&plat=gw&gid=slorabbitnew&lang=en&port=443&gate=https://demoslo-game.yxjgux.comm",
+            "gid": "slorabbitnew",
+            "info": [
+                {
+                    "key": "Reels",
+                    "value": "3"
+                },
+                {
+                    "key": "Lines",
+                    "value": "10"
+                },
+                {
+                    "key": "RTP",
+                    "value": "96.54%"
+                }
+            ],
+            "status": 1
+        },
+        {
+            "id": 51,
+            "name": "Dragon's Grace",
+            "name_ch": "祥龙献宝",
+            "img": "054.jpg",
+            "demoLink": "https://res.slo888.com/slo-pub/index.html?env=demo&plat=gw&gid=slodragonnew&lang=en&port=443&gate=https://demoslo-game.yxjgux.comm",
+            "gid": "slodragonnew",
+            "info": [
+                {
+                    "key": "Reels",
+                    "value": "3"
+                },
+                {
+                    "key": "Lines",
+                    "value": "5"
+                },
+                {
+                    "key": "RTP",
+                    "value": "97.10%"
+                }
+            ],
+            "status": 1
+        },
+        {
+            "id": 50,
+            "name": "Huge Dollar",
+            "name_ch": "超级美元",
+            "img": "053.jpg",
+            "demoLink": "https://res.slo888.com/slo-pub/index.html?env=demo&plat=gw&gid=slocashmania&lang=en&port=443&gate=https://demoslo-game.yxjgux.comm",
+            "gid": "slocashmania",
+            "info": [
+                {
+                    "key": "Reels",
+                    "value": "1"
+                },
+                {
+                    "key": "Lines",
+                    "value": "1"
+                },
+                {
+                    "key": "RTP",
+                    "value": "97.00%"
+                }
+            ],
+            "status": 1
+        },
+        {
+            "id": 49,
+            "name": "Sabor Mexicano",
+            "name_ch": "风味墨西哥",
+            "img": "052.jpg",
+            "demoLink": "https://res.slo888.com/slo-pub/index.html?env=demo&plat=gw&gid=slotaco&lang=en&port=443&gate=https://demoslo-game.yxjgux.comm",
+            "gid": "slotaco",
+            "info": [
+                {
+                    "key": "Reels",
+                    "value": "6"
+                },
+                {
+                    "key": "Lines",
+                    "value": "/"
+                },
+                {
+                    "key": "RTP",
+                    "value": "97.10%"
+                }
+            ],
+            "status": 1
+        },
+        {
+            "id": 48,
+            "name": "Fortune Sheep",
+            "name_ch": "福羊盛宴",
+            "img": "051.jpg",
+            "demoLink": "https://res.slo888.com/slo-pub/index.html?env=demo&plat=gw&gid=slosheep&lang=en&port=443&gate=https://demoslo-game.yxjgux.comm",
+            "gid": "slosheep",
+            "info": [
+                {
+                    "key": "Reels",
+                    "value": "3"
+                },
+                {
+                    "key": "Lines",
+                    "value": "10"
+                },
+                {
+                    "key": "RTP",
+                    "value": "96.00%"
+                }
+            ],
+            "status": 1
+        },
+        {
+            "id": 47,
+            "name": "Fortuna Arara",
+            "name_ch": "里约大狂欢",
+            "img": "050.jpg",
+            "demoLink": "https://res.slo888.com/slo-pub/index.html?env=demo&plat=gw&gid=slorio&lang=en&port=443&gate=https://demoslo-game.yxjgux.comm",
+            "gid": "slorio",
+            "info": [
+                {
+                    "key": "Reels",
+                    "value": "3"
+                },
+                {
+                    "key": "Lines",
+                    "value": "5"
+                },
+                {
+                    "key": "RTP",
+                    "value": "96.66%"
+                }
+            ],
+            "status": 1
+        },
+        {
+            "id": 46,
+            "name": "Hoard of Aztec gold",
+            "name_ch": "阿兹特克的黄金",
+            "img": "049.jpg",
+            "demoLink": "https://res.slo888.com/slo-pub/index.html?env=demo&plat=gw&gid=sloaztec&lang=en&port=443&gate=https://demoslo-game.yxjgux.comm",
+            "gid": "sloaztec",
+            "info": [
+                {
+                    "key": "Reels",
+                    "value": "6"
+                },
+                {
+                    "key": "Lines",
+                    "value": "2025-32400"
+                },
+                {
+                    "key": "RTP",
+                    "value": "96.50%"
+                }
+            ],
+            "status": 1
+        },
+        {
+            "id": 4,
+            "name": "Glory of Rome",
+            "name_ch": "罗马的荣耀",
+            "img": "04.jpg",
+            "demoLink": "",
+            "gid": "sloroma",
+            "info": [
+                {
+                    "key": "Reels",
+                    "value": "6"
+                },
+                {
+                    "key": "Lines",
+                    "value": "2025-32400"
+                },
+                {
+                    "key": "RTP",
+                    "value": "96.46%"
+                }
+            ],
+            "status": 1
+        },
+        {
+            "id": 5,
+            "name": "JOGO DO BICHO",
+            "name_ch": "丛林派对",
+            "img": "05.jpg",
+            "demoLink": "https://res.slo888.com/slo-pub/index.html?env=demo&plat=gw&gid=sloaztec&lang=en&port=443&gate=https://demoslo-game.yxjgux.comm",
+            "gid": "slojogo",
+            "info": [
+                {
+                    "key": "Reels",
+                    "value": "5"
+                },
+                {
+                    "key": "Lines",
+                    "value": "30"
+                },
+                {
+                    "key": "RTP",
+                    "value": "96.15%"
+                }
+            ],
+            "status": 1
+        },
+        {
+            "id": 1,
+            "name": "Captains's Treasure",
+            "name_ch": "赏金海盗",
+            "img": "01.jpg",
+            "demoLink": "https://res.slo888.com/slo-pub/index.html?env=demo&plat=gw&gid=slocaptainsboundy&lang=en&port=443&gate=https://demoslo-game.yxjgux.comm",
+            "gid": "slocaptainsboundy",
+            "info": [
+                {
+                    "key": "Reels",
+                    "value": "5"
+                },
+                {
+                    "key": "Lines",
+                    "value": "20"
+                },
+                {
+                    "key": "RTP",
+                    "value": "96.45%"
+                }
+            ],
+            "status": 1
+        },
+        {
+            "id": 2,
+            "name": "Genie's 3 Fortune",
+            "name_ch": "神灯精灵",
+            "img": "02.jpg",
+            "demoLink": "https://res.slo888.com/slo-pub/index.html?env=demo&plat=gw&gid=slogenies3wishes&lang=en&port=443&gate=https://demoslo-game.yxjgux.com",
+            "gid": "slogenies3wishes",
+            "info": [
+                {
+                    "key": "Reels",
+                    "value": "5"
+                },
+                {
+                    "key": "Lines",
+                    "value": "243"
+                },
+                {
+                    "key": "RTP",
+                    "value": "96.40%"
+                }
+            ],
+            "status": 1
+        },
+        {
+            "id": 3,
+            "name": "Wrath of Olympus III",
+            "name_ch": "奥林匹斯之怒 III",
+            "img": "03.jpg",
+            "demoLink": "https://res.slo888.com/slo-pub/index.html?env=demo&plat=gw&gid=slogateofolympus&lang=en&port=443&gate=https://demoslo-game.yxjgux.com",
+            "gid": "slogateofolympus",
+            "info": [
+                {
+                    "key": "Reels",
+                    "value": "6"
+                },
+                {
+                    "key": "Lines",
+                    "value": "-"
+                },
+                {
+                    "key": "RTP",
+                    "value": "96.50%"
+                }
+            ],
+            "status": 1
+        }
+    ]
+}

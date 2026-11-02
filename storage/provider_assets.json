@@ -1,0 +1,383 @@
+{
+    "sexy": {
+        "logo": "",
+        "promo": "",
+        "video": "",
+        "poster": ""
+    },
+    "tg": {
+        "logo": "https://img6.wsimg.com/ux-assets/favicon/apple-icon-57x57.png",
+        "promo": "",
+        "video": "",
+        "poster": ""
+    },
+    "dg": {
+        "logo": "https://dggame.io/wp-content/uploads/2026/04/cropped-WhatsApp_Image_2026-04-12_at_6.59.22_PM-removebg-preview-32x32.png",
+        "promo": "https://dggame.io/wp-content/uploads/2026/04/WhatsApp_Image_2026-04-12_at_6.59.22_PM-removebg-preview.png",
+        "video": "",
+        "poster": "https://dggame.io/wp-content/uploads/2026/04/WhatsApp_Image_2026-04-12_at_6.59.22_PM-removebg-preview.png"
+    },
+    "wm": {
+        "logo": "",
+        "promo": "",
+        "video": "",
+        "poster": ""
+    },
+    "evo": {
+        "logo": "https://cdn.evolution.com/uploads/evolution_logo_full_white_60f6ca525e.svg",
+        "promo": "https://cdn.evolution.com/uploads/new_website_launch_3d2aa65f7a.png",
+        "video": "https://cdn.evolution.com/uploads/homepage_2_cae0b68131.mp4",
+        "poster": "https://cdn.evolution.com/uploads/video_placeholder_1920x823_e63b46b20d.jpg"
+    },
+    "mt": {
+        "logo": "https://microgaming.io/wp-content/themes/wp-starter/img/microgaming-logo.png",
+        "promo": "https://microgaming.io/wp-content/uploads/2025/11/SEO_coverImage_thumbnail_fb_1640x856.png",
+        "video": "",
+        "poster": "https://microgaming.io/wp-content/uploads/2025/11/SEO_coverImage_thumbnail_fb_1640x856.png"
+    },
+    "choice": {
+        "logo": "",
+        "promo": "",
+        "video": "",
+        "poster": ""
+    },
+    "playtech": {
+        "logo": "https://www.playtech.com/app/uploads/2023/08/logo-asset.svg",
+        "promo": "https://www.playtech.com/app/uploads/2023/09/fbshare.jpg",
+        "video": "",
+        "poster": "https://www.playtech.com/app/uploads/2023/12/home-bg_final.svg"
+    },
+    "bg": {
+        "error": "fetch fail"
+    },
+    "bbin": {
+        "logo": "https://img.sedoparking.com/templates/logos/sedo_logo.png",
+        "promo": "",
+        "video": "",
+        "poster": ""
+    },
+    "mg-live": {
+        "logo": "",
+        "promo": "https://mgameimage.gscdn.com/mgamezzang/contents/mgamefooter/btn_confirm_email.png",
+        "video": "",
+        "poster": "https://mgameimage.gscdn.com/mgamezzang/contents/mgamefooter/btn_confirm_email.png"
+    },
+    "hrg": {
+        "logo": "https://hungvuong.com/wp-content/uploads/2015/12/cropped-logo_32x32-32x32.jpg",
+        "promo": "https://hungvuong.com/wp-content/uploads/2019/04/IMG_0331-2c.jpg",
+        "video": "",
+        "poster": "https://hungvuong.com/wp-content/uploads/2019/04/IMG_0331-2c.jpg"
+    },
+    "sa": {
+        "logo": "",
+        "promo": "",
+        "video": "",
+        "poster": ""
+    },
+    "pgsoft": {
+        "logo": "https://www.pgsoft.com/_nuxt/img/nav_common_logo_white@2x.0a1ef47.png",
+        "promo": "https://www.pgsoft.com/_nuxt/img/Gibraltar@2x.e3fd90d.png",
+        "video": "",
+        "poster": "https://www.pgsoft.com/_nuxt/img/Gibraltar@2x.e3fd90d.png"
+    },
+    "fc": {
+        "logo": "",
+        "promo": "",
+        "video": "",
+        "poster": ""
+    },
+    "vg": {
+        "logo": "",
+        "promo": "https://www.vgslot.net/man-behind-desk.png",
+        "video": "",
+        "poster": "https://www.vgslot.net/man-behind-desk.png"
+    },
+    "168game": {
+        "logo": "https://168game.net/logo.png",
+        "promo": "https://168game.net/img/knco2q0g.jpg",
+        "video": "",
+        "poster": "https://168game.net/img/knco2q0g.jpg"
+    },
+    "jdb": {
+        "logo": "https://www.jdbgames.com/wp-content/uploads/2021/11/cropped-jdb-logo-Converted-1-1-74x100.png",
+        "promo": "",
+        "video": "",
+        "poster": ""
+    },
+    "mw": {
+        "logo": "https://microgaming.io/wp-content/themes/wp-starter/img/microgaming-logo.png",
+        "promo": "https://microgaming.io/wp-content/uploads/2025/11/SEO_coverImage_thumbnail_fb_1640x856.png",
+        "video": "",
+        "poster": "https://microgaming.io/wp-content/uploads/2025/11/SEO_coverImage_thumbnail_fb_1640x856.png"
+    },
+    "wg": {
+        "logo": "",
+        "promo": "https://wegame.gtimg.com/g.55555-r.c4663/wegame-home/wegame-h5-share.f036f35a.jpg",
+        "video": "",
+        "poster": "https://wegame.gtimg.com/g.55555-r.c4663/wegame-home/wegame-h5-share.f036f35a.jpg"
+    },
+    "tp": {
+        "error": "fetch fail"
+    },
+    "va": {
+        "logo": "https://forsale.spaceship-cdn.com/static/latest/3.latest/assets/fonts/spaceship-logo.svg",
+        "promo": "",
+        "video": "",
+        "poster": ""
+    },
+    "nextspin": {
+        "logo": "",
+        "promo": "",
+        "video": "",
+        "poster": ""
+    },
+    "pragmatic-play": {
+        "logo": "https://www.pragmaticplay.com/wp-content/themes/gp-theme-basic/libs/dist/images/halloween-logo-white.png",
+        "promo": "https://www.pragmaticplay.com/wp-content/uploads/2018/10/PPLogo.jpg",
+        "video": "",
+        "poster": "https://www.pragmaticplay.com/wp-content/uploads/2018/10/PPLogo.jpg"
+    },
+    "as-gaming": {
+        "logo": "https://img.sedoparking.com/templates/logos/sedo_logo.png",
+        "promo": "",
+        "video": "",
+        "poster": ""
+    },
+    "mg": {
+        "logo": "",
+        "promo": "https://mgameimage.gscdn.com/mgamezzang/contents/mgamefooter/btn_confirm_email.png",
+        "video": "",
+        "poster": "https://mgameimage.gscdn.com/mgamezzang/contents/mgamefooter/btn_confirm_email.png"
+    },
+    "cq9": {
+        "logo": "https://images.hfyali.com/CQ9website/common/logo.png",
+        "promo": "https://images.hfyali.com/citrus/newshomebanner-en-pc/7nODGE5R.png",
+        "video": "",
+        "poster": "https://images.hfyali.com/citrus/newshomebanner-en-pc/7nODGE5R.png"
+    },
+    "vp": {
+        "logo": "https://www.vpslot.net/games.php/./images/logo-03.webp",
+        "promo": "https://www.vpslot.net/games.php/./images/promotiom.webp",
+        "video": "",
+        "poster": "https://www.vpslot.net/games.php/./images/promotiom.webp"
+    },
+    "bng": {
+        "logo": "https://bngames.com/css/logo.png",
+        "promo": "https://img.bngames.com//shoot-em-all.jpg",
+        "video": "",
+        "poster": "https://img.bngames.com//shoot-em-all.jpg"
+    },
+    "bgaming": {
+        "logo": "https://bgaming.com/wp-content/uploads/2025/03/63f4c9689497e0d7c32f4a31_BGaming_logo.svg",
+        "promo": "https://bgaming.com/wp-content/uploads/2025/11/Games-Portfolio-banner-1200x600-1.png",
+        "video": "",
+        "poster": "https://bgaming.com/wp-content/uploads/2026/10/BG-2.webp"
+    },
+    "759gaming": {
+        "logo": "",
+        "promo": "",
+        "video": "",
+        "poster": ""
+    },
+    "jili-fishing": {
+        "logo": "https://wbgame.jlfafafa3.com/All-In-One/production/img/jiliPlusPlayer/logo_jili_us-en.png",
+        "promo": "https://wbgame.jlfafafa3.com/All-In-One/production/img/jiliPlusPlayer/aboutus.png",
+        "video": "",
+        "poster": "https://wbgame.jlfafafa3.com/All-In-One/production/img/jiliPlusPlayer/aboutus.png"
+    },
+    "tp-fishing": {
+        "error": "fetch fail"
+    },
+    "fc-fishing": {
+        "logo": "",
+        "promo": "",
+        "video": "",
+        "poster": ""
+    },
+    "jdb-fishing": {
+        "logo": "https://www.jdbgames.com/wp-content/uploads/2021/11/cropped-jdb-logo-Converted-1-1-74x100.png",
+        "promo": "",
+        "video": "",
+        "poster": ""
+    },
+    "wg-fishing": {
+        "logo": "",
+        "promo": "https://wegame.gtimg.com/g.55555-r.c4663/wegame-home/wegame-h5-share.f036f35a.jpg",
+        "video": "",
+        "poster": "https://wegame.gtimg.com/g.55555-r.c4663/wegame-home/wegame-h5-share.f036f35a.jpg"
+    },
+    "cq9-fishing": {
+        "logo": "https://images.hfyali.com/CQ9website/common/logo.png",
+        "promo": "https://images.hfyali.com/citrus/newshomebanner-en-pc/7nODGE5R.png",
+        "video": "",
+        "poster": "https://images.hfyali.com/citrus/newshomebanner-en-pc/7nODGE5R.png"
+    },
+    "ky-fishing": {
+        "logo": "https://cdn-proxy.globalcontentcloud.com/2/logo/logo.svg",
+        "promo": "https://cdn-proxy.globalcontentcloud.com/2/dist/icons/icon_512x512.dec338.png",
+        "video": "",
+        "poster": "https://cdn-proxy.globalcontentcloud.com/2/dist/icons/icon_512x512.dec338.png"
+    },
+    "fastspin": {
+        "logo": "https://forsale.spaceship-cdn.com/static/latest/5.latest/assets/fonts/spaceship-logo.svg",
+        "promo": "",
+        "video": "",
+        "poster": ""
+    },
+    "spribe": {
+        "logo": "https://www.spribe.com/favicon.ico?v=2",
+        "promo": "",
+        "video": "",
+        "poster": ""
+    },
+    "x-game": {
+        "logo": "https://theme.hstatic.net/1000289578/1000464320/14/logo.png?v=3560",
+        "promo": "http://theme.hstatic.net/1000289578/1000464320/14/share_fb_home.png?v=3560",
+        "video": "",
+        "poster": "http://theme.hstatic.net/1000289578/1000464320/14/share_fb_home.png?v=3560"
+    },
+    "bgaming-crash": {
+        "logo": "https://bgaming.com/wp-content/uploads/2025/03/63f4c9689497e0d7c32f4a31_BGaming_logo.svg",
+        "promo": "https://bgaming.com/wp-content/uploads/2025/11/Games-Portfolio-banner-1200x600-1.png",
+        "video": "",
+        "poster": "https://bgaming.com/wp-content/uploads/2026/10/BG-2.webp"
+    },
+    "wg-crash": {
+        "logo": "",
+        "promo": "https://wegame.gtimg.com/g.55555-r.c4663/wegame-home/wegame-h5-share.f036f35a.jpg",
+        "video": "",
+        "poster": "https://wegame.gtimg.com/g.55555-r.c4663/wegame-home/wegame-h5-share.f036f35a.jpg"
+    },
+    "jili-crash": {
+        "logo": "https://wbgame.jlfafafa3.com/All-In-One/production/img/jiliPlusPlayer/logo_jili_us-en.png",
+        "promo": "https://wbgame.jlfafafa3.com/All-In-One/production/img/jiliPlusPlayer/aboutus.png",
+        "video": "",
+        "poster": "https://wbgame.jlfafafa3.com/All-In-One/production/img/jiliPlusPlayer/aboutus.png"
+    },
+    "in-crash": {
+        "logo": "https://inoutgames.com/wp-content/uploads/2025/06/inoutgames-logo.png",
+        "promo": "https://inoutgames.com/wp-content/uploads/2025/06/favicon.png",
+        "video": "",
+        "poster": "https://inoutgames.com/wp-content/uploads/2025/06/favicon.png"
+    },
+    "jdb-crash": {
+        "logo": "https://www.jdbgames.com/wp-content/uploads/2021/11/cropped-jdb-logo-Converted-1-1-74x100.png",
+        "promo": "",
+        "video": "",
+        "poster": ""
+    },
+    "mw-crash": {
+        "logo": "https://microgaming.io/wp-content/themes/wp-starter/img/microgaming-logo.png",
+        "promo": "https://microgaming.io/wp-content/uploads/2025/11/SEO_coverImage_thumbnail_fb_1640x856.png",
+        "video": "",
+        "poster": "https://microgaming.io/wp-content/uploads/2025/11/SEO_coverImage_thumbnail_fb_1640x856.png"
+    },
+    "saba": {
+        "logo": "https://www.thesabamynews.com/wp-content/uploads/2024/01/logo_en-w.png",
+        "promo": "https://www.thesabamynews.com/wp-content/uploads/2024/04/downloaded_image-296-450x326.jpg",
+        "video": "",
+        "poster": "https://www.thesabamynews.com/wp-content/uploads/2024/04/downloaded_image-296-450x326.jpg"
+    },
+    "bti": {
+        "error": "fetch fail"
+    },
+    "cmd": {
+        "error": "fetch fail"
+    },
+    "im": {
+        "logo": "https://static.wixstatic.com/media/1069a0_9f8d67b4db2c4329af2355d95c035164~mv2.png/v1/fill/w_258,h_41,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/bmm%20testlabs%20LOGO%20(1)%20(1).png",
+        "promo": "https://static.wixstatic.com/media/1069a0_019b19c8a94e4d66983da2aefbda7138%7Emv2.png/v1/fit/w_2500,h_1330,al_c/1069a0_019b19c8a94e4d66983da2aefbda7138%7Emv2.png",
+        "video": "",
+        "poster": "https://static.wixstatic.com/media/1069a0_019b19c8a94e4d66983da2aefbda7138%7Emv2.png/v1/fit/w_2500,h_1330,al_c/1069a0_019b19c8a94e4d66983da2aefbda7138%7Emv2.png"
+    },
+    "poly": {
+        "logo": "https://static.hugedomains.com/images/hdv3-img/hd-header-logo-v3.svg",
+        "promo": "https://static.hugedomains.com/images/hdv3-img/og_hugedomains.png",
+        "video": "",
+        "poster": "https://static.hugedomains.com/images/hdv3-img/og_hugedomains.png"
+    },
+    "crown-sport": {
+        "logo": "https://www.crownsport.com/crown-sport-logo.jpg",
+        "promo": "",
+        "video": "",
+        "poster": ""
+    },
+    "3sing": {
+        "logo": "https://3singsport.win/assets/img/Logo/3singlogo-white.png",
+        "promo": "https://3singsport.win/assets/img/banner/hero-img-sp1-a-en.png",
+        "video": "",
+        "poster": "https://3singsport.win/assets/img/banner/hero-img-sp1-a-en.png"
+    },
+    "v8": {
+        "error": "fetch fail"
+    },
+    "king": {
+        "logo": "https://kingmidasgames.net/_next/image?url=%2Flogo_km_new.png&amp;w=3840&amp;q=75&amp;dpl=dpl_GGNCKSdx3UPktLdcSZdRnp4MqqNg",
+        "promo": "https://kingmidasgames.com/opengraph-image?c20d8bac6935b291",
+        "video": "",
+        "poster": "https://kingmidasgames.com/opengraph-image?c20d8bac6935b291"
+    },
+    "jili-card": {
+        "logo": "https://wbgame.jlfafafa3.com/All-In-One/production/img/jiliPlusPlayer/logo_jili_us-en.png",
+        "promo": "https://wbgame.jlfafafa3.com/All-In-One/production/img/jiliPlusPlayer/aboutus.png",
+        "video": "",
+        "poster": "https://wbgame.jlfafafa3.com/All-In-One/production/img/jiliPlusPlayer/aboutus.png"
+    },
+    "wg-card": {
+        "logo": "",
+        "promo": "https://wegame.gtimg.com/g.55555-r.c4663/wegame-home/wegame-h5-share.f036f35a.jpg",
+        "video": "",
+        "poster": "https://wegame.gtimg.com/g.55555-r.c4663/wegame-home/wegame-h5-share.f036f35a.jpg"
+    },
+    "ky-card": {
+        "logo": "https://cdn-proxy.globalcontentcloud.com/2/logo/logo.svg",
+        "promo": "https://cdn-proxy.globalcontentcloud.com/2/dist/icons/icon_512x512.dec338.png",
+        "video": "",
+        "poster": "https://cdn-proxy.globalcontentcloud.com/2/dist/icons/icon_512x512.dec338.png"
+    },
+    "funky": {
+        "error": "fetch fail"
+    },
+    "mw-card": {
+        "logo": "https://microgaming.io/wp-content/themes/wp-starter/img/microgaming-logo.png",
+        "promo": "https://microgaming.io/wp-content/uploads/2025/11/SEO_coverImage_thumbnail_fb_1640x856.png",
+        "video": "",
+        "poster": "https://microgaming.io/wp-content/uploads/2025/11/SEO_coverImage_thumbnail_fb_1640x856.png"
+    },
+    "tcg": {
+        "logo": "https://tcg.com.vn/wp-content/uploads/2024/02/logo-tcg-100x27.png",
+        "promo": "https://tcg.com.vn/wp-content/uploads/2024/03/logo-TCGCorporaton-3D.png",
+        "video": "",
+        "poster": "https://tcg.com.vn/wp-content/uploads/2024/03/logo-TCGCorporaton-3D.png"
+    },
+    "db": {
+        "logo": "https://db789.io/logo.png",
+        "promo": "https://db789.io/img/5RYPI8DDXYZ.jpg",
+        "video": "",
+        "poster": "https://db789.io/img/5RYPI8DDXYZ.jpg"
+    },
+    "bbin-lottery": {
+        "logo": "https://img.sedoparking.com/templates/logos/sedo_logo.png",
+        "promo": "",
+        "video": "",
+        "poster": ""
+    },
+    "saba-lottery": {
+        "logo": "https://www.thesabamynews.com/wp-content/uploads/2024/01/logo_en-w.png",
+        "promo": "https://www.thesabamynews.com/wp-content/uploads/2024/04/downloaded_image-296-450x326.jpg",
+        "video": "",
+        "poster": "https://www.thesabamynews.com/wp-content/uploads/2024/04/downloaded_image-296-450x326.jpg"
+    },
+    "wg-lottery": {
+        "logo": "",
+        "promo": "https://wegame.gtimg.com/g.55555-r.c4663/wegame-home/wegame-h5-share.f036f35a.jpg",
+        "video": "",
+        "poster": "https://wegame.gtimg.com/g.55555-r.c4663/wegame-home/wegame-h5-share.f036f35a.jpg"
+    },
+    "jili": {
+        "logo": "https://wbgame.jlfafafa3.com/All-In-One/production/img/jiliPlusPlayer/logo_jili_us-en.png",
+        "promo": "https://wbgame.jlfafafa3.com/All-In-One/production/img/jiliPlusPlayer/aboutus.png",
+        "video": "",
+        "poster": "https://wbgame.jlfafafa3.com/All-In-One/production/img/jiliPlusPlayer/aboutus.png"
+    }
+}

@@ -1,0 +1,250 @@
+/* ============================================================
+   DENO CASINO SHOWCASE — Casino trực tiếp CQ9 Live
+   ============================================================ */
+
+.deno-showcase {
+    position: relative;
+    overflow: hidden;
+    padding: 3rem 0 3.2rem;
+    background:
+        radial-gradient(1000px 500px at 12% 10%, rgba(245, 197, 66, .13), transparent 60%),
+        radial-gradient(880px 440px at 88% 82%, rgba(79, 209, 197, .11), transparent 62%),
+        linear-gradient(165deg, #08060f 0%, #120c22 48%, #07060d 100%);
+    border-top: 1px solid rgba(255, 255, 255, .06);
+    border-bottom: 1px solid rgba(255, 255, 255, .06);
+}
+
+.deno-head {
+    text-align: center;
+    margin-bottom: 1.8rem;
+}
+
+.deno-eyebrow {
+    display: inline-flex;
+    align-items: center;
+    gap: .45rem;
+    font-size: .74rem;
+    font-weight: 700;
+    letter-spacing: .14em;
+    text-transform: uppercase;
+    color: #f5c542;
+    background: rgba(245, 197, 66, .10);
+    border: 1px solid rgba(245, 197, 66, .28);
+    border-radius: 999px;
+    padding: .3rem .9rem;
+    margin-bottom: .8rem;
+}
+
+.deno-head h2 {
+    font-size: clamp(1.35rem, 3.2vw, 2.1rem);
+    font-weight: 800;
+    color: #f8f5ef;
+    margin-bottom: .5rem;
+}
+
+.deno-head p {
+    color: #9a92a8;
+    max-width: 660px;
+    margin: 0 auto;
+    font-size: .95rem;
+}
+
+/* ---------- Banner ---------- */
+.deno-banners {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: .7rem;
+    margin-bottom: 1.8rem;
+}
+
+.deno-banner {
+    border-radius: 12px;
+    overflow: hidden;
+    border: 1px solid rgba(255, 255, 255, .08);
+    background: rgba(255, 255, 255, .03);
+    aspect-ratio: 16 / 7;
+}
+
+.deno-banner img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+    transition: transform .45s ease;
+}
+
+.deno-banner:hover img {
+    transform: scale(1.06);
+}
+
+/* ---------- Nhóm bàn ---------- */
+.deno-groups {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 1rem;
+    margin-bottom: 1.8rem;
+}
+
+.deno-group {
+    background: rgba(20, 17, 31, .72);
+    border: 1px solid rgba(255, 255, 255, .08);
+    border-radius: 16px;
+    padding: 1rem 1.05rem 1.15rem;
+    backdrop-filter: blur(6px);
+}
+
+.deno-group-head {
+    display: flex;
+    align-items: center;
+    gap: .7rem;
+    margin-bottom: .85rem;
+    padding-bottom: .7rem;
+    border-bottom: 1px solid rgba(255, 255, 255, .07);
+}
+
+.deno-group-icon {
+    width: 42px;
+    height: 42px;
+    border-radius: 11px;
+    flex-shrink: 0;
+    background: rgba(0, 0, 0, .35);
+}
+
+.deno-group-head h3 {
+    font-size: .98rem;
+    font-weight: 700;
+    color: #f8f5ef;
+    margin: 0;
+}
+
+.deno-group-head span {
+    font-size: .76rem;
+    color: #8d85a0;
+}
+
+.deno-tables {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(118px, 1fr));
+    gap: .42rem;
+    max-height: 232px;
+    overflow-y: auto;
+    padding-right: .25rem;
+}
+
+.deno-tables::-webkit-scrollbar { width: 5px; }
+.deno-tables::-webkit-scrollbar-track { background: rgba(255,255,255,.04); border-radius: 4px; }
+.deno-tables::-webkit-scrollbar-thumb { background: rgba(245,197,66,.35); border-radius: 4px; }
+
+.deno-table {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: .12rem;
+    padding: .5rem .3rem;
+    border-radius: 10px;
+    background: rgba(255, 255, 255, .045);
+    border: 1px solid rgba(255, 255, 255, .07);
+    text-decoration: none;
+    transition: border-color .2s ease, background .2s ease, transform .2s ease;
+}
+
+.deno-table:hover {
+    background: rgba(245, 197, 66, .12);
+    border-color: rgba(245, 197, 66, .45);
+    transform: translateY(-2px);
+}
+
+.deno-table-id {
+    font-family: 'JetBrains Mono', Consolas, monospace;
+    font-size: .88rem;
+    font-weight: 700;
+    color: #f5c542;
+    letter-spacing: .02em;
+}
+
+.deno-table-name {
+    font-size: .68rem;
+    color: #8d85a0;
+    text-align: center;
+    line-height: 1.2;
+    max-width: 100%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.deno-table i {
+    font-size: .72rem;
+    color: rgba(245, 197, 66, .6);
+    margin-top: .1rem;
+}
+
+.deno-table:hover i {
+    color: #f5c542;
+}
+
+/* ---------- Marquee ---------- */
+.deno-marquee {
+    position: relative;
+    overflow: hidden;
+    border-radius: 12px;
+    border: 1px solid rgba(245, 197, 66, .18);
+    background: rgba(245, 197, 66, .05);
+    padding: .55rem 0;
+    margin-bottom: 1.7rem;
+    -webkit-mask-image: linear-gradient(90deg, transparent, #000 5%, #000 95%, transparent);
+    mask-image: linear-gradient(90deg, transparent, #000 5%, #000 95%, transparent);
+    opacity: 0;
+    animation: denoMarqueeFade 1.6s ease-out .25s forwards;
+}
+
+@keyframes denoMarqueeFade {
+    from { opacity: 0; transform: translateY(6px); }
+    to   { opacity: 1; transform: translateY(0); }
+}
+
+.deno-marquee-track {
+    display: flex;
+    gap: 2.4rem;
+    width: max-content;
+    animation: denoMarquee 90s linear infinite;
+    will-change: transform;
+}
+
+.deno-marquee:hover .deno-marquee-track {
+    animation-play-state: paused;
+}
+
+.deno-marquee-item {
+    display: inline-flex;
+    align-items: center;
+    gap: .45rem;
+    font-size: .82rem;
+    color: #cfc7dd;
+    white-space: nowrap;
+}
+
+.deno-marquee-item i {
+    color: #f5c542;
+    font-size: .74rem;
+}
+
+@keyframes denoMarquee {
+    from { transform: translateX(0); }
+    to   { transform: translateX(-50%); }
+}
+
+/* ---------- CTA ---------- */
+.deno-cta {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: .8rem;
+}
+
+@media (max-width: 768px) {
+    .deno-banners { grid-template-columns: repeat(2, 1fr); }
+    .deno-tables  { grid-template-columns: repeat(auto-fill, minmax(96px, 1fr)); }
+    .deno-marquee-track { animation-duration: 30s; }
+}

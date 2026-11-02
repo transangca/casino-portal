@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Giftcode">
+  <defs>
+    <linearGradient id="gf" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#f7c948"/>
+      <stop offset="100%" stop-color="#e08a1e"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="14" fill="url(#gf)"/>
+  <rect x="14" y="26" width="36" height="24" rx="3" fill="#fff" opacity=".95"/>
+  <rect x="14" y="26" width="36" height="8" rx="3" fill="#e08a1e"/>
+  <rect x="28" y="26" width="8" height="24" fill="#e08a1e" opacity=".55"/>
+  <path d="M32 26c-8 0-11-3-11-6.5S24 14 32 26zM32 26c8 0 11-3 11-6.5S40 14 32 26z" fill="#c96f10"/>
+</svg>
