@@ -1,0 +1,292 @@
+{
+  "generated": "2026-11-02T11:41:39.907Z",
+  "baseUrl": "http://127.0.0.1:8000",
+  "total": 57,
+  "pages": [
+    {
+      "idx": 1,
+      "file": "01-trang-chu.png",
+      "url": "/"
+    },
+    {
+      "idx": 2,
+      "file": "02-kho-game.png",
+      "url": "/games"
+    },
+    {
+      "idx": 3,
+      "file": "03-chi-tiet-game.png",
+      "url": "/games/crypto-gold"
+    },
+    {
+      "idx": 4,
+      "file": "04-sanh-game.png",
+      "url": "/lobbies"
+    },
+    {
+      "idx": 5,
+      "file": "05-sanh-pgsoft.png",
+      "url": "/lobbies/pgsoft"
+    },
+    {
+      "idx": 6,
+      "file": "06-sanh-deno-casino.png",
+      "url": "/lobbies/deno-casino"
+    },
+    {
+      "idx": 7,
+      "file": "07-cong-cu-tien-ich.png",
+      "url": "/tools"
+    },
+    {
+      "idx": 8,
+      "file": "08-dien-dan.png",
+      "url": "/services/forum"
+    },
+    {
+      "idx": 9,
+      "file": "09-xem-phim.png",
+      "url": "/services/media"
+    },
+    {
+      "idx": 10,
+      "file": "10-tao-cv.png",
+      "url": "/services/cv"
+    },
+    {
+      "idx": 11,
+      "file": "11-thiet-ke-anh.png",
+      "url": "/services/design"
+    },
+    {
+      "idx": 12,
+      "file": "12-tao-website.png",
+      "url": "/services/website-builder"
+    },
+    {
+      "idx": 13,
+      "file": "13-kho-proxy.png",
+      "url": "/services/proxy"
+    },
+    {
+      "idx": 14,
+      "file": "14-vps-vmware.png",
+      "url": "/services/vps"
+    },
+    {
+      "idx": 15,
+      "file": "15-vps-storevps.png",
+      "url": "/services/vps-storevps"
+    },
+    {
+      "idx": 16,
+      "file": "16-mua-domain-hosting.png",
+      "url": "/services/infra"
+    },
+    {
+      "idx": 17,
+      "file": "17-pos-ke-toan.png",
+      "url": "/services/pos"
+    },
+    {
+      "idx": 18,
+      "file": "18-tra-cuu-ngan-hang.png",
+      "url": "/services/bank-lookup"
+    },
+    {
+      "idx": 19,
+      "file": "19-api-docs.png",
+      "url": "/api/docs"
+    },
+    {
+      "idx": 20,
+      "file": "20-api-spec.png",
+      "url": "/api/spec"
+    },
+    {
+      "idx": 21,
+      "file": "21-dang-nhap.png",
+      "url": "/login"
+    },
+    {
+      "idx": 22,
+      "file": "22-dang-ky.png",
+      "url": "/register"
+    },
+    {
+      "idx": 23,
+      "file": "23-tin-tuc.png",
+      "url": "/news"
+    },
+    {
+      "idx": 24,
+      "file": "24-vip-tiers.png",
+      "url": "/packages"
+    },
+    {
+      "idx": 25,
+      "file": "25-thu-vien.png",
+      "url": "/market"
+    },
+    {
+      "idx": 26,
+      "file": "26-admin-dashboard.png",
+      "url": "/admin"
+    },
+    {
+      "idx": 27,
+      "file": "27-admin-users.png",
+      "url": "/admin/users"
+    },
+    {
+      "idx": 28,
+      "file": "28-admin-games.png",
+      "url": "/admin/games"
+    },
+    {
+      "idx": 29,
+      "file": "29-admin-deposits.png",
+      "url": "/admin/deposits"
+    },
+    {
+      "idx": 30,
+      "file": "30-admin-withdrawals.png",
+      "url": "/admin/withdrawals"
+    },
+    {
+      "idx": 31,
+      "file": "31-admin-packages.png",
+      "url": "/admin/packages"
+    },
+    {
+      "idx": 32,
+      "file": "32-admin-banks.png",
+      "url": "/admin/banks"
+    },
+    {
+      "idx": 33,
+      "file": "33-admin-virtual-bank.png",
+      "url": "/admin/virtual-bank"
+    },
+    {
+      "idx": 34,
+      "file": "34-admin-ai-accounts.png",
+      "url": "/admin/ai-accounts"
+    },
+    {
+      "idx": 35,
+      "file": "35-admin-vuavia.png",
+      "url": "/admin/vuavia-accounts"
+    },
+    {
+      "idx": 36,
+      "file": "36-admin-otp.png",
+      "url": "/admin/otp-rental"
+    },
+    {
+      "idx": 37,
+      "file": "37-admin-auto-bank.png",
+      "url": "/admin/auto-bank"
+    },
+    {
+      "idx": 38,
+      "file": "38-admin-automxh.png",
+      "url": "/admin/automxh"
+    },
+    {
+      "idx": 39,
+      "file": "39-admin-smm.png",
+      "url": "/admin/smm"
+    },
+    {
+      "idx": 40,
+      "file": "40-admin-vps.png",
+      "url": "/admin/vps"
+    },
+    {
+      "idx": 41,
+      "file": "41-admin-vps-storevps.png",
+      "url": "/admin/vps-storevps"
+    },
+    {
+      "idx": 42,
+      "file": "42-admin-cso.png",
+      "url": "/admin/cso"
+    },
+    {
+      "idx": 43,
+      "file": "43-admin-tickets.png",
+      "url": "/admin/tickets"
+    },
+    {
+      "idx": 44,
+      "file": "44-admin-news.png",
+      "url": "/admin/news"
+    },
+    {
+      "idx": 45,
+      "file": "45-admin-ads.png",
+      "url": "/admin/ads"
+    },
+    {
+      "idx": 46,
+      "file": "46-admin-child-sites.png",
+      "url": "/admin/child-sites"
+    },
+    {
+      "idx": 47,
+      "file": "47-admin-settings.png",
+      "url": "/admin/settings"
+    },
+    {
+      "idx": 48,
+      "file": "48-admin-security.png",
+      "url": "/admin/security"
+    },
+    {
+      "idx": 49,
+      "file": "49-admin-service-prices.png",
+      "url": "/admin/service-prices"
+    },
+    {
+      "idx": 50,
+      "file": "50-admin-service-overview.png",
+      "url": "/admin/service-overview"
+    },
+    {
+      "idx": 51,
+      "file": "51-admin-phone-checks.png",
+      "url": "/admin/phone-checks"
+    },
+    {
+      "idx": 52,
+      "file": "52-admin-site-jobs.png",
+      "url": "/admin/site-jobs"
+    },
+    {
+      "idx": 53,
+      "file": "53-admin-sms-campaigns.png",
+      "url": "/admin/sms-campaigns"
+    },
+    {
+      "idx": 54,
+      "file": "54-admin-campaigns.png",
+      "url": "/admin/campaigns"
+    },
+    {
+      "idx": 55,
+      "file": "55-admin-giftcodes.png",
+      "url": "/admin/giftcodes"
+    },
+    {
+      "idx": 56,
+      "file": "56-admin-market.png",
+      "url": "/admin/market"
+    },
+    {
+      "idx": 57,
+      "file": "57-admin-accounting.png",
+      "url": "/services/accounting"
+    }
+  ]
+}
